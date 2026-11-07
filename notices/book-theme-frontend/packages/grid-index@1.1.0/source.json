@@ -1,0 +1,29 @@
+{
+  "name": "grid-index",
+  "version": "1.1.0",
+  "lock_keys": [
+    "grid-index"
+  ],
+  "lock_integrities": [
+    "sha512-HZRwumpOGUrHyxO5bqKZL0B0GlUpwtCAzZ42sgxUPniu33R1LSFH5yrIcBCHjkctCAh3mtWKcKd9J4vDDdeVHA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/grid-index/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/grid-index/-/grid-index-1.1.0.tgz",
+  "npm_integrity": "sha512-HZRwumpOGUrHyxO5bqKZL0B0GlUpwtCAzZ42sgxUPniu33R1LSFH5yrIcBCHjkctCAh3mtWKcKd9J4vDDdeVHA==",
+  "tarball_sha256": "c18f0757cce00782a61515a5f9770a4150febf6f2c1431b993fe55bfbb4612fb",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mapbox/grid-index.git",
+    "type": "git"
+  },
+  "git_head": "326d635014ee31eda95a46a294e6bb555b90c8ba",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/grid-index@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "bdc2176275547505d0aa0c908e07053063bfcf04d285364d9032233b5c4c5a9b",
+      "bytes": 725
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

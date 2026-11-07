@@ -1,0 +1,7 @@
+Exact legal declarations from official npm package files.
+
+Source member: package/readme.md
+## License
+
+© 2018 Dmitry Yv. MIT License
+

@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/properties",
+  "version": "2.0.4",
+  "lock_keys": [
+    "@lumino/properties"
+  ],
+  "lock_integrities": [
+    "sha512-XsL2qLZk+1FbfuTrkyjciI8PMDw3YcaBkqVQ+iv7OOJf9bUlrmTpCMY0Hu5d3hV2W3TWlRsdbvRRLEBJSKv0iA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/properties/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/@lumino/properties/-/properties-2.0.4.tgz",
+  "npm_integrity": "sha512-XsL2qLZk+1FbfuTrkyjciI8PMDw3YcaBkqVQ+iv7OOJf9bUlrmTpCMY0Hu5d3hV2W3TWlRsdbvRRLEBJSKv0iA==",
+  "tarball_sha256": "5603f685b7ed7fa1073fd47d06f96022deb0de8e5039abbc23a3181f0bd07561",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__properties@2.0.4/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/properties@2.0.4/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

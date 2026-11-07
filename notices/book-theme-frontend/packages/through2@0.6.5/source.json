@@ -1,0 +1,29 @@
+{
+  "name": "through2",
+  "version": "0.6.5",
+  "lock_keys": [
+    "glsl-tokenizer/through2"
+  ],
+  "lock_integrities": [
+    "sha512-RkK/CCESdTKQZHdmKICijdKKsCRVHs5KsLZ6pACAmF/1GPUQhonHSXWNERctxEp7RmvjdNbZTL5z9V7nSCXKcg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/through2/0.6.5",
+  "tarball_url": "https://registry.npmjs.org/through2/-/through2-0.6.5.tgz",
+  "npm_integrity": "sha512-RkK/CCESdTKQZHdmKICijdKKsCRVHs5KsLZ6pACAmF/1GPUQhonHSXWNERctxEp7RmvjdNbZTL5z9V7nSCXKcg==",
+  "tarball_sha256": "c7b3907c8ac9d4786f6aeff8d09380267e76369e00a3811b97492668f556112e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "https://github.com/rvagg/through2.git",
+    "type": "git"
+  },
+  "git_head": "ba4a87875f2c82323c10023e36f4ae4b386c1bf8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/through2@0.6.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2cb181dde66fd7dea0dd4f728497bf41672f3b848c0278e98a67b54c53d80f00",
+      "bytes": 1811
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

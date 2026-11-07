@@ -1,0 +1,29 @@
+{
+  "name": "cytoscape-cose-bilkent",
+  "version": "4.1.0",
+  "lock_keys": [
+    "cytoscape-cose-bilkent"
+  ],
+  "lock_integrities": [
+    "sha512-wgQlVIUJF13Quxiv5e1gstZ08rnZj2XaLHGoFMYXz7SkNfCDOOteKBE6SYRfA9WxxI/iBc3ajfDoc6hb/MRAHQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/cytoscape-cose-bilkent/4.1.0",
+  "tarball_url": "https://registry.npmjs.org/cytoscape-cose-bilkent/-/cytoscape-cose-bilkent-4.1.0.tgz",
+  "npm_integrity": "sha512-wgQlVIUJF13Quxiv5e1gstZ08rnZj2XaLHGoFMYXz7SkNfCDOOteKBE6SYRfA9WxxI/iBc3ajfDoc6hb/MRAHQ==",
+  "tarball_sha256": "9df46b10952452b1d2a5d4cd942f70709a037bc6b7ef25cf1d9fb70be73bb950",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/cytoscape/cytoscape.js-cose-bilkent.git",
+    "type": "git"
+  },
+  "git_head": "999090a8438b4f14788d636ef4fd7a5355e29e8c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/cytoscape-cose-bilkent@4.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "440fc58a56a12814e417d2b341da89b050da052dc75bdb235607d37ec5fe74ef",
+      "bytes": 1084
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

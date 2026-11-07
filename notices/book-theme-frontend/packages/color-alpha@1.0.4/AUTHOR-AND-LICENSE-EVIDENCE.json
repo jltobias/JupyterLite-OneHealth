@@ -1,0 +1,14 @@
+{
+  "name": "color-alpha",
+  "version": "1.0.4",
+  "author_attribution": {
+    "name": "\u0394Y",
+    "email": "dfcreative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/color-alpha/1.0.4",
+  "tarball_url": "https://registry.npmjs.org/color-alpha/-/color-alpha-1.0.4.tgz",
+  "git_head": "9d0b7b2091ef0d6341171c5a8e667b372749135f",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

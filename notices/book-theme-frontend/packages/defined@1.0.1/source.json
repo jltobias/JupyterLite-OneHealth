@@ -1,0 +1,29 @@
+{
+  "name": "defined",
+  "version": "1.0.1",
+  "lock_keys": [
+    "defined"
+  ],
+  "lock_integrities": [
+    "sha512-hsBd2qSVCRE+5PmNdHt1uzyrFu5d3RwmFDKzyNZMFq/EwDNJF7Ee5+D5oEKF0hU6LhtoUF1macFvOe4AskQC1Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/defined/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/defined/-/defined-1.0.1.tgz",
+  "npm_integrity": "sha512-hsBd2qSVCRE+5PmNdHt1uzyrFu5d3RwmFDKzyNZMFq/EwDNJF7Ee5+D5oEKF0hU6LhtoUF1macFvOe4AskQC1Q==",
+  "tarball_sha256": "04c279efd196f3aa8c4f673f4ac39519a7bc5e4eca45b2f9b690c46b36c4e28b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/inspect-js/defined.git",
+    "type": "git"
+  },
+  "git_head": "8613a02bb55958a035d1988113d4814e2928b293",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/defined@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

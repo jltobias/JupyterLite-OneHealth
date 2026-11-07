@@ -1,0 +1,51 @@
+{
+  "name": "color-normalize",
+  "version": "1.5.0",
+  "lock_keys": [
+    "color-normalize"
+  ],
+  "lock_integrities": [
+    "sha512-rUT/HDXMr6RFffrR53oX3HGWkDOP9goSAQGBkUaAYKjOE2JxozccdGyufageWDlInRAjm/jYPrf/Y38oa+7obw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-normalize/1.5.0",
+  "tarball_url": "https://registry.npmjs.org/color-normalize/-/color-normalize-1.5.0.tgz",
+  "npm_integrity": "sha512-rUT/HDXMr6RFffrR53oX3HGWkDOP9goSAQGBkUaAYKjOE2JxozccdGyufageWDlInRAjm/jYPrf/Y38oa+7obw==",
+  "tarball_sha256": "9704f66316b5c20c450d43f0ffc3b26970a298a758033f530da31eea9e3321f7",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/colorjs/color-normalize.git",
+    "type": "git"
+  },
+  "git_head": "f6208c96124d17da76d13989f240f3e4976b17e2",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-normalize@1.5.0/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "3c4c8be49673000617892aedfe5dc2ec3900efa679b34ffeff5fc1210a83b92b",
+      "bytes": 138
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/color-normalize@1.5.0/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/color-normalize/1.5.0",
+      "sha256": "c54bb7f8790968a7d5f58e2442d7dd9b92ea180e0f0e923ca50bb7e476936afe",
+      "bytes": 678,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

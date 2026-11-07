@@ -1,0 +1,29 @@
+{
+  "name": "has-passive-events",
+  "version": "1.0.0",
+  "lock_keys": [
+    "has-passive-events"
+  ],
+  "lock_integrities": [
+    "sha512-2vSj6IeIsgvsRMyeQ0JaCX5Q3lX4zMn5HpoVc7MEhQ6pv8Iq9rsXjsp+E5ZwaT7T0xhMT0KmU8gtt1EFVdbJiw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/has-passive-events/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/has-passive-events/-/has-passive-events-1.0.0.tgz",
+  "npm_integrity": "sha512-2vSj6IeIsgvsRMyeQ0JaCX5Q3lX4zMn5HpoVc7MEhQ6pv8Iq9rsXjsp+E5ZwaT7T0xhMT0KmU8gtt1EFVdbJiw==",
+  "tarball_sha256": "3c4c597f97e09ea3108944cd91f5ba937c7882e7d647a18a57fa2866516104a4",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/has-passive-events.git",
+    "type": "git"
+  },
+  "git_head": "30e8e9b39f2fae0e9c654ec6d5ea440f065281da",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/has-passive-events@1.0.0/license.md",
+      "source_member": "package/license.md",
+      "sha256": "e9dd54ddece97061ebc2153110fcfeac1b0579e8556c0b07b195f004b00ff7fc",
+      "bytes": 1101
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

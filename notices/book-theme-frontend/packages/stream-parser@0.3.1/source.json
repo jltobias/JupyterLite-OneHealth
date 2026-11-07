@@ -1,0 +1,29 @@
+{
+  "name": "stream-parser",
+  "version": "0.3.1",
+  "lock_keys": [
+    "stream-parser"
+  ],
+  "lock_integrities": [
+    "sha512-bJ/HgKq41nlKvlhccD5kaCr/P+Hu0wPNKPJOH7en+YrJu/9EgqUF+88w5Jb6KNcjOFMhfX4B2asfeAtIGuHObQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/stream-parser/0.3.1",
+  "tarball_url": "https://registry.npmjs.org/stream-parser/-/stream-parser-0.3.1.tgz",
+  "npm_integrity": "sha512-bJ/HgKq41nlKvlhccD5kaCr/P+Hu0wPNKPJOH7en+YrJu/9EgqUF+88w5Jb6KNcjOFMhfX4B2asfeAtIGuHObQ==",
+  "tarball_sha256": "fb4547a3da1f1b100096320e2d40b34ab6e9e98abff64721850aa065dc1e8b9f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/TooTallNate/node-stream-parser.git",
+    "type": "git"
+  },
+  "git_head": "a0e021b9757be0dce764b7f60e23dd678b05f12f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/stream-parser@0.3.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5fe787805ffedb6cc45b0962e6de294df5dec1b62f9fdf4a5d0e121819d11edc",
+      "bytes": 1102
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

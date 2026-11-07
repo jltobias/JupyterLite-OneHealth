@@ -1,0 +1,51 @@
+{
+  "name": "@choojs/findup",
+  "version": "0.2.1",
+  "lock_keys": [
+    "@choojs/findup"
+  ],
+  "lock_integrities": [
+    "sha512-YstAqNb0MCN8PjdLCDfRsBcGVRN41f3vgLvaI0IrIcBp4AqILRSS0DeWNGkicC+f/zRIPJLc+9RURVSepwvfBw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@choojs/findup/0.2.1",
+  "tarball_url": "https://registry.npmjs.org/@choojs/findup/-/findup-0.2.1.tgz",
+  "npm_integrity": "sha512-YstAqNb0MCN8PjdLCDfRsBcGVRN41f3vgLvaI0IrIcBp4AqILRSS0DeWNGkicC+f/zRIPJLc+9RURVSepwvfBw==",
+  "tarball_sha256": "63c0e4111be9e1052ba06abde305d9c4da175c861829fbcdf68e736b26fa90c6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/choojs/findup.git",
+    "type": "git"
+  },
+  "git_head": "cbdcbdc8896a123ac83f41f82ae8d4ec2809a97e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/choojs__findup@0.2.1/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/README.md"
+      ],
+      "sha256": "6f44429fea3e1592be36686c00500c4d5d3d5e639fc93726fd84433003b183fd",
+      "bytes": 110
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/choojs__findup@0.2.1/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/@choojs/findup/0.2.1",
+      "sha256": "83878d02ed40d7c477583b0e213ac98091b3994f6a33291bf623a19867f56237",
+      "bytes": 663,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Filirom1",
+    "email": "filirom1@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

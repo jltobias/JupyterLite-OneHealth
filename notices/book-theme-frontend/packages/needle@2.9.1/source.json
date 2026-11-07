@@ -1,0 +1,29 @@
+{
+  "name": "needle",
+  "version": "2.9.1",
+  "lock_keys": [
+    "needle"
+  ],
+  "lock_integrities": [
+    "sha512-6R9fqJ5Zcmf+uYaFgdIHmLwNldn5HbK8L5ybn7Uz+ylX/rnOsSp1AHcvQSrCaFN+qNM1wpymHqD7mVasEOlHGQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/needle/2.9.1",
+  "tarball_url": "https://registry.npmjs.org/needle/-/needle-2.9.1.tgz",
+  "npm_integrity": "sha512-6R9fqJ5Zcmf+uYaFgdIHmLwNldn5HbK8L5ybn7Uz+ylX/rnOsSp1AHcvQSrCaFN+qNM1wpymHqD7mVasEOlHGQ==",
+  "tarball_sha256": "ffe36a6d680fa2adc25ba3d0ff5f5a9681ceb9ff9d1e3efc3f0195cba4864720",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tomas/needle.git",
+    "type": "git"
+  },
+  "git_head": "b4913a5d77afbdcaa49ceaa3bf6b34706d2b1bbf",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/needle@2.9.1/license.txt",
+      "source_member": "package/license.txt",
+      "sha256": "33956869cf70ecaecf83b722d8d01e5252e9915ae6f86f07528114e62c93bb23",
+      "bytes": 1050
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

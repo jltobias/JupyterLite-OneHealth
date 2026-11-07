@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/algorithm",
+  "version": "2.0.4",
+  "lock_keys": [
+    "@lumino/algorithm"
+  ],
+  "lock_integrities": [
+    "sha512-gddBhESPqu25KWLeAK9Kz8tS9Ph7P45i0CNG7Ia4XMhK9PHLtTsBdJTC9jP+MqhbzC8zDT/4ekvYRV9ojRPj7Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/algorithm/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/@lumino/algorithm/-/algorithm-2.0.4.tgz",
+  "npm_integrity": "sha512-gddBhESPqu25KWLeAK9Kz8tS9Ph7P45i0CNG7Ia4XMhK9PHLtTsBdJTC9jP+MqhbzC8zDT/4ekvYRV9ojRPj7Q==",
+  "tarball_sha256": "bf6c1002ce5ebcb37757aac4a559b584ed62e8739111891dfde03509cac32ae0",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__algorithm@2.0.4/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/algorithm@2.0.4/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

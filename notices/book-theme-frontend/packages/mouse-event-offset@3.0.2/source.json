@@ -1,0 +1,29 @@
+{
+  "name": "mouse-event-offset",
+  "version": "3.0.2",
+  "lock_keys": [
+    "mouse-event-offset"
+  ],
+  "lock_integrities": [
+    "sha512-s9sqOs5B1Ykox3Xo8b3Ss2IQju4UwlW6LSR+Q5FXWpprJ5fzMLefIIItr3PH8RwzfGy6gxs/4GAmiNuZScE25w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/mouse-event-offset/3.0.2",
+  "tarball_url": "https://registry.npmjs.org/mouse-event-offset/-/mouse-event-offset-3.0.2.tgz",
+  "npm_integrity": "sha512-s9sqOs5B1Ykox3Xo8b3Ss2IQju4UwlW6LSR+Q5FXWpprJ5fzMLefIIItr3PH8RwzfGy6gxs/4GAmiNuZScE25w==",
+  "tarball_sha256": "4d695b979c3942545a01f034a3f60387f814a6324531c3c7dd7f98b5190590e2",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mattdesl/mouse-event-offset.git",
+    "type": "git"
+  },
+  "git_head": "82805f285f8483f2373d2bf20f62f9eb8d79f74d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mouse-event-offset@3.0.2/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "91515553fda3d86e82454bab0eb876a2cb9a31c0dcb8be640870fed624e53697",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

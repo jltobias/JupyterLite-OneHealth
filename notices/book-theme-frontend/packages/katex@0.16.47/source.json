@@ -1,0 +1,29 @@
+{
+  "name": "katex",
+  "version": "0.16.47",
+  "lock_keys": [
+    "katex"
+  ],
+  "lock_integrities": [
+    "sha512-Eeo8Ys1doU1z+x8AZsPpQu+p/QcZBI5PeOo7QGQdy2x2m0MU/hYagBbGOmXwr5KVbEfVuWv9LpnQWeehogurjg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/katex/0.16.47",
+  "tarball_url": "https://registry.npmjs.org/katex/-/katex-0.16.47.tgz",
+  "npm_integrity": "sha512-Eeo8Ys1doU1z+x8AZsPpQu+p/QcZBI5PeOo7QGQdy2x2m0MU/hYagBbGOmXwr5KVbEfVuWv9LpnQWeehogurjg==",
+  "tarball_sha256": "ad2d1ab2f7fcc227019784320e8a2c5218ff6bb333b36df4136d10365ae29375",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/KaTeX/KaTeX.git",
+    "type": "git"
+  },
+  "git_head": "878a61be7743a8ec4ee725b0b5efa810b5167c79",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/katex@0.16.47/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "766ccc1f306c885aa45542a9846bbd0a505b27a0374f146778171c2254ce18e3",
+      "bytes": 1107
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

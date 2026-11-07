@@ -1,0 +1,29 @@
+{
+  "name": "unquote",
+  "version": "1.1.1",
+  "lock_keys": [
+    "unquote"
+  ],
+  "lock_integrities": [
+    "sha512-vRCqFv6UhXpWxZPyGDh/F3ZpNv8/qo7w6iufLpQg9aKnQ71qM4B5KiI7Mia9COcjEhrO9LueHpMYjYzsWH3OIg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/unquote/1.1.1",
+  "tarball_url": "https://registry.npmjs.org/unquote/-/unquote-1.1.1.tgz",
+  "npm_integrity": "sha512-vRCqFv6UhXpWxZPyGDh/F3ZpNv8/qo7w6iufLpQg9aKnQ71qM4B5KiI7Mia9COcjEhrO9LueHpMYjYzsWH3OIg==",
+  "tarball_sha256": "0d0c4e107e6dcda7a458741327317674e4a681fafe1ba48b1388efd2a5f2afe0",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lakenen/node-unquote.git",
+    "type": "git"
+  },
+  "git_head": "1fd68c5a789afa2fac29965c408fcbd045c39392",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/unquote@1.1.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "10ce70def59838624a4da56a04784d0b743051f455311f7d6f585296ce2d5c3b",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

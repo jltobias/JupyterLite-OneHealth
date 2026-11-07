@@ -1,0 +1,55 @@
+name: Build and publish OneHealth
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install pinned tools
+        run: python -m pip install -r requirements.txt
+      - name: Execute, build and validate
+        env:
+          PYTHONUTF8: '1'
+        run: |
+          python scripts/build.py --base-url "/${{ github.event.repository.name }}"
+          node scripts/check_explorer.cjs
+          python scripts/check_acquisition.py
+      - name: Install browser verification tools
+        run: |
+          python -m pip install -r requirements-verify.txt
+          python -m playwright install --with-deps chromium
+      - name: Verify browser views and fresh Python kernels
+        run: |
+          python scripts/serve.py > /tmp/onehealth-server.log 2>&1 &
+          python scripts/check_browser.py
+          python scripts/check_lite.py --all
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

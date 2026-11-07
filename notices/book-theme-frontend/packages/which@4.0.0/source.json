@@ -1,0 +1,29 @@
+{
+  "name": "which",
+  "version": "4.0.0",
+  "lock_keys": [
+    "global-prefix/which"
+  ],
+  "lock_integrities": [
+    "sha512-GlaYyEb07DPxYCKhKzplCWBJtvxZcZMrL+4UkrTSJHHPyZU4mYYTv3qaOe77H7EODLSSopAUFAc6W8U4yqvscg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/which/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/which/-/which-4.0.0.tgz",
+  "npm_integrity": "sha512-GlaYyEb07DPxYCKhKzplCWBJtvxZcZMrL+4UkrTSJHHPyZU4mYYTv3qaOe77H7EODLSSopAUFAc6W8U4yqvscg==",
+  "tarball_sha256": "96040e2364f1c92135cda8df7f00249cc16c4e2cf049e29fc6ec6f619e6e88a4",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/npm/node-which.git",
+    "type": "git"
+  },
+  "git_head": "3038155822c2e6f38694843ede2ca03ee841a2e8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/which@4.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+      "bytes": 765
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mumath",
+  "version": "3.3.4",
+  "author_attribution": {
+    "name": "dfcreative"
+  },
+  "license_declaration": "Unlicense",
+  "metadata_url": "https://registry.npmjs.org/mumath/3.3.4",
+  "tarball_url": "https://registry.npmjs.org/mumath/-/mumath-3.3.4.tgz",
+  "git_head": "c714bce301520be6b37189625fc35bc222323a6a",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/Unlicense.txt"
+}

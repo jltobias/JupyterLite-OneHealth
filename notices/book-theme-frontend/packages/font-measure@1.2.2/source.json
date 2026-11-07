@@ -1,0 +1,51 @@
+{
+  "name": "font-measure",
+  "version": "1.2.2",
+  "lock_keys": [
+    "font-measure"
+  ],
+  "lock_integrities": [
+    "sha512-mRLEpdrWzKe9hbfaF3Qpr06TAjquuBVP5cHy4b3hyeNdjc9i0PO6HniGsX5vjL5OWv7+Bd++NiooNpT/s8BvIA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/font-measure/1.2.2",
+  "tarball_url": "https://registry.npmjs.org/font-measure/-/font-measure-1.2.2.tgz",
+  "npm_integrity": "sha512-mRLEpdrWzKe9hbfaF3Qpr06TAjquuBVP5cHy4b3hyeNdjc9i0PO6HniGsX5vjL5OWv7+Bd++NiooNpT/s8BvIA==",
+  "tarball_sha256": "abd7f2019ddb970223f6014a939e150875e72be311a31d84c67c519e8a24d896",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/font-measure.git",
+    "type": "git"
+  },
+  "git_head": "8745876bcc4575cc11a7952f3c8e70366c79ca99",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/font-measure@1.2.2/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "6a1c78c46bf43de4c1cf586808ccb15266531eff5da3d8eae21a3a3fbd42e386",
+      "bytes": 174
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/font-measure@1.2.2/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/font-measure/1.2.2",
+      "sha256": "a3f2558b011006405e5d73f09e9354376a21593a4764469867a5c8372525cc33",
+      "bytes": 666,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

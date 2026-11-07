@@ -1,0 +1,19 @@
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.geojson text eol=lf
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.tif binary
+*.png binary
+web/vendor/** -text -diff linguist-vendored
+notices/** -text -diff
+content/data/pixels.csv -diff
+content/data/tracts.geojson -diff
+content/data/profile-package.json -diff

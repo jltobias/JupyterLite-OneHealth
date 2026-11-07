@@ -1,0 +1,29 @@
+{
+  "name": "d3-force",
+  "version": "3.0.0",
+  "lock_keys": [
+    "d3-force"
+  ],
+  "lock_integrities": [
+    "sha512-zxV/SsA+U4yte8051P4ECydjD/S+qeYtnaIyAs9tgHCqfguma/aAQDjo85A9Z6EKhBirHRJHXIgJUlffT4wdLg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-force/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/d3-force/-/d3-force-3.0.0.tgz",
+  "npm_integrity": "sha512-zxV/SsA+U4yte8051P4ECydjD/S+qeYtnaIyAs9tgHCqfguma/aAQDjo85A9Z6EKhBirHRJHXIgJUlffT4wdLg==",
+  "tarball_sha256": "deacfa7ecb466f88717fe1863347dd65e5a5422d9f8c893d771cb2a7f987fa15",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-force.git",
+    "type": "git"
+  },
+  "git_head": "156712c8c3285d77cb487e1685c5adafcd0394a4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-force@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

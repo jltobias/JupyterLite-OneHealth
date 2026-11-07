@@ -1,0 +1,29 @@
+{
+  "name": "resolve-protobuf-schema",
+  "version": "2.1.0",
+  "lock_keys": [
+    "resolve-protobuf-schema"
+  ],
+  "lock_integrities": [
+    "sha512-kI5ffTiZWmJaS/huM8wZfEMer1eRd7oJQhDuxeCLe3t7N7mX3z94CN0xPxBQxFYQTSNz9T0i+v6inKqSdK8xrQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/resolve-protobuf-schema/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/resolve-protobuf-schema/-/resolve-protobuf-schema-2.1.0.tgz",
+  "npm_integrity": "sha512-kI5ffTiZWmJaS/huM8wZfEMer1eRd7oJQhDuxeCLe3t7N7mX3z94CN0xPxBQxFYQTSNz9T0i+v6inKqSdK8xrQ==",
+  "tarball_sha256": "3e80010114da31a6f2a09345c62b7b9d67640d816df0f5099cecdeb9342517c5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mafintosh/resolve-protobuf-schema.git",
+    "type": "git"
+  },
+  "git_head": "a1cc27799461a4bd5445717422655a73d9fcb0b7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/resolve-protobuf-schema@2.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c0993ca46cd47c09710a977d3a3d51602cff96f19e8d2eb8d5887aa20a7beead",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

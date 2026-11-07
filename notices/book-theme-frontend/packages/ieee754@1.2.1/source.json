@@ -1,0 +1,29 @@
+{
+  "name": "ieee754",
+  "version": "1.2.1",
+  "lock_keys": [
+    "ieee754"
+  ],
+  "lock_integrities": [
+    "sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/ieee754/1.2.1",
+  "tarball_url": "https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz",
+  "npm_integrity": "sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==",
+  "tarball_sha256": "8ef14b9b397e339db89db97881fb714f49319d8f0eb1275901f45567b28f9dac",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git://github.com/feross/ieee754.git",
+    "type": "git"
+  },
+  "git_head": "b60d148be9cad718f9ff007c211c2427cdc180a4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/ieee754@1.2.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "18d45466ba3253deae04667e267a91ea8de8548f18c1125264d1c9db28194cc1",
+      "bytes": 1465
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

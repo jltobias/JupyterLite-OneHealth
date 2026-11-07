@@ -1,0 +1,6 @@
+Exact legal declarations from official npm package files.
+
+Source member: package/README.md
+### LICENSE MIT
+
+

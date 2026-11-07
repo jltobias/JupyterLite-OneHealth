@@ -1,0 +1,29 @@
+{
+  "name": "@plotly/regl",
+  "version": "2.1.2",
+  "lock_keys": [
+    "regl"
+  ],
+  "lock_integrities": [
+    "sha512-Mdk+vUACbQvjd0m/1JJjOOafmkp/EpmHjISsopEz5Av44CBq7rPC05HHNbYGKVyNUF2zmEoBS/TT0pd0SPFFyw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@plotly/regl/2.1.2",
+  "tarball_url": "https://registry.npmjs.org/@plotly/regl/-/regl-2.1.2.tgz",
+  "npm_integrity": "sha512-Mdk+vUACbQvjd0m/1JJjOOafmkp/EpmHjISsopEz5Av44CBq7rPC05HHNbYGKVyNUF2zmEoBS/TT0pd0SPFFyw==",
+  "tarball_sha256": "802bb1eee911f6a038b8a71828e94d19ddec63ee46fce89bd17ddecdc5ac9870",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/regl.git",
+    "type": "git"
+  },
+  "git_head": "fc43ebec2ecb1c043de69f48eb0649496e6b7311",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly__regl@2.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "42d997d1f47c9222dec2844468fc2a4fd144c6950d698eade460e94537ddcdd3",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

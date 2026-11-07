@@ -1,0 +1,29 @@
+{
+  "name": "tinycolor2",
+  "version": "1.6.0",
+  "lock_keys": [
+    "tinycolor2"
+  ],
+  "lock_integrities": [
+    "sha512-XPaBkWQJdsf3pLKJV9p4qN/S+fm2Oj8AIPo1BTUhg5oxkvm9+SVEGFdhyOz7tTdUTfvxMiAs4sp6/eZO2Ew+pw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/tinycolor2/1.6.0",
+  "tarball_url": "https://registry.npmjs.org/tinycolor2/-/tinycolor2-1.6.0.tgz",
+  "npm_integrity": "sha512-XPaBkWQJdsf3pLKJV9p4qN/S+fm2Oj8AIPo1BTUhg5oxkvm9+SVEGFdhyOz7tTdUTfvxMiAs4sp6/eZO2Ew+pw==",
+  "tarball_sha256": "1fd8164c4b0e1bad09bf2252705fbcf6789dcce7c121aa52b515dd6438eb635b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/bgrins/TinyColor.git",
+    "type": "git"
+  },
+  "git_head": "a93228a6782bfe9a6154da14f5a7ece3ad9fb6c4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/tinycolor2@1.6.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c6cb470a9ba0a50d57611aeec1f31da609c5aefdbee8eac7f289bcb0e30625fa",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

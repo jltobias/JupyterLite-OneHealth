@@ -1,0 +1,29 @@
+{
+  "name": "d3-time-format",
+  "version": "2.3.0",
+  "lock_keys": [
+    "plotly.js/d3-time-format"
+  ],
+  "lock_integrities": [
+    "sha512-guv6b2H37s2Uq/GefleCDtbe0XZAuy7Wa49VGkPVPMfLL9qObgBST3lEHJBMUp8S7NdLQAGIvr2KXk8Hc98iKQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-time-format/2.3.0",
+  "tarball_url": "https://registry.npmjs.org/d3-time-format/-/d3-time-format-2.3.0.tgz",
+  "npm_integrity": "sha512-guv6b2H37s2Uq/GefleCDtbe0XZAuy7Wa49VGkPVPMfLL9qObgBST3lEHJBMUp8S7NdLQAGIvr2KXk8Hc98iKQ==",
+  "tarball_sha256": "8d44ef989c9a0cfe10fc20828846f5005e34bef64695baf253d914935ce755f2",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "https://github.com/d3/d3-time-format.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-time-format@2.3.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "7a3cb0e5055874e67db9aa2d5fe26de23204fa994ffbad198901ffe9c812a717",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

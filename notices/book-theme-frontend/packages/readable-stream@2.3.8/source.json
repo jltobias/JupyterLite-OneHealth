@@ -1,0 +1,29 @@
+{
+  "name": "readable-stream",
+  "version": "2.3.8",
+  "lock_keys": [
+    "readable-stream"
+  ],
+  "lock_integrities": [
+    "sha512-8p0AUk4XODgIewSi0l8Epjs+EVnWiK7NoDIEGU0HhE7+ZyY8D1IMY7odu5lRrFXGg71L15KG8QrPmum45RTtdA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/readable-stream/2.3.8",
+  "tarball_url": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.8.tgz",
+  "npm_integrity": "sha512-8p0AUk4XODgIewSi0l8Epjs+EVnWiK7NoDIEGU0HhE7+ZyY8D1IMY7odu5lRrFXGg71L15KG8QrPmum45RTtdA==",
+  "tarball_sha256": "1648613948f68ac9cbbe8f72a3f93a67ecdb862ffb57946a2c0bbb5a1479a532",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/nodejs/readable-stream.git",
+    "type": "git"
+  },
+  "git_head": "c85db76d4c41f64fd082c9263c3a918bec6f38a0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/readable-stream@2.3.8/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54",
+      "bytes": 2337
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "svg-path-bounds",
+  "version": "1.0.2",
+  "lock_keys": [
+    "svg-path-bounds"
+  ],
+  "lock_integrities": [
+    "sha512-H4/uAgLWrppIC0kHsb2/dWUYSmb4GE5UqH06uqWBcg6LBjX2fu0A8+JrO2/FJPZiSsNOKZAhyFFgsLTdYUvSqQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/svg-path-bounds/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/svg-path-bounds/-/svg-path-bounds-1.0.2.tgz",
+  "npm_integrity": "sha512-H4/uAgLWrppIC0kHsb2/dWUYSmb4GE5UqH06uqWBcg6LBjX2fu0A8+JrO2/FJPZiSsNOKZAhyFFgsLTdYUvSqQ==",
+  "tarball_sha256": "0f85f3cf62a671df6b18d16efd6247f6538dae7f494532eaad4f6ac5d9921a7f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/svg-path-bounds.git",
+    "type": "git"
+  },
+  "git_head": "295974027c5424e48fab34c6d7f11264db72f357",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/svg-path-bounds@1.0.2/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "7ae9d5dc15bb611a830956b8fc1fa8c6a4819d19eba8e4a0de64433cd0d6d7b0",
+      "bytes": 123
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/svg-path-bounds@1.0.2/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/svg-path-bounds/1.0.2",
+      "sha256": "99759a04cc051cff7efe2a35d87333896fa1e761682995377a11707256b87bce",
+      "bytes": 677,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

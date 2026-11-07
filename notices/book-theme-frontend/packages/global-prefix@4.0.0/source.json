@@ -1,0 +1,29 @@
+{
+  "name": "global-prefix",
+  "version": "4.0.0",
+  "lock_keys": [
+    "global-prefix"
+  ],
+  "lock_integrities": [
+    "sha512-w0Uf9Y9/nyHinEk5vMJKRie+wa4kR5hmDbEhGGds/kG1PwGLLHKRoNMeJOyCQjjBkANlnScqgzcFwGHgmgLkVA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/global-prefix/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/global-prefix/-/global-prefix-4.0.0.tgz",
+  "npm_integrity": "sha512-w0Uf9Y9/nyHinEk5vMJKRie+wa4kR5hmDbEhGGds/kG1PwGLLHKRoNMeJOyCQjjBkANlnScqgzcFwGHgmgLkVA==",
+  "tarball_sha256": "0365ee16ef3998387e218726c869697f8d23ae176a85561d6779f6784e97d62a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jonschlinkert/global-prefix.git",
+    "type": "git"
+  },
+  "git_head": "8410600bd6c1b5148f621bc070e60f025de7d5ad",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/global-prefix@4.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e7d1fee7347ffddccc5fd03327ffdb50f8c112be0d5016d62388a92c4ae6e7a9",
+      "bytes": 1091
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

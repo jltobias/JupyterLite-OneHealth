@@ -1,0 +1,29 @@
+{
+  "name": "glsl-token-string",
+  "version": "1.0.1",
+  "lock_keys": [
+    "glsl-token-string"
+  ],
+  "lock_integrities": [
+    "sha512-1mtQ47Uxd47wrovl+T6RshKGkRRCYWhnELmkEcUAPALWGTFe2XZpH3r45XAwL2B6v+l0KNsCnoaZCSnhzKEksg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-token-string/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/glsl-token-string/-/glsl-token-string-1.0.1.tgz",
+  "npm_integrity": "sha512-1mtQ47Uxd47wrovl+T6RshKGkRRCYWhnELmkEcUAPALWGTFe2XZpH3r45XAwL2B6v+l0KNsCnoaZCSnhzKEksg==",
+  "tarball_sha256": "1fc98eaafe344e9b146a379b0b04febc0f00ae7e0d11a5e50e4db45901ca57ca",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/stackgl/glsl-token-string.git",
+    "type": "git"
+  },
+  "git_head": "90ffe21fc7c5af9a7beccb9068b9b20cf7cad490",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-token-string@1.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "aa084193c84505fcea25068c7dc2eb1643a2ad2a744a586a22a14bc459b0eeb1",
+      "bytes": 1256
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

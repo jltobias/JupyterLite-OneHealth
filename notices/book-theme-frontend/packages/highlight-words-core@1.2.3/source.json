@@ -1,0 +1,29 @@
+{
+  "name": "highlight-words-core",
+  "version": "1.2.3",
+  "lock_keys": [
+    "highlight-words-core"
+  ],
+  "lock_integrities": [
+    "sha512-m1O9HW3/GNHxzSIXWw1wCNXXsgLlxrP0OI6+ycGUhiUHkikqW3OrwVHz+lxeNBe5yqLESdIcj8PowHQ2zLvUvQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/highlight-words-core/1.2.3",
+  "tarball_url": "https://registry.npmjs.org/highlight-words-core/-/highlight-words-core-1.2.3.tgz",
+  "npm_integrity": "sha512-m1O9HW3/GNHxzSIXWw1wCNXXsgLlxrP0OI6+ycGUhiUHkikqW3OrwVHz+lxeNBe5yqLESdIcj8PowHQ2zLvUvQ==",
+  "tarball_sha256": "f7bced3c5d00fcfe1c2e81c5f69e2184a0d7f6f36cb3cb098a9e5232e2d40c6d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "github.com/bvaughn/highlight-words-core.git",
+    "type": "git"
+  },
+  "git_head": "6d953dfb9f004e4aa25f5ab55a4583cc14cb1c21",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/highlight-words-core@1.2.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "22cebba436b955cc1529ceeb9906d7f484708d8e8b360fe29e0b90f3ac0792f7",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

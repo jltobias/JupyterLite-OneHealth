@@ -1,0 +1,29 @@
+{
+  "name": "ts-dedent",
+  "version": "2.2.0",
+  "lock_keys": [
+    "ts-dedent"
+  ],
+  "lock_integrities": [
+    "sha512-q5W7tVM71e2xjHZTlgfTDoPF/SmqKG5hddq9SzR49CH2hayqRKJtQ4mtRlSxKaJlR/+9rEM+mnBHf7I2/BQcpQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/ts-dedent/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/ts-dedent/-/ts-dedent-2.2.0.tgz",
+  "npm_integrity": "sha512-q5W7tVM71e2xjHZTlgfTDoPF/SmqKG5hddq9SzR49CH2hayqRKJtQ4mtRlSxKaJlR/+9rEM+mnBHf7I2/BQcpQ==",
+  "tarball_sha256": "f04cddc15ce3aad91287aebdcb0d6b6997b85222769c35c910038f59bfd2234d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tamino-martinius/node-ts-dedent.git",
+    "type": "git"
+  },
+  "git_head": "70e153460de0141afd09ff402b50047103a4c409",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/ts-dedent@2.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "eff13095d9d762c3bd9dda74370c81e2130c28f2691bc455603abf973bac25b9",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

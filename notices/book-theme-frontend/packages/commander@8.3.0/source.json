@@ -1,0 +1,29 @@
+{
+  "name": "commander",
+  "version": "8.3.0",
+  "lock_keys": [
+    "katex/commander"
+  ],
+  "lock_integrities": [
+    "sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/commander/8.3.0",
+  "tarball_url": "https://registry.npmjs.org/commander/-/commander-8.3.0.tgz",
+  "npm_integrity": "sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==",
+  "tarball_sha256": "1b38e65f9229a84060ca5d041a58e3bc1ea374da6d933f9060ca86a67949c10b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tj/commander.js.git",
+    "type": "git"
+  },
+  "git_head": "43f4743864e2f670db5eebcf88c92aa4612c54f1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/commander@8.3.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "04512a63dce4d2d506ad612dc0bd7681ccf6e3655f7b6eaef7dfac8323d1ec0b",
+      "bytes": 1098
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

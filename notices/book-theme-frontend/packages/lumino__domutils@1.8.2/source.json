@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/domutils",
+  "version": "1.8.2",
+  "lock_keys": [
+    "jupyterlab-plotly/@lumino/widgets/@lumino/domutils"
+  ],
+  "lock_integrities": [
+    "sha512-QIpMfkPJrs4GrWBuJf2Sn1fpyVPmvqUUAeD8xAQo8+4V5JAT0vUDLxZ9HijefMgNCi3+Bs8Z3lQwRCrz+cFP1A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/domutils/1.8.2",
+  "tarball_url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-1.8.2.tgz",
+  "npm_integrity": "sha512-QIpMfkPJrs4GrWBuJf2Sn1fpyVPmvqUUAeD8xAQo8+4V5JAT0vUDLxZ9HijefMgNCi3+Bs8Z3lQwRCrz+cFP1A==",
+  "tarball_sha256": "0421f5f2bc66ac34383ed1c19c6de512f60102ff53102111c967c1d929d25fe4",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__domutils@1.8.2/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/domutils@1.8.2/LICENSE",
+      "sha256": "5d3d42c2c2687efe4e22f2af4917d26fd17290d56af5754b21bb14ba849c6051",
+      "bytes": 3021
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

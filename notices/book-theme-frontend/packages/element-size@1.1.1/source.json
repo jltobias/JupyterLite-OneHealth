@@ -1,0 +1,29 @@
+{
+  "name": "element-size",
+  "version": "1.1.1",
+  "lock_keys": [
+    "element-size"
+  ],
+  "lock_integrities": [
+    "sha512-eaN+GMOq/Q+BIWy0ybsgpcYImjGIdNLyjLFJU4XsLHXYQao5jCNb36GyN6C2qwmDDYSfIBmKpPpr4VnBdLCsPQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/element-size/1.1.1",
+  "tarball_url": "https://registry.npmjs.org/element-size/-/element-size-1.1.1.tgz",
+  "npm_integrity": "sha512-eaN+GMOq/Q+BIWy0ybsgpcYImjGIdNLyjLFJU4XsLHXYQao5jCNb36GyN6C2qwmDDYSfIBmKpPpr4VnBdLCsPQ==",
+  "tarball_sha256": "1ad0ee0fbd0eb34b24cce5cfe9c13e0afd09a6c44c583caa5c6e03afadde4af6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/element-size.git",
+    "type": "git"
+  },
+  "git_head": "b6357a45b637e5a3195e516e6c11e881035b1be4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/element-size@1.1.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

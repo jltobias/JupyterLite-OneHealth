@@ -1,0 +1,282 @@
+{
+  "landsat": {
+    "retrieved_at": "2026-11-07T14:48:37.020815+00:00",
+    "item_id": "LC09_L2SP_042035_20240830_02_T1",
+    "item_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/landsat-c2-l2/items/LC09_L2SP_042035_20240830_02_T1",
+    "requested_bbox_wgs84": [
+      -119.9,
+      36.65,
+      -119.65,
+      36.9
+    ],
+    "acquisition_datetime": "2024-08-30T18:33:53.353894Z",
+    "scene_cloud_cover_percent": 0.98,
+    "method": "A common integer native-grid window from a densified geographic bounding box; exact raw source DN values; no resampling or synthesis.",
+    "assets": {
+      "blue": {
+        "file": "fresno-blue-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B2.TIF",
+        "source_raster_bands": [
+          {
+            "scale": 2.75e-05,
+            "nodata": 0,
+            "offset": -0.2,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": [
+          {
+            "name": "OLI_B2",
+            "center_wavelength": 0.48,
+            "full_width_half_max": 0.06,
+            "common_name": "blue",
+            "description": "Visible blue"
+          }
+        ],
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": 0.0,
+        "crop_min_dn": 0,
+        "crop_max_dn": 33288,
+        "zero_count": 1,
+        "size_bytes": 1188691,
+        "sha256": "3945c25eb56a03b84231a9504df8c89dda92d0d952d4557cc1a61cca87fe09a9"
+      },
+      "green": {
+        "file": "fresno-green-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B3.TIF",
+        "source_raster_bands": [
+          {
+            "scale": 2.75e-05,
+            "nodata": 0,
+            "offset": -0.2,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": [
+          {
+            "name": "OLI_B3",
+            "full_width_half_max": 0.06,
+            "common_name": "green",
+            "description": "Visible green",
+            "center_wavelength": 0.56
+          }
+        ],
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": 0.0,
+        "crop_min_dn": 4045,
+        "crop_max_dn": 30418,
+        "zero_count": 0,
+        "size_bytes": 1209252,
+        "sha256": "f19a8cd2132160888a3a58737838d12df9a6b73fe8f70fd05ea660e8e5488185"
+      },
+      "red": {
+        "file": "fresno-red-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B4.TIF",
+        "source_raster_bands": [
+          {
+            "scale": 2.75e-05,
+            "nodata": 0,
+            "offset": -0.2,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": [
+          {
+            "name": "OLI_B4",
+            "center_wavelength": 0.65,
+            "full_width_half_max": 0.04,
+            "common_name": "red",
+            "description": "Visible red"
+          }
+        ],
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": 0.0,
+        "crop_min_dn": 5621,
+        "crop_max_dn": 33531,
+        "zero_count": 0,
+        "size_bytes": 1241044,
+        "sha256": "08117cb220455036787f34417e0ab1d338329cd343e6ea1a0e6ff0fb07571e06"
+      },
+      "nir08": {
+        "file": "fresno-nir08-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B5.TIF",
+        "source_raster_bands": [
+          {
+            "scale": 2.75e-05,
+            "nodata": 0,
+            "offset": -0.2,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": [
+          {
+            "name": "OLI_B5",
+            "center_wavelength": 0.87,
+            "full_width_half_max": 0.03,
+            "common_name": "nir08",
+            "description": "Near infrared"
+          }
+        ],
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": 0.0,
+        "crop_min_dn": 7154,
+        "crop_max_dn": 53867,
+        "zero_count": 0,
+        "size_bytes": 1256526,
+        "sha256": "62f896f1dca2d694da0e7d1e09ae468df5ad96c3571c44b4271718723c1e5921"
+      },
+      "lwir11": {
+        "file": "fresno-lwir11-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_ST_B10.TIF",
+        "source_raster_bands": [
+          {
+            "unit": "kelvin",
+            "scale": 0.00341802,
+            "nodata": 0,
+            "offset": 149,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": [
+          {
+            "name": "TIRS_B10",
+            "common_name": "lwir11",
+            "description": "Long-wave infrared",
+            "center_wavelength": 10.9,
+            "full_width_half_max": 0.59
+          }
+        ],
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": 0.0,
+        "crop_min_dn": 43474,
+        "crop_max_dn": 53820,
+        "zero_count": 0,
+        "size_bytes": 1046074,
+        "sha256": "19e158c9dca614a550158ec597a7fa119e48ddedc28a5aad0220b7fda6913d8c"
+      },
+      "qa_pixel": {
+        "file": "fresno-qa_pixel-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_QA_PIXEL.TIF",
+        "source_raster_bands": [
+          {
+            "unit": "bit index",
+            "nodata": 1,
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": null,
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": null,
+        "crop_min_dn": 21824,
+        "crop_max_dn": 21952,
+        "zero_count": 0,
+        "size_bytes": 15692,
+        "sha256": "f072e0a0366127ba4f53298be527f009c256e930844be883c2956a2ff7c7a151"
+      },
+      "qa_radsat": {
+        "file": "fresno-qa_radsat-native.tif",
+        "source_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_QA_RADSAT.TIF",
+        "source_raster_bands": [
+          {
+            "unit": "bit index",
+            "data_type": "uint16",
+            "spatial_resolution": 30
+          }
+        ],
+        "source_eo_bands": null,
+        "dtype": "uint16",
+        "shape": [
+          947,
+          772
+        ],
+        "source_nodata": null,
+        "crop_min_dn": 0,
+        "crop_max_dn": 96,
+        "zero_count": 731079,
+        "size_bytes": 4016,
+        "sha256": "a1afd2d946ae2b3d4c8f8053f9c453080d33ca357824bf0694e463165edff6a1"
+      }
+    },
+    "rights_evidence": [
+      "https://www.usgs.gov/landsat-missions/landsat-collection-2-level-2-science-products",
+      "https://www.usgs.gov/emergency-operations-portal/data-policy"
+    ],
+    "citation": "Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6.",
+    "thermal_resolution_note": "The product grid is 30 m; Landsat 9 TIRS measurements have coarser native thermal resolution (100 m), resampled by the product producer. The crop adds no resampling.",
+    "source_crs": "EPSG:32611",
+    "source_transform": [
+      30.0,
+      0.0,
+      160185.0,
+      0.0,
+      -30.0,
+      4110315.0
+    ],
+    "source_window": {
+      "col_off": 2685,
+      "row_off": 753,
+      "width": 772,
+      "height": 947
+    },
+    "native_crop_bounds": [
+      240735.0,
+      4059315.0,
+      263895.0,
+      4087725.0
+    ],
+    "native_crop_bbox_wgs84": [
+      -119.90971188872263,
+      36.64414078730568,
+      -119.64125523899473,
+      36.90600059765968
+    ]
+  },
+  "census": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/6/query",
+    "params": {
+      "where": "1=1",
+      "geometry": "-119.90,36.65,-119.65,36.90",
+      "geometryType": "esriGeometryEnvelope",
+      "inSR": 4326,
+      "spatialRel": "esriSpatialRelIntersects",
+      "outFields": "GEOID,STATE,COUNTY,TRACT,NAME,POP100,HU100,AREALAND,AREAWATER,CENTLAT,CENTLON",
+      "outSR": 4326,
+      "returnGeometry": "true",
+      "f": "geojson",
+      "orderByFields": "GEOID",
+      "resultRecordCount": 2000
+    },
+    "resolved_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/6/query?where=1%3D1&geometry=-119.90%2C36.65%2C-119.65%2C36.90&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CNAME%2CPOP100%2CHU100%2CAREALAND%2CAREAWATER%2CCENTLAT%2CCENTLON&outSR=4326&returnGeometry=true&f=geojson&orderByFields=GEOID&resultRecordCount=2000",
+    "retrieved_at": "2026-11-07"
+  }
+}

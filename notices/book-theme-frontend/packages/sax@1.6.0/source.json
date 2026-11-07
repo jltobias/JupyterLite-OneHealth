@@ -1,0 +1,29 @@
+{
+  "name": "sax",
+  "version": "1.6.0",
+  "lock_keys": [
+    "sax"
+  ],
+  "lock_integrities": [
+    "sha512-6R3J5M4AcbtLUdZmRv2SygeVaM7IhrLXu9BmnOGmmACak8fiUtOsYNWUS4uK7upbmHIBbLBeFeI//477BKLBzA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/sax/1.6.0",
+  "tarball_url": "https://registry.npmjs.org/sax/-/sax-1.6.0.tgz",
+  "npm_integrity": "sha512-6R3J5M4AcbtLUdZmRv2SygeVaM7IhrLXu9BmnOGmmACak8fiUtOsYNWUS4uK7upbmHIBbLBeFeI//477BKLBzA==",
+  "tarball_sha256": "d424acd207642df18c2d814411907b9a108ff1dfca341cfddf523bd57af699f4",
+  "declared_license": "BlueOak-1.0.0",
+  "repository": {
+    "url": "git+ssh://git@github.com/isaacs/sax-js.git",
+    "type": "git"
+  },
+  "git_head": "be26f5488fb832c25347296c4a2b59fd53f8ee13",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/sax@1.6.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004",
+      "bytes": 1552
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

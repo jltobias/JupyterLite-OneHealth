@@ -1,0 +1,29 @@
+{
+  "name": "clamp",
+  "version": "1.0.1",
+  "lock_keys": [
+    "clamp"
+  ],
+  "lock_integrities": [
+    "sha512-kgMuFyE78OC6Dyu3Dy7vcx4uy97EIbVxJB/B0eJ3bUNAkwdNcxYzgKltnyADiYwsR7SEqkkUPsEUT//OVS6XMA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/clamp/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/clamp/-/clamp-1.0.1.tgz",
+  "npm_integrity": "sha512-kgMuFyE78OC6Dyu3Dy7vcx4uy97EIbVxJB/B0eJ3bUNAkwdNcxYzgKltnyADiYwsR7SEqkkUPsEUT//OVS6XMA==",
+  "tarball_sha256": "86fff23302ded5f930f5029aeecde00bc8ba3d4d6e962073569fd36d56d9a244",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/clamp",
+    "type": "git"
+  },
+  "git_head": "377851f0cca9f3f134b53881e294782cccdae4d8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/clamp@1.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "c6db45c144aeabf87a299c54e57f0a9b68ba043012d728d560209169c91ef4bc",
+      "bytes": 1085
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

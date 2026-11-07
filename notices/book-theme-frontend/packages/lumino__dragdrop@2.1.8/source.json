@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/dragdrop",
+  "version": "2.1.8",
+  "lock_keys": [
+    "@lumino/dragdrop"
+  ],
+  "lock_integrities": [
+    "sha512-5sBYkTka598+XsgjY2tWOC+WYCh9NEgx8RhLvQ3x+V182YhcpEXw38RWGQZyNpQ4m4vtQWKv42A26q+ae6sMwg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/dragdrop/2.1.8",
+  "tarball_url": "https://registry.npmjs.org/@lumino/dragdrop/-/dragdrop-2.1.8.tgz",
+  "npm_integrity": "sha512-5sBYkTka598+XsgjY2tWOC+WYCh9NEgx8RhLvQ3x+V182YhcpEXw38RWGQZyNpQ4m4vtQWKv42A26q+ae6sMwg==",
+  "tarball_sha256": "e67060c13e53e016ba2f4a5ab969a7a9d32d83b0fc0c7c41b209b5e7ae64d5a6",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__dragdrop@2.1.8/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/dragdrop@2.1.8/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

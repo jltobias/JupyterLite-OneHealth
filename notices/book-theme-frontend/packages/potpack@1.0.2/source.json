@@ -1,0 +1,29 @@
+{
+  "name": "potpack",
+  "version": "1.0.2",
+  "lock_keys": [
+    "potpack"
+  ],
+  "lock_integrities": [
+    "sha512-choctRBIV9EMT9WGAZHn3V7t0Z2pMQyl0EZE6pFc/6ml3ssw7Dlf/oAOvFwjm1HVsqfQN8GfeFyJ+d8tRzqueQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/potpack/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/potpack/-/potpack-1.0.2.tgz",
+  "npm_integrity": "sha512-choctRBIV9EMT9WGAZHn3V7t0Z2pMQyl0EZE6pFc/6ml3ssw7Dlf/oAOvFwjm1HVsqfQN8GfeFyJ+d8tRzqueQ==",
+  "tarball_sha256": "1795e2abaa858d49a6183a0d520a51d04ea3b7bf413054b63ab0f3deb6af60ff",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mapbox/potpack.git",
+    "type": "git"
+  },
+  "git_head": "b2df24995f43740e362a1ceb2ad25da77e44dd88",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/potpack@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2c620eaf6c3ee3e33b07f3b6ef0dfd0a9e0a52c93a46aa4ccf7773dbb562daec",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

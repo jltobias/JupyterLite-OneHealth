@@ -1,0 +1,29 @@
+{
+  "name": "style-loader",
+  "version": "4.0.0",
+  "lock_keys": [
+    "style-loader"
+  ],
+  "lock_integrities": [
+    "sha512-1V4WqhhZZgjVAVJyt7TdDPZoPBPNHbekX4fWnCJL1yQukhCeZhJySUL+gL9y6sNdN95uEOS83Y55SqHcP7MzLA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/style-loader/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/style-loader/-/style-loader-4.0.0.tgz",
+  "npm_integrity": "sha512-1V4WqhhZZgjVAVJyt7TdDPZoPBPNHbekX4fWnCJL1yQukhCeZhJySUL+gL9y6sNdN95uEOS83Y55SqHcP7MzLA==",
+  "tarball_sha256": "444658a872c8ca16208543857b2425746414689cb9c947fede712b38f269fab8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/webpack-contrib/style-loader.git",
+    "type": "git"
+  },
+  "git_head": "091d37d68abfb071c4fbdd335385cd6f1af114c6",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/style-loader@4.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

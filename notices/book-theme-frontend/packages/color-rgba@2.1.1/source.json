@@ -1,0 +1,51 @@
+{
+  "name": "color-rgba",
+  "version": "2.1.1",
+  "lock_keys": [
+    "color-rgba"
+  ],
+  "lock_integrities": [
+    "sha512-VaX97wsqrMwLSOR6H7rU1Doa2zyVdmShabKrPEIFywLlHoibgD3QW9Dw6fSqM4+H/LfjprDNAUUW31qEQcGzNw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-rgba/2.1.1",
+  "tarball_url": "https://registry.npmjs.org/color-rgba/-/color-rgba-2.1.1.tgz",
+  "npm_integrity": "sha512-VaX97wsqrMwLSOR6H7rU1Doa2zyVdmShabKrPEIFywLlHoibgD3QW9Dw6fSqM4+H/LfjprDNAUUW31qEQcGzNw==",
+  "tarball_sha256": "d7047a88a4d95d96d16f60ac7ba0cbb44d040faf0706f0aae1198880b08afe73",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/colorjs/color-rgba.git",
+    "type": "git"
+  },
+  "git_head": "f7fe4718fdb892d0e1f14ef8057406e3777d9f56",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-rgba@2.1.1/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "e00beddb25cdb306b227af5f5187fdf183b4ee8c6289dd594015578ac9c9fce8",
+      "bytes": 135
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/color-rgba@2.1.1/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/color-rgba/2.1.1",
+      "sha256": "b53faa152051d2c5f6b7c5fb050b74d23c3083fa5c633ae54af839520e2344ce",
+      "bytes": 658,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

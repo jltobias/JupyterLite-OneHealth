@@ -1,0 +1,29 @@
+{
+  "name": "d3-brush",
+  "version": "3.0.0",
+  "lock_keys": [
+    "d3-brush"
+  ],
+  "lock_integrities": [
+    "sha512-ALnjWlVYkXsVIGlOsuWH1+3udkYFI48Ljihfnh8FZPF2QS9o+PzGLBslO0PjzVoHLZ2KCVgAM8NVkXPJB2aNnQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-brush/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/d3-brush/-/d3-brush-3.0.0.tgz",
+  "npm_integrity": "sha512-ALnjWlVYkXsVIGlOsuWH1+3udkYFI48Ljihfnh8FZPF2QS9o+PzGLBslO0PjzVoHLZ2KCVgAM8NVkXPJB2aNnQ==",
+  "tarball_sha256": "fde88a49b16f92d067401df00abf88bf07eec3e091343eb902caf9cab02bdf2a",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-brush.git",
+    "type": "git"
+  },
+  "git_head": "ec2bce6f15074a9ead7f9a84c61335be51c123a3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-brush@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

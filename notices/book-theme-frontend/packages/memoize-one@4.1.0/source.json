@@ -1,0 +1,29 @@
+{
+  "name": "memoize-one",
+  "version": "4.1.0",
+  "lock_keys": [
+    "memoize-one"
+  ],
+  "lock_integrities": [
+    "sha512-2GApq0yI/b22J2j9rhbrAlsHb0Qcz+7yWxeLG8h+95sl1XPUgeLimQSOdur4Vw7cUhrBHwaUZxWFZueojqNRzA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/memoize-one/4.1.0",
+  "tarball_url": "https://registry.npmjs.org/memoize-one/-/memoize-one-4.1.0.tgz",
+  "npm_integrity": "sha512-2GApq0yI/b22J2j9rhbrAlsHb0Qcz+7yWxeLG8h+95sl1XPUgeLimQSOdur4Vw7cUhrBHwaUZxWFZueojqNRzA==",
+  "tarball_sha256": "e329898a554c4d34fe055285861186c9157ac993240eeac22a6ba0797523b55e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/alexreardon/memoize-one.git",
+    "type": "git"
+  },
+  "git_head": "5d9d0335bbdbda42b4fe820fb4081bfd318f158d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/memoize-one@4.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "04110d687a3e6c37528ecbad4e0a5cf63c8f0c3cce2c704d851e55d2db3d55dc",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

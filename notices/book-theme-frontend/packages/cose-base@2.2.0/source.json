@@ -1,0 +1,29 @@
+{
+  "name": "cose-base",
+  "version": "2.2.0",
+  "lock_keys": [
+    "cytoscape-fcose/cose-base"
+  ],
+  "lock_integrities": [
+    "sha512-AzlgcsCbUMymkADOJtQm3wO9S3ltPfYOFD5033keQn9NJzIbtnZj+UdBJe7DYml/8TdbtHJW3j58SOnKhWY/5g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/cose-base/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/cose-base/-/cose-base-2.2.0.tgz",
+  "npm_integrity": "sha512-AzlgcsCbUMymkADOJtQm3wO9S3ltPfYOFD5033keQn9NJzIbtnZj+UdBJe7DYml/8TdbtHJW3j58SOnKhWY/5g==",
+  "tarball_sha256": "612ec91a30b7f2dc158cca4846eeea1b7f89a97fc672951da3c1932107de6da8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iVis-at-Bilkent/cose-base.git",
+    "type": "git"
+  },
+  "git_head": "37f07ed2b8803211ec6c74110574cc47c156a136",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/cose-base@2.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5fb3cf4a14c3c5af6e473a192df8bca10c77754e3a0c6492c79fb92a76a5478a",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

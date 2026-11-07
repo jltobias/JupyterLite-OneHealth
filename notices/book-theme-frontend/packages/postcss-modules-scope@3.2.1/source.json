@@ -1,0 +1,29 @@
+{
+  "name": "postcss-modules-scope",
+  "version": "3.2.1",
+  "lock_keys": [
+    "postcss-modules-scope"
+  ],
+  "lock_integrities": [
+    "sha512-m9jZstCVaqGjTAuny8MdgE88scJnCiQSlSrOWcTQgM2t32UBe+MUmFSO5t7VMSfAf/FJKImAxBav8ooCHJXCJA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/postcss-modules-scope/3.2.1",
+  "tarball_url": "https://registry.npmjs.org/postcss-modules-scope/-/postcss-modules-scope-3.2.1.tgz",
+  "npm_integrity": "sha512-m9jZstCVaqGjTAuny8MdgE88scJnCiQSlSrOWcTQgM2t32UBe+MUmFSO5t7VMSfAf/FJKImAxBav8ooCHJXCJA==",
+  "tarball_sha256": "6206831ea699bdf369dfdfee2774c4e0a096d45c5b5edfb51611b8cbfa201e50",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/css-modules/postcss-modules-scope.git",
+    "type": "git"
+  },
+  "git_head": "14e277862d1217fed10eef613e1d242d67c2c692",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/postcss-modules-scope@3.2.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "7774c8c4a3f750b294b416818062201a404fc2d6c8756d8b89a1688e24b5d5a7",
+      "bytes": 750
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

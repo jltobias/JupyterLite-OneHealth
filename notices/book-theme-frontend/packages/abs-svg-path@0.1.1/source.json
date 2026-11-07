@@ -1,0 +1,29 @@
+{
+  "name": "abs-svg-path",
+  "version": "0.1.1",
+  "lock_keys": [
+    "abs-svg-path"
+  ],
+  "lock_integrities": [
+    "sha512-d8XPSGjfyzlXC3Xx891DJRyZfqk5JU0BJrDQcsWomFIV1/BIzPW5HDH5iDdWpqWaav0YVIEzT1RHTwWr0FFshA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/abs-svg-path/0.1.1",
+  "tarball_url": "https://registry.npmjs.org/abs-svg-path/-/abs-svg-path-0.1.1.tgz",
+  "npm_integrity": "sha512-d8XPSGjfyzlXC3Xx891DJRyZfqk5JU0BJrDQcsWomFIV1/BIzPW5HDH5iDdWpqWaav0YVIEzT1RHTwWr0FFshA==",
+  "tarball_sha256": "2b93855ad1e5eb298f42dfe79a01053a340ed8284444e478c7d6a12b2e827931",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/jkroso/abs-svg-path.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/abs-svg-path@0.1.1/UPSTREAM-License",
+      "source_url": "https://raw.githubusercontent.com/jkroso/abs-svg-path/0.1.1/License",
+      "sha256": "2d5ffdfe09268750ba687a149db8392038772e7f156db3a98b615a7de0cab76e",
+      "bytes": 1093
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

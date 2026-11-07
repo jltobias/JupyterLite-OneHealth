@@ -1,0 +1,29 @@
+{
+  "name": "@jspm/core",
+  "version": "2.1.0",
+  "lock_keys": [
+    "@jspm/core"
+  ],
+  "lock_integrities": [
+    "sha512-3sRl+pkyFY/kLmHl0cgHiFp2xEqErA8N3ECjMs7serSUBmoJ70lBa0PG5t0IM6WJgdZNyyI0R8YFfi5wM8+mzg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@jspm/core/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/@jspm/core/-/core-2.1.0.tgz",
+  "npm_integrity": "sha512-3sRl+pkyFY/kLmHl0cgHiFp2xEqErA8N3ECjMs7serSUBmoJ70lBa0PG5t0IM6WJgdZNyyI0R8YFfi5wM8+mzg==",
+  "tarball_sha256": "03f58f124bc351a4d965291ab4d961794508b612ec116ad215700a28e3b43b44",
+  "declared_license": "Apache-2.0",
+  "repository": {
+    "url": "git+https://github.com/jspm/jspm-core.git",
+    "type": "git"
+  },
+  "git_head": "c0a60d66c00f23811c1ab79df2dc0bdf9e43fb49",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/jspm__core@2.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b8bc5e4bbcf9023a91eccc0ee982bdfb92099adff03775bb6552925753ff1c89",
+      "bytes": 42179
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

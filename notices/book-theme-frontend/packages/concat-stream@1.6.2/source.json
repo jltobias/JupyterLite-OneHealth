@@ -1,0 +1,29 @@
+{
+  "name": "concat-stream",
+  "version": "1.6.2",
+  "lock_keys": [
+    "concat-stream"
+  ],
+  "lock_integrities": [
+    "sha512-27HBghJxjiZtIk3Ycvn/4kbJk/1uZuJFfuPEns6LaEvpvG1f0hTea8lilrouyo9mVc2GWdcEZ8OLoGmSADlrCw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/concat-stream/1.6.2",
+  "tarball_url": "https://registry.npmjs.org/concat-stream/-/concat-stream-1.6.2.tgz",
+  "npm_integrity": "sha512-27HBghJxjiZtIk3Ycvn/4kbJk/1uZuJFfuPEns6LaEvpvG1f0hTea8lilrouyo9mVc2GWdcEZ8OLoGmSADlrCw==",
+  "tarball_sha256": "ca47c159978bc826d964dfe45923dc61894551cc547c9f226f95fc90d47c43f1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/maxogden/concat-stream.git",
+    "type": "git"
+  },
+  "git_head": "008d3917552ff3c24c6209d29b1abd80f951c7fc",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/concat-stream@1.6.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "96b29c9aaa611a05349b362d48c2ffce0966fe408401a2d1a157be312c035b5f",
+      "bytes": 1084
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

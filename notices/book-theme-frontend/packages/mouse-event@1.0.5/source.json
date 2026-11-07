@@ -1,0 +1,29 @@
+{
+  "name": "mouse-event",
+  "version": "1.0.5",
+  "lock_keys": [
+    "mouse-event"
+  ],
+  "lock_integrities": [
+    "sha512-ItUxtL2IkeSKSp9cyaX2JLUuKk2uMoxBg4bbOWVd29+CskYJR9BGsUqtXenNzKbnDshvupjUewDIYVrOB6NmGw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/mouse-event/1.0.5",
+  "tarball_url": "https://registry.npmjs.org/mouse-event/-/mouse-event-1.0.5.tgz",
+  "npm_integrity": "sha512-ItUxtL2IkeSKSp9cyaX2JLUuKk2uMoxBg4bbOWVd29+CskYJR9BGsUqtXenNzKbnDshvupjUewDIYVrOB6NmGw==",
+  "tarball_sha256": "d380e3812b54fef9c9dfc64c661e2f927da0f2fd817b5e3393090d05549171b3",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mikolalysenko/mouse-event.git",
+    "type": "git"
+  },
+  "git_head": "cf8c7d077d22fc42aeb76affdf3b949c74282222",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mouse-event@1.0.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "632d884bc3370b825072b2ba58896b727fbea1f8a81c6278babbc65d7dca4954",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

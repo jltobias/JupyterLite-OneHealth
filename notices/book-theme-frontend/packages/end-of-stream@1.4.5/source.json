@@ -1,0 +1,29 @@
+{
+  "name": "end-of-stream",
+  "version": "1.4.5",
+  "lock_keys": [
+    "end-of-stream"
+  ],
+  "lock_integrities": [
+    "sha512-ooEGc6HP26xXq/N+GCGOT0JKCLDGrq2bQUZrQ7gyrJiZANJ/8YDTxTpQBXGMn+WbIQXNVpyWymm7KYVICQnyOg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/end-of-stream/1.4.5",
+  "tarball_url": "https://registry.npmjs.org/end-of-stream/-/end-of-stream-1.4.5.tgz",
+  "npm_integrity": "sha512-ooEGc6HP26xXq/N+GCGOT0JKCLDGrq2bQUZrQ7gyrJiZANJ/8YDTxTpQBXGMn+WbIQXNVpyWymm7KYVICQnyOg==",
+  "tarball_sha256": "6d9c2a6030dc642b77b3a4979dfa82138cdb426d2c0e5b09626ad063e384a309",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mafintosh/end-of-stream.git",
+    "type": "git"
+  },
+  "git_head": "cea89de8165f24e183603e63839522ec22af58df",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/end-of-stream@1.4.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

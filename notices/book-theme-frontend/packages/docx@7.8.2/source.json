@@ -1,0 +1,35 @@
+{
+  "name": "docx",
+  "version": "7.8.2",
+  "lock_keys": [
+    "docx"
+  ],
+  "lock_integrities": [
+    "sha512-ptaiVZunYO04z113E/jR3yZx7/VaeUap2CHM9V1YwlmGygJ2W8y2KBmAsVgzlzs+qT7+3d5W3Q7+57BgvGiL+Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/docx/7.8.2",
+  "tarball_url": "https://registry.npmjs.org/docx/-/docx-7.8.2.tgz",
+  "npm_integrity": "sha512-ptaiVZunYO04z113E/jR3yZx7/VaeUap2CHM9V1YwlmGygJ2W8y2KBmAsVgzlzs+qT7+3d5W3Q7+57BgvGiL+Q==",
+  "tarball_sha256": "000e843c61d9c32b65626b7ddb25c5afc5220cd37870217001fc4cd2068ba96a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dolanmiu/docx.git",
+    "type": "git"
+  },
+  "git_head": "3006f4d2c1f0f8c5e43f55c4f4e5e1e8f9ac282f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/docx@7.8.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b5b2364c0c95a26b2a2399d7e706a61acac680be1d5b180b00592ee85830bffb",
+      "bytes": 1072
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/docx@7.8.2/build/index.js.LICENSE.txt",
+      "source_member": "package/build/index.js.LICENSE.txt",
+      "sha256": "aa20f36bc265d939c2ae27a77c4b0ced2d0dd0559b62d309a89a280c44ae8cb4",
+      "bytes": 281
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

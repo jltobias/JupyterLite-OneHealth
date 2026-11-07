@@ -1,0 +1,29 @@
+{
+  "name": "d3-force",
+  "version": "1.2.1",
+  "lock_keys": [
+    "plotly.js/d3-force"
+  ],
+  "lock_integrities": [
+    "sha512-HHvehyaiUlVo5CxBJ0yF/xny4xoaxFxDnBXNvNcfW9adORGZfyNF1dj6DGLKyk4Yh3brP/1h3rnDzdIAwL08zg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-force/1.2.1",
+  "tarball_url": "https://registry.npmjs.org/d3-force/-/d3-force-1.2.1.tgz",
+  "npm_integrity": "sha512-HHvehyaiUlVo5CxBJ0yF/xny4xoaxFxDnBXNvNcfW9adORGZfyNF1dj6DGLKyk4Yh3brP/1h3rnDzdIAwL08zg==",
+  "tarball_sha256": "5eff71a1869c3070832792045aee8a6d0f2e7dcdad58ac0b16a767ae56c2678c",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-force.git",
+    "type": "git"
+  },
+  "git_head": "01c9fc7223bf0a3ddaca3b369a61c3c828bd85f0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-force@1.2.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e1211892da0b0e0585b7aebe8f98c1274fba15bafe47fa1f4ee8a7a502c06304",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

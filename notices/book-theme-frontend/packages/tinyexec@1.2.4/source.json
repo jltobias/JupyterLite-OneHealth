@@ -1,0 +1,29 @@
+{
+  "name": "tinyexec",
+  "version": "1.2.4",
+  "lock_keys": [
+    "tinyexec"
+  ],
+  "lock_integrities": [
+    "sha512-SHf/r48b7vOrjve9PxJo3MN5v5yuyjHvdUcrQffT3WXMUfnGmHDVbC4k3sHJaJTgZCwpUplIaAo5ANtMyp3YHg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/tinyexec/1.2.4",
+  "tarball_url": "https://registry.npmjs.org/tinyexec/-/tinyexec-1.2.4.tgz",
+  "npm_integrity": "sha512-SHf/r48b7vOrjve9PxJo3MN5v5yuyjHvdUcrQffT3WXMUfnGmHDVbC4k3sHJaJTgZCwpUplIaAo5ANtMyp3YHg==",
+  "tarball_sha256": "ec38cc26184bd21d8f5f88fe434972247b8a9280d1ceaba2cdb14fa6858657cc",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tinylibs/tinyexec.git",
+    "type": "git"
+  },
+  "git_head": "d8c3c65892d48098b114685580dc89ea01cd531b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/tinyexec@1.2.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f95f668fe64081ddb4153b322e34fdd719b991285ed08177d5ad7133b7988d92",
+      "bytes": 1065
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

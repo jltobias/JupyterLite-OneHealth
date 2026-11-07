@@ -1,0 +1,35 @@
+{
+  "name": "jquery",
+  "version": "3.7.1",
+  "lock_keys": [
+    "jquery"
+  ],
+  "lock_integrities": [
+    "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/jquery/3.7.1",
+  "tarball_url": "https://registry.npmjs.org/jquery/-/jquery-3.7.1.tgz",
+  "npm_integrity": "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg==",
+  "tarball_sha256": "68a9f787516da47c680e09c187bcbac4536b6f85d90eb882844e12919e583f53",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jquery/jquery.git",
+    "type": "git"
+  },
+  "git_head": "fde1f76e2799dd877c176abde0ec836553246991",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/jquery@3.7.1/AUTHORS.txt",
+      "source_member": "package/AUTHORS.txt",
+      "sha256": "d73cd22f65838c0fc3037a0882ebe1361c6e856554107ee2ef5cd08af3c074b9",
+      "bytes": 14077
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/jquery@3.7.1/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "d4db9ebe6f29f5168eac45ad713f055623ac5d0dcd5ba92da23d650ae012020d",
+      "bytes": 1097
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

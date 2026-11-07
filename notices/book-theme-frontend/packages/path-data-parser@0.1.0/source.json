@@ -1,0 +1,29 @@
+{
+  "name": "path-data-parser",
+  "version": "0.1.0",
+  "lock_keys": [
+    "path-data-parser"
+  ],
+  "lock_integrities": [
+    "sha512-NOnmBpt5Y2RWbuv0LMzsayp3lVylAHLPUTut412ZA3l+C4uw4ZVkQbjShYCQ8TCpUMdPapr4YjUqLYD6v68j+w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/path-data-parser/0.1.0",
+  "tarball_url": "https://registry.npmjs.org/path-data-parser/-/path-data-parser-0.1.0.tgz",
+  "npm_integrity": "sha512-NOnmBpt5Y2RWbuv0LMzsayp3lVylAHLPUTut412ZA3l+C4uw4ZVkQbjShYCQ8TCpUMdPapr4YjUqLYD6v68j+w==",
+  "tarball_sha256": "09be555fc313a8e831b55d4cc727699655f5c224fde2d8062f3f52bc9386d3b0",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/pshihn/path-data-parser.git",
+    "type": "git"
+  },
+  "git_head": "93d3fa8448c50d1b6443b06b8c71202ee0967e25",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/path-data-parser@0.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e9754a00aebde654e80f40bcf41dab667d6a41dfbbd2912bcf14fb07d468bf71",
+      "bytes": 1068
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

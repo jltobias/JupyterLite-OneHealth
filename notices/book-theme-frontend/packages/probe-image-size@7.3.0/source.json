@@ -1,0 +1,29 @@
+{
+  "name": "probe-image-size",
+  "version": "7.3.0",
+  "lock_keys": [
+    "probe-image-size"
+  ],
+  "lock_integrities": [
+    "sha512-7CaDeBwiAbh6ohXsvLbAZhO7wzsZAmaevfxe39qvCwRh8LyaZfDlBGGLU1CCTgrTLtCOdwBBhjOrIHaIIimHfQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/probe-image-size/7.3.0",
+  "tarball_url": "https://registry.npmjs.org/probe-image-size/-/probe-image-size-7.3.0.tgz",
+  "npm_integrity": "sha512-7CaDeBwiAbh6ohXsvLbAZhO7wzsZAmaevfxe39qvCwRh8LyaZfDlBGGLU1CCTgrTLtCOdwBBhjOrIHaIIimHfQ==",
+  "tarball_sha256": "2f50eac01a5469bcc41d7286bce04f770b7026962bfdc1e0d5501fc9737c76fe",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/nodeca/probe-image-size.git",
+    "type": "git"
+  },
+  "git_head": "906ef01d3f834ed976df61bd9f21303f49303133",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/probe-image-size@7.3.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "95e3f7f0e81e9b4940cdfaa1956aaff5e4dfd2fb1565041e7c78eb9a606f23e3",
+      "bytes": 1058
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "string_decoder",
+  "version": "1.1.1",
+  "lock_keys": [
+    "string_decoder"
+  ],
+  "lock_integrities": [
+    "sha512-n/ShnvDi6FHbbVfviro+WojiFzv+s8MPMHBczVePfUpDJLwoLT0ht1l4YwBCbi8pJAveEEdnkHyPyTP/mzRfwg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/string_decoder/1.1.1",
+  "tarball_url": "https://registry.npmjs.org/string_decoder/-/string_decoder-1.1.1.tgz",
+  "npm_integrity": "sha512-n/ShnvDi6FHbbVfviro+WojiFzv+s8MPMHBczVePfUpDJLwoLT0ht1l4YwBCbi8pJAveEEdnkHyPyTP/mzRfwg==",
+  "tarball_sha256": "af8262434508fa8292407f7fef4690d19eabb73387ca230b41f2a1155216963a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/nodejs/string_decoder.git",
+    "type": "git"
+  },
+  "git_head": "18c7f89c894ced5f610505bb006dfde9a3d1ac5e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/string_decoder@1.1.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b",
+      "bytes": 2338
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

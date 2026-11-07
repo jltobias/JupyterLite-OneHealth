@@ -1,0 +1,29 @@
+{
+  "name": "d3-format",
+  "version": "1.4.5",
+  "lock_keys": [
+    "plotly.js/d3-format"
+  ],
+  "lock_integrities": [
+    "sha512-J0piedu6Z8iB6TbIGfZgDzfXxUFN3qQRMofy2oPdXzQibYGqPB/9iMcxr/TGalU+2RsyDO+U4f33id8tbnSRMQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-format/1.4.5",
+  "tarball_url": "https://registry.npmjs.org/d3-format/-/d3-format-1.4.5.tgz",
+  "npm_integrity": "sha512-J0piedu6Z8iB6TbIGfZgDzfXxUFN3qQRMofy2oPdXzQibYGqPB/9iMcxr/TGalU+2RsyDO+U4f33id8tbnSRMQ==",
+  "tarball_sha256": "94fedc839084554f043a64ec0952e727b79414388f49ac169e326a63d3eeb451",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-format.git",
+    "type": "git"
+  },
+  "git_head": "c7a857352a79d7a50e8f535a6081ab518577ce91",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-format@1.4.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "7eea8533ea92bd8c32a901e89ecb0305890905bb12711449565ddff96891146d",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

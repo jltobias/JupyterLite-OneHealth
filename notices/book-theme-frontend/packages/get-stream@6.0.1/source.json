@@ -1,0 +1,29 @@
+{
+  "name": "get-stream",
+  "version": "6.0.1",
+  "lock_keys": [
+    "get-stream"
+  ],
+  "lock_integrities": [
+    "sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/get-stream/6.0.1",
+  "tarball_url": "https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz",
+  "npm_integrity": "sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==",
+  "tarball_sha256": "932b374872f6626198963d6fba7f93164bd6b4f12aad4ebcd16b49717be51622",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/sindresorhus/get-stream.git",
+    "type": "git"
+  },
+  "git_head": "c17901233590aa49675a7fd0f42d70b9bed1c580",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/get-stream@6.0.1/license",
+      "source_member": "package/license",
+      "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+      "bytes": 1117
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

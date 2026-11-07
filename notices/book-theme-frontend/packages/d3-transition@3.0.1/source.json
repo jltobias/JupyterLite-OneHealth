@@ -1,0 +1,29 @@
+{
+  "name": "d3-transition",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-transition"
+  ],
+  "lock_integrities": [
+    "sha512-ApKvfjsSR6tg06xrL434C0WydLr7JewBB3V+/39RMHsaXTOG0zmt/OAXeng5M5LBm0ojmxJrpomQVZ1aPvBL4w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-transition/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-transition/-/d3-transition-3.0.1.tgz",
+  "npm_integrity": "sha512-ApKvfjsSR6tg06xrL434C0WydLr7JewBB3V+/39RMHsaXTOG0zmt/OAXeng5M5LBm0ojmxJrpomQVZ1aPvBL4w==",
+  "tarball_sha256": "260eb8eaed565581afc00634ec83c83fd3b7e830e2a6b73b49f3f744dce0254c",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-transition.git",
+    "type": "git"
+  },
+  "git_head": "c4c94c421e2ef9e9ffc253fab33ccf99f1434901",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-transition@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

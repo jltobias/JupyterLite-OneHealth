@@ -1,0 +1,53 @@
+{
+  "name": "native-promise-only",
+  "version": "0.8.1",
+  "lock_keys": [
+    "native-promise-only"
+  ],
+  "lock_integrities": [
+    "sha512-zkVhZUA3y8mbz652WrL5x0fB0ehrBkulWT3TomAQ9iDtyXZvzKeEA6GPxAItBYeNYl5yngKRX612qHOhvMkDeg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/native-promise-only/0.8.1",
+  "tarball_url": "https://registry.npmjs.org/native-promise-only/-/native-promise-only-0.8.1.tgz",
+  "npm_integrity": "sha512-zkVhZUA3y8mbz652WrL5x0fB0ehrBkulWT3TomAQ9iDtyXZvzKeEA6GPxAItBYeNYl5yngKRX612qHOhvMkDeg==",
+  "tarball_sha256": "813009e5b817bbe20570ceb085b7e935e14e34b42806c6b28daaf6fade18be03",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/getify/native-promise-only.git",
+    "type": "git"
+  },
+  "git_head": "519d1cddb1128e3c51e93f5f4ec03460c42b51e9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/native-promise-only@0.8.1/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/README.md",
+        "package/npo.js",
+        "package/lib/npo.src.js"
+      ],
+      "sha256": "b42e608f01f9210d702b77ee50327a6b89556f9d5688a8a96ae8f286f6842f81",
+      "bytes": 482
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/native-promise-only@0.8.1/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/native-promise-only/0.8.1",
+      "sha256": "4f7818125bd26a77c87944aa5c1188626eb968fc7c8b91dee5219dd8ed4a4e86",
+      "bytes": 693,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Kyle Simpson",
+    "email": "getify@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

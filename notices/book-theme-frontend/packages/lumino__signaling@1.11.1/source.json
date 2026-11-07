@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/signaling",
+  "version": "1.11.1",
+  "lock_keys": [
+    "jupyterlab-plotly/@lumino/widgets/@lumino/signaling"
+  ],
+  "lock_integrities": [
+    "sha512-YCUmgw08VoyMN5KxzqPO3KMx+cwdPv28tAN06C0K7Q/dQf+oufb1XocuhZb5selTrTmmuXeizaYxgLIQGdS1fA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/signaling/1.11.1",
+  "tarball_url": "https://registry.npmjs.org/@lumino/signaling/-/signaling-1.11.1.tgz",
+  "npm_integrity": "sha512-YCUmgw08VoyMN5KxzqPO3KMx+cwdPv28tAN06C0K7Q/dQf+oufb1XocuhZb5selTrTmmuXeizaYxgLIQGdS1fA==",
+  "tarball_sha256": "6dfb313731794e607f7a8bfd54cac9304a695c51c758568ecc6e97e6cb2a9c9a",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__signaling@1.11.1/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/signaling@1.11.1/LICENSE",
+      "sha256": "5d3d42c2c2687efe4e22f2af4917d26fd17290d56af5754b21bb14ba849c6051",
+      "bytes": 3021
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "readable-stream",
+  "version": "1.0.34",
+  "lock_keys": [
+    "glsl-tokenizer/through2/readable-stream"
+  ],
+  "lock_integrities": [
+    "sha512-ok1qVCJuRkNmvebYikljxJA/UEsKwLl2nI1OmaqAu4/UE+h0wKCHok4XkL/gvi39OacXvw59RJUOFUkDib2rHg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/readable-stream/1.0.34",
+  "tarball_url": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.34.tgz",
+  "npm_integrity": "sha512-ok1qVCJuRkNmvebYikljxJA/UEsKwLl2nI1OmaqAu4/UE+h0wKCHok4XkL/gvi39OacXvw59RJUOFUkDib2rHg==",
+  "tarball_sha256": "d1010c97201478f2d9096fed5ce1217587d5238475f4506fe09c87cdd5bc56a6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/isaacs/readable-stream",
+    "type": "git"
+  },
+  "git_head": "1227c7b66deedb1dc5284a89425854d5f7ad9576",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/readable-stream@1.0.34/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6239c6144c31e58cf925c34483606969c555574d64ffa96518ab5d7f45c75d43",
+      "bytes": 1096
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

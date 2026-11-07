@@ -1,0 +1,29 @@
+{
+  "name": "supercluster",
+  "version": "7.1.5",
+  "lock_keys": [
+    "supercluster"
+  ],
+  "lock_integrities": [
+    "sha512-EulshI3pGUM66o6ZdH3ReiFcvHpM3vAigyK+vcxdjpJyEbIIrtbmBdY23mGgnI24uXiGFvrGq9Gkum/8U7vJWg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/supercluster/7.1.5",
+  "tarball_url": "https://registry.npmjs.org/supercluster/-/supercluster-7.1.5.tgz",
+  "npm_integrity": "sha512-EulshI3pGUM66o6ZdH3ReiFcvHpM3vAigyK+vcxdjpJyEbIIrtbmBdY23mGgnI24uXiGFvrGq9Gkum/8U7vJWg==",
+  "tarball_sha256": "68bd95682b3fab9274ff1fbccd018988ca2960eb26cde01a9d5aef271d8abfed",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mapbox/supercluster.git",
+    "type": "git"
+  },
+  "git_head": "54ef093df73246ef3ebcd4c27084614613570780",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/supercluster@7.1.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b8878372a0d7d1c303f48659ddbd6881807cd2196e4af2f548d8da0c0f7c4d71",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

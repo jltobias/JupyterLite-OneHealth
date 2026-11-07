@@ -1,0 +1,14 @@
+{
+  "name": "has-hover",
+  "version": "1.0.1",
+  "author_attribution": {
+    "name": "Dima Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/has-hover/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/has-hover/-/has-hover-1.0.1.tgz",
+  "git_head": "a47557cd032153f955f5ac0d48a35e2f1ce5ad9c",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

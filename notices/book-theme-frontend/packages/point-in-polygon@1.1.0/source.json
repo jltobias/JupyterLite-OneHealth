@@ -1,0 +1,29 @@
+{
+  "name": "point-in-polygon",
+  "version": "1.1.0",
+  "lock_keys": [
+    "point-in-polygon"
+  ],
+  "lock_integrities": [
+    "sha512-3ojrFwjnnw8Q9242TzgXuTD+eKiutbzyslcq1ydfu82Db2y+Ogbmyrkpv0Hgj31qwT3lbS9+QAAO/pIQM35XRw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/point-in-polygon/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/point-in-polygon/-/point-in-polygon-1.1.0.tgz",
+  "npm_integrity": "sha512-3ojrFwjnnw8Q9242TzgXuTD+eKiutbzyslcq1ydfu82Db2y+Ogbmyrkpv0Hgj31qwT3lbS9+QAAO/pIQM35XRw==",
+  "tarball_sha256": "6af1390dd9c10a6a0e50b2cdf924c35539e180a9819f3cf0bdde5ede86427b86",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/substack/point-in-polygon.git",
+    "type": "git"
+  },
+  "git_head": "24761fb3737d8d0d2a68dcf8be2c36c6a12cd1b8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/point-in-polygon@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a38ee3303e4f0cdffb18ca280b58b856dbc1bf916b0bb6018efc057ed2dcabbd",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

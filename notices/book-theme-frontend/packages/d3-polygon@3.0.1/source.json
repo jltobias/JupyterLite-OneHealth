@@ -1,0 +1,29 @@
+{
+  "name": "d3-polygon",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-polygon"
+  ],
+  "lock_integrities": [
+    "sha512-3vbA7vXYwfe1SYhED++fPUQlWSYTTGmFmQiany/gdbiWgU/iEyQzyymwL9SkJjFFuCS4902BSzewVGsHHmHtXg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-polygon/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-3.0.1.tgz",
+  "npm_integrity": "sha512-3vbA7vXYwfe1SYhED++fPUQlWSYTTGmFmQiany/gdbiWgU/iEyQzyymwL9SkJjFFuCS4902BSzewVGsHHmHtXg==",
+  "tarball_sha256": "6a33e6b083bd596a08e6f9e973fdb0d098f9ac8348cdc86346bb3e9c15614aca",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-polygon.git",
+    "type": "git"
+  },
+  "git_head": "be52ab24e723b5b0078e13f51003981839ad8134",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-polygon@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

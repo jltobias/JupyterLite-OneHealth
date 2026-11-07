@@ -1,0 +1,51 @@
+{
+  "name": "detect-kerning",
+  "version": "2.1.2",
+  "lock_keys": [
+    "detect-kerning"
+  ],
+  "lock_integrities": [
+    "sha512-I3JIbrnKPAntNLl1I6TpSQQdQ4AutYzv/sKMFKbepawV/hlH0GmYKhUoOEMd4xqaUHT+Bm0f4127lh5qs1m1tw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/detect-kerning/2.1.2",
+  "tarball_url": "https://registry.npmjs.org/detect-kerning/-/detect-kerning-2.1.2.tgz",
+  "npm_integrity": "sha512-I3JIbrnKPAntNLl1I6TpSQQdQ4AutYzv/sKMFKbepawV/hlH0GmYKhUoOEMd4xqaUHT+Bm0f4127lh5qs1m1tw==",
+  "tarball_sha256": "8a31c9424ab015cb322f1f6b7ca0e04fdc9e16553f76f5dcde2cc4c6260414c7",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/detect-kerning.git",
+    "type": "git"
+  },
+  "git_head": "9692eb832b71ae3d6ba3fc89ab7d839d59b9c35c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/detect-kerning@2.1.2/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "ee5695b91a3e21be36e6d3052632d274cdb0486cf9e80cd84259fe34fe49823d",
+      "bytes": 139
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/detect-kerning@2.1.2/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/detect-kerning/2.1.2",
+      "sha256": "ccb617bb21a7e40d204cb80dc3ef3c2b2efe371593cce26fe9fc560473d5e0da",
+      "bytes": 675,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

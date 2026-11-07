@@ -1,0 +1,29 @@
+{
+  "name": "delaunator",
+  "version": "5.1.0",
+  "lock_keys": [
+    "delaunator"
+  ],
+  "lock_integrities": [
+    "sha512-AGrQ4QSgssa1NGmWmLPqN5NY2KajF5MqxetNEO+o0n3ZwZZeTmt7bBnvzHWrmkZFxGgr4HdyFgelzgi06otLuQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/delaunator/5.1.0",
+  "tarball_url": "https://registry.npmjs.org/delaunator/-/delaunator-5.1.0.tgz",
+  "npm_integrity": "sha512-AGrQ4QSgssa1NGmWmLPqN5NY2KajF5MqxetNEO+o0n3ZwZZeTmt7bBnvzHWrmkZFxGgr4HdyFgelzgi06otLuQ==",
+  "tarball_sha256": "d4654ecf8da70c86c3d92805110e7c1cbac97332d6298e04f7572ff1352d81ee",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mapbox/delaunator.git",
+    "type": "git"
+  },
+  "git_head": "3ce65210ba78a8f02ec6e73cf202838d7df14051",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/delaunator@5.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "0b348fff56384b43dbb37593906904e56d0f9deb51eae590d4dc6d427fbf1808",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

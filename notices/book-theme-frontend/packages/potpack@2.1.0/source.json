@@ -1,0 +1,29 @@
+{
+  "name": "potpack",
+  "version": "2.1.0",
+  "lock_keys": [
+    "maplibre-gl/potpack"
+  ],
+  "lock_integrities": [
+    "sha512-pcaShQc1Shq0y+E7GqJqvZj8DTthWV1KeHGdi0Z6IAin2Oi3JnLCOfwnCo84qc+HAp52wT9nK9H7FAJp5a44GQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/potpack/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/potpack/-/potpack-2.1.0.tgz",
+  "npm_integrity": "sha512-pcaShQc1Shq0y+E7GqJqvZj8DTthWV1KeHGdi0Z6IAin2Oi3JnLCOfwnCo84qc+HAp52wT9nK9H7FAJp5a44GQ==",
+  "tarball_sha256": "dac2dd4009e2fad0862b723423c8333162e8a6f4d87604af1de23fdec490587c",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mapbox/potpack.git",
+    "type": "git"
+  },
+  "git_head": "e06ed5c8808b1ab91942ac2ff7df7a9bfcfb3f30",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/potpack@2.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "cfec0482fb785fe27e3b368a2d9e84bf7a61b275e83ec582bf288e98cd530bb0",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

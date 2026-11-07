@@ -1,0 +1,29 @@
+{
+  "name": "d3-geo-projection",
+  "version": "2.9.0",
+  "lock_keys": [
+    "d3-geo-projection"
+  ],
+  "lock_integrities": [
+    "sha512-ZULvK/zBn87of5rWAfFMc9mJOipeSo57O+BBitsKIXmU4rTVAnX1kSsJkE0R+TxY8pGNoM1nbyRRE7GYHhdOEQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-geo-projection/2.9.0",
+  "tarball_url": "https://registry.npmjs.org/d3-geo-projection/-/d3-geo-projection-2.9.0.tgz",
+  "npm_integrity": "sha512-ZULvK/zBn87of5rWAfFMc9mJOipeSo57O+BBitsKIXmU4rTVAnX1kSsJkE0R+TxY8pGNoM1nbyRRE7GYHhdOEQ==",
+  "tarball_sha256": "9e83ecfdc433d49dbc91d4a77b3f090cdb39466da875d99f43ca4f8b95be7eed",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "https://github.com/d3/d3-geo-projection.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-geo-projection@2.9.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4108a126a74cc35d4d5ae39ca5d0cc926fa7c8ec40e459a0c6d3481c69decbd8",
+      "bytes": 2627
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

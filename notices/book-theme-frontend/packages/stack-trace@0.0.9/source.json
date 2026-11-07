@@ -1,0 +1,29 @@
+{
+  "name": "stack-trace",
+  "version": "0.0.9",
+  "lock_keys": [
+    "stack-trace"
+  ],
+  "lock_integrities": [
+    "sha512-vjUc6sfgtgY0dxCdnc40mK6Oftjo9+2K8H/NG81TMhgL392FtiPA9tn9RLyTxXmTLPJPjF3VyzFp6bsWFLisMQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/stack-trace/0.0.9",
+  "tarball_url": "https://registry.npmjs.org/stack-trace/-/stack-trace-0.0.9.tgz",
+  "npm_integrity": "sha512-vjUc6sfgtgY0dxCdnc40mK6Oftjo9+2K8H/NG81TMhgL392FtiPA9tn9RLyTxXmTLPJPjF3VyzFp6bsWFLisMQ==",
+  "tarball_sha256": "20e534b4f1bbb84441f0b7aeb14f1fdac45c1ae3b47c16f4a8c30e516298c43a",
+  "declared_license": null,
+  "repository": {
+    "url": "git://github.com/felixge/node-stack-trace.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/stack-trace@0.0.9/License",
+      "source_member": "package/License",
+      "sha256": "c5ece09265dbd6335030832335dec72919b9ecfd4db126cb9bb9b8d023970304",
+      "bytes": 1101
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

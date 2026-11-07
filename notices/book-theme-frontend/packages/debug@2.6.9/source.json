@@ -1,0 +1,29 @@
+{
+  "name": "debug",
+  "version": "2.6.9",
+  "lock_keys": [
+    "stream-parser/debug"
+  ],
+  "lock_integrities": [
+    "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/debug/2.6.9",
+  "tarball_url": "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz",
+  "npm_integrity": "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==",
+  "tarball_sha256": "34ae48c66698f1f81e2a2e6e322f34e8a88b0986a3fa7b74bb5ea14c0edb1c98",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/visionmedia/debug.git",
+    "type": "git"
+  },
+  "git_head": "13abeae468fea297d0dccc50bc55590809241083",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/debug@2.6.9/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "98c970de440dcfc77471610aec2377c9d9b0db2b3be6d1add524a586e1d7f422",
+      "bytes": 1107
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

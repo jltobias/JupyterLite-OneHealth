@@ -1,0 +1,29 @@
+{
+  "name": "internmap",
+  "version": "1.0.1",
+  "lock_keys": [
+    "d3-sankey/d3-array/internmap"
+  ],
+  "lock_integrities": [
+    "sha512-lDB5YccMydFBtasVtxnZ3MRBHuaoE8GKsppq+EchKL2U4nK/DmEpPHNH8MZe5HkMtpSiTSOZwfN0tzYjO/lJEw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/internmap/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/internmap/-/internmap-1.0.1.tgz",
+  "npm_integrity": "sha512-lDB5YccMydFBtasVtxnZ3MRBHuaoE8GKsppq+EchKL2U4nK/DmEpPHNH8MZe5HkMtpSiTSOZwfN0tzYjO/lJEw==",
+  "tarball_sha256": "284029c70c1dd2df59dac1eaa5adb5e8cf8585a01011b86341ba61505eaa4324",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mbostock/internmap.git",
+    "type": "git"
+  },
+  "git_head": "566fee0b08e930c08e469f09f00f5be46dd7866f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/internmap@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "9ea8903938dab5f12c4572d60725069bec2d1b0dc3bcc210b09bae946a5ebb1f",
+      "bytes": 726
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

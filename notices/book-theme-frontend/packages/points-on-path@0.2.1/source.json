@@ -1,0 +1,29 @@
+{
+  "name": "points-on-path",
+  "version": "0.2.1",
+  "lock_keys": [
+    "points-on-path"
+  ],
+  "lock_integrities": [
+    "sha512-25ClnWWuw7JbWZcgqY/gJ4FQWadKxGWk+3kR/7kD0tCaDtPPMj7oHu2ToLaVhfpnHrZzYby2w6tUA0eOIuUg8g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/points-on-path/0.2.1",
+  "tarball_url": "https://registry.npmjs.org/points-on-path/-/points-on-path-0.2.1.tgz",
+  "npm_integrity": "sha512-25ClnWWuw7JbWZcgqY/gJ4FQWadKxGWk+3kR/7kD0tCaDtPPMj7oHu2ToLaVhfpnHrZzYby2w6tUA0eOIuUg8g==",
+  "tarball_sha256": "eb57ddbb156d4e73cbc8d9416e1b666ace0d8abf9dc783f8c934ab63dbae6e44",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/pshihn/points-on-path.git",
+    "type": "git"
+  },
+  "git_head": "7693ef0c930466b7408ee7082497e0d735f9c646",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/points-on-path@0.2.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b6fc1f7f1d96a48bc97176f3dcef959e364c5c17ba44167511de421500a86c6c",
+      "bytes": 1062
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@remix-run/react",
+  "version": "1.17.1",
+  "lock_keys": [
+    "@remix-run/react"
+  ],
+  "lock_integrities": [
+    "sha512-KDrkVkIFeDfn1xW3L8lqe0VlG7KsngdUKz09FSc9e3zYvJJV4ix998Y0qpfkDp/OnLFy2FtHzkh7c3OMnpOBnA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@remix-run/react/1.17.1",
+  "tarball_url": "https://registry.npmjs.org/@remix-run/react/-/react-1.17.1.tgz",
+  "npm_integrity": "sha512-KDrkVkIFeDfn1xW3L8lqe0VlG7KsngdUKz09FSc9e3zYvJJV4ix998Y0qpfkDp/OnLFy2FtHzkh7c3OMnpOBnA==",
+  "tarball_sha256": "0ca16aae625e8d4278cb23293c71daf90919ae1bfd4349a6109f233e900e5cc7",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/remix-run/remix.git",
+    "type": "git",
+    "directory": "packages/remix-react"
+  },
+  "git_head": "7c349aaeafb5d4250251beefa86edeb70a37e32f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/remix-run__react@1.17.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "62598f811d01bbff8147f06c97a431d657a7fba4d47e3a69ac0de0f498b9f0f9",
+      "bytes": 1118
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

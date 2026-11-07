@@ -1,0 +1,29 @@
+{
+  "name": "postcss-value-parser",
+  "version": "4.2.0",
+  "lock_keys": [
+    "postcss-value-parser"
+  ],
+  "lock_integrities": [
+    "sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/postcss-value-parser/4.2.0",
+  "tarball_url": "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz",
+  "npm_integrity": "sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==",
+  "tarball_sha256": "3de5372cf95b66a344b258a046b1b298b20ecaf187637f4d59f50017836a90a7",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/TrySound/postcss-value-parser.git",
+    "type": "git"
+  },
+  "git_head": "d4a582692533fc87cbab348136e1dbea365d5a94",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/postcss-value-parser@4.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3687447039151857a6ba378db062172c7f33d4aa70a615c87a43a9c50e990485",
+      "bytes": 1074
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

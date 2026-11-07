@@ -1,0 +1,29 @@
+{
+  "name": "css-system-font-keywords",
+  "version": "1.0.0",
+  "lock_keys": [
+    "css-system-font-keywords"
+  ],
+  "lock_integrities": [
+    "sha512-1umTtVd/fXS25ftfjB71eASCrYhilmEsvDEI6wG/QplnmlfmVM5HkZ/ZX46DT5K3eblFPgLUHt5BRCb0YXkSFA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-system-font-keywords/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/css-system-font-keywords/-/css-system-font-keywords-1.0.0.tgz",
+  "npm_integrity": "sha512-1umTtVd/fXS25ftfjB71eASCrYhilmEsvDEI6wG/QplnmlfmVM5HkZ/ZX46DT5K3eblFPgLUHt5BRCb0YXkSFA==",
+  "tarball_sha256": "69cab65c646c8af255001445857ebf771fd6f52fe6d88a735f722e0272d57093",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jedmao/css-system-font-keywords.git",
+    "type": "git"
+  },
+  "git_head": "c7cb2f8d45f2297fd82506068958d85b37e5055e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-system-font-keywords@1.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "03ac0b988d87f21fccdec911d13eaaea03c80a79ce650e2b2d1e5e9ed2238ec7",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,6 @@
+{
+  "jupyter-config-data": {
+    "appName": "OneHealth Python Lab",
+    "disabledExtensions": ["@jupyterlab/apputils-extension:announcements"]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "performance-now",
+  "version": "2.1.0",
+  "lock_keys": [
+    "performance-now"
+  ],
+  "lock_integrities": [
+    "sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/performance-now/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/performance-now/-/performance-now-2.1.0.tgz",
+  "npm_integrity": "sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow==",
+  "tarball_sha256": "068f99ddeff11741bd1ebbbe3ee4c6f782731bd9ae0a2d598536cce74e289045",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/braveg1rl/performance-now.git",
+    "type": "git"
+  },
+  "git_head": "107bb703494cc5a8071cdf45a87e53f248a5e0f3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/performance-now@2.1.0/license.txt",
+      "source_member": "package/license.txt",
+      "sha256": "c3af1272f30870168177e888b184c1f802e5081e75a126c794670c0b562d3783",
+      "bytes": 1052
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

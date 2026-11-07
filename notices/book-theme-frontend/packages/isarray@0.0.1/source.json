@@ -1,0 +1,38 @@
+{
+  "name": "isarray",
+  "version": "0.0.1",
+  "lock_keys": [
+    "glsl-tokenizer/through2/readable-stream/isarray"
+  ],
+  "lock_integrities": [
+    "sha512-D2S+3GLxWH+uhrNEcoh/fnmYeP8E8/zHl644d/jdA0g2uyXvy3sb0qxotE+ne0LtccHknQzWwZEzhak7oJ0COQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/isarray/0.0.1",
+  "tarball_url": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz",
+  "npm_integrity": "sha512-D2S+3GLxWH+uhrNEcoh/fnmYeP8E8/zHl644d/jdA0g2uyXvy3sb0qxotE+ne0LtccHknQzWwZEzhak7oJ0COQ==",
+  "tarball_sha256": "3e8444020696800aed92a09d4c52602adc76140a39b6c8e94fe7c89cf70a9f0a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/juliangruber/isarray.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/isarray@0.0.1/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/README.md"
+      ],
+      "sha256": "e37cb9caee31f45fe8d90a6c772933176d97efe3715d8fcb2ea6a7b0d7c6ae4b",
+      "bytes": 1201
+    }
+  ],
+  "coverage": "complete legal grant extracted verbatim from source or README",
+  "npm_author_attribution": {
+    "url": "http://juliangruber.com",
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "glslify-bundle",
+  "version": "5.1.1",
+  "lock_keys": [
+    "glslify-bundle"
+  ],
+  "lock_integrities": [
+    "sha512-plaAOQPv62M1r3OsWf2UbjN0hUYAB7Aph5bfH58VxJZJhloRNbxOL9tl/7H71K7OLJoSJ2ZqWOKk3ttQ6wy24A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glslify-bundle/5.1.1",
+  "tarball_url": "https://registry.npmjs.org/glslify-bundle/-/glslify-bundle-5.1.1.tgz",
+  "npm_integrity": "sha512-plaAOQPv62M1r3OsWf2UbjN0hUYAB7Aph5bfH58VxJZJhloRNbxOL9tl/7H71K7OLJoSJ2ZqWOKk3ttQ6wy24A==",
+  "tarball_sha256": "7353917f4106fa663c20770d5d99317e591175259f88b39ede9b52a63cb4e003",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/stackgl/glslify-bundle.git",
+    "type": "git"
+  },
+  "git_head": "08121da2b8181c52004632ef34e5098ca91f6fe0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glslify-bundle@5.1.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "8447fa7dd83aaf0c4807084a43d65164939f8b7067fb72c47e092e5b5063059e",
+      "bytes": 1268
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

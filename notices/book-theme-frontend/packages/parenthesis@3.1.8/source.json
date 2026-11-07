@@ -1,0 +1,29 @@
+{
+  "name": "parenthesis",
+  "version": "3.1.8",
+  "lock_keys": [
+    "parenthesis"
+  ],
+  "lock_integrities": [
+    "sha512-KF/U8tk54BgQewkJPvB4s/US3VQY68BRDpH638+7O/n58TpnwiwnOtGIOsT2/i+M78s61BBpeC83STB88d8sqw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/parenthesis/3.1.8",
+  "tarball_url": "https://registry.npmjs.org/parenthesis/-/parenthesis-3.1.8.tgz",
+  "npm_integrity": "sha512-KF/U8tk54BgQewkJPvB4s/US3VQY68BRDpH638+7O/n58TpnwiwnOtGIOsT2/i+M78s61BBpeC83STB88d8sqw==",
+  "tarball_sha256": "5f5ef61382de05443f482931c18782837d42fccd5833d84db9dbec7ed1a2352e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/dy/parenthesis.git",
+    "type": "git"
+  },
+  "git_head": "d84d4a11cf130e165511ed4e51af86a3b181d297",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/parenthesis@3.1.8/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "80dd594f7950d51ed7d4315248a9866f80507f02e92ee4eabdc12b89b476a539",
+      "bytes": 1084
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "glslify",
+  "version": "7.1.1",
+  "lock_keys": [
+    "glslify"
+  ],
+  "lock_integrities": [
+    "sha512-bud98CJ6kGZcP9Yxcsi7Iz647wuDz3oN+IZsjCRi5X1PI7t/xPKeL0mOwXJjo+CRZMqvq0CkSJiywCcY7kVYog=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glslify/7.1.1",
+  "tarball_url": "https://registry.npmjs.org/glslify/-/glslify-7.1.1.tgz",
+  "npm_integrity": "sha512-bud98CJ6kGZcP9Yxcsi7Iz647wuDz3oN+IZsjCRi5X1PI7t/xPKeL0mOwXJjo+CRZMqvq0CkSJiywCcY7kVYog==",
+  "tarball_sha256": "70eac17441d005e885642490190e5a6c81e666632d1f0e5a6ed2197415809cd5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/stackgl/glslify.git",
+    "type": "git"
+  },
+  "git_head": "ba9c52c46e10068215290753e99ac516cc02d0d7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glslify@7.1.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "10f1945ac47db03b7532264ae7addaccf22058af1dcb302c9e9dfed479e760c0",
+      "bytes": 1339
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

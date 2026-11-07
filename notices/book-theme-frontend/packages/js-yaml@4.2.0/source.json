@@ -1,0 +1,29 @@
+{
+  "name": "js-yaml",
+  "version": "4.2.0",
+  "lock_keys": [
+    "js-yaml"
+  ],
+  "lock_integrities": [
+    "sha512-ePWsvanv0DWuDRsW8dnt+R4jQ31SCRCQ7hhNcPXZPsoBZiemuZNYGf7adZdqX2D86j6rvKp3RpCxVTSb8WQlOw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/js-yaml/4.2.0",
+  "tarball_url": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.2.0.tgz",
+  "npm_integrity": "sha512-ePWsvanv0DWuDRsW8dnt+R4jQ31SCRCQ7hhNcPXZPsoBZiemuZNYGf7adZdqX2D86j6rvKp3RpCxVTSb8WQlOw==",
+  "tarball_sha256": "50bafc4aa4cb263b2d3b3f430535ed8d49294eb107796e767d76a5ca475aca66",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/nodeca/js-yaml.git",
+    "type": "git"
+  },
+  "git_head": "590dbabadd172b099c07654fab2eabec8c7a07b9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/js-yaml@4.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a07bc24468b9654ce76a547d47a2db282d07733b715db4c73a98bd63961f9550",
+      "bytes": 1084
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

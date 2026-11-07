@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/domutils",
+  "version": "2.0.4",
+  "lock_keys": [
+    "@lumino/domutils"
+  ],
+  "lock_integrities": [
+    "sha512-naYGUQn3e0CLtz/tjKOZP8SOBg0SW7EguhkxLpNUXlVUvx7rVsfr0VI22FVL+jgI0FbxXpEkxpSMxtK73jxJAg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/domutils/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/@lumino/domutils/-/domutils-2.0.4.tgz",
+  "npm_integrity": "sha512-naYGUQn3e0CLtz/tjKOZP8SOBg0SW7EguhkxLpNUXlVUvx7rVsfr0VI22FVL+jgI0FbxXpEkxpSMxtK73jxJAg==",
+  "tarball_sha256": "b30e34b094162ba93a9febf869cfc88e3aeb026f82c5e5d83ddd319e1aa42361",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__domutils@2.0.4/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/domutils@2.0.4/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

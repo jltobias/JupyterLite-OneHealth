@@ -1,0 +1,14 @@
+{
+  "name": "color-normalize",
+  "version": "1.5.0",
+  "author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/color-normalize/1.5.0",
+  "tarball_url": "https://registry.npmjs.org/color-normalize/-/color-normalize-1.5.0.tgz",
+  "git_head": "f6208c96124d17da76d13989f240f3e4976b17e2",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

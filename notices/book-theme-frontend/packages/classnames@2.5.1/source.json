@@ -1,0 +1,29 @@
+{
+  "name": "classnames",
+  "version": "2.5.1",
+  "lock_keys": [
+    "classnames"
+  ],
+  "lock_integrities": [
+    "sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/classnames/2.5.1",
+  "tarball_url": "https://registry.npmjs.org/classnames/-/classnames-2.5.1.tgz",
+  "npm_integrity": "sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==",
+  "tarball_sha256": "6c9e10fc21a14499b74bfe1e8e8dd7a6152da02fb575c3ffd3cd71f67390ebf1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/JedWatson/classnames.git",
+    "type": "git"
+  },
+  "git_head": "2e3683264bab067d13938b5eb03a96391a089cb4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/classnames@2.5.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "0c1c24dcc129cb0c02ee9803cfa7a50061c236a3b59b36a714c27f3ade66d7be",
+      "bytes": 1077
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

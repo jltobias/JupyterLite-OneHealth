@@ -1,0 +1,29 @@
+{
+  "name": "kdbush",
+  "version": "3.0.0",
+  "lock_keys": [
+    "supercluster/kdbush"
+  ],
+  "lock_integrities": [
+    "sha512-hRkd6/XW4HTsA9vjVpY9tuXJYLSlelnkTmVFu4M9/7MIYQtFcHpbugAU7UbOfjOiVSVYl2fqgBuJ32JUmRo5Ew=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/kdbush/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/kdbush/-/kdbush-3.0.0.tgz",
+  "npm_integrity": "sha512-hRkd6/XW4HTsA9vjVpY9tuXJYLSlelnkTmVFu4M9/7MIYQtFcHpbugAU7UbOfjOiVSVYl2fqgBuJ32JUmRo5Ew==",
+  "tarball_sha256": "d79b58b0bf4b3dc5fac583d7bca53713dfa5fb156f7d0f2c240227a6a6026f75",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mourner/kdbush.git",
+    "type": "git"
+  },
+  "git_head": "5ff01fb69666443270db1f136b79ba4588645ab8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/kdbush@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "597034cb7c11c916ad407344ea99a0b08e3c443a6b4421460f1d23c411c69707",
+      "bytes": 750
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@plotly/point-cluster",
+  "version": "3.1.9",
+  "lock_keys": [
+    "@plotly/point-cluster"
+  ],
+  "lock_integrities": [
+    "sha512-MwaI6g9scKf68Orpr1pHZ597pYx9uP8UEFXLPbsCmuw3a84obwz6pnMXGc90VhgDNeNiLEdlmuK7CPo+5PIxXw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@plotly/point-cluster/3.1.9",
+  "tarball_url": "https://registry.npmjs.org/@plotly/point-cluster/-/point-cluster-3.1.9.tgz",
+  "npm_integrity": "sha512-MwaI6g9scKf68Orpr1pHZ597pYx9uP8UEFXLPbsCmuw3a84obwz6pnMXGc90VhgDNeNiLEdlmuK7CPo+5PIxXw==",
+  "tarball_sha256": "2e25b800b09b2fc90f153628abd0890a872b6c1957b3e519ec346ffd2ad8ebae",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/plotly/point-cluster.git",
+    "type": "git"
+  },
+  "git_head": "f3bdebf95a27c5927cea52da9a2c4a2f5034caa1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly__point-cluster@3.1.9/license.md",
+      "source_member": "package/license.md",
+      "sha256": "2907ee84b30a5ca0f0fb134e24f60daf292a598bf5819e418eb2eb2b32262ed8",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

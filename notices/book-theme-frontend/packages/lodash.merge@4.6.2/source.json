@@ -1,0 +1,29 @@
+{
+  "name": "lodash.merge",
+  "version": "4.6.2",
+  "lock_keys": [
+    "lodash.merge"
+  ],
+  "lock_integrities": [
+    "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/lodash.merge/4.6.2",
+  "tarball_url": "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz",
+  "npm_integrity": "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==",
+  "tarball_sha256": "a34e27a950d64a15ee31c652ff1f29c29b42eadaace1d203c680ca314959ef96",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lodash/lodash.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lodash.merge@4.6.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f71e8ed126b46346494aad5486874cd8f0aafe95092ed67d2e3cb6110f939abc",
+      "bytes": 1952
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

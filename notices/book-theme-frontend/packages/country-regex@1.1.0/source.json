@@ -1,0 +1,29 @@
+{
+  "name": "country-regex",
+  "version": "1.1.0",
+  "lock_keys": [
+    "country-regex"
+  ],
+  "lock_integrities": [
+    "sha512-iSPlClZP8vX7MC3/u6s3lrDuoQyhQukh5LyABJ3hvfzbQ3Yyayd4fp04zjLnfi267B/B2FkumcWWgrbban7sSA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/country-regex/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/country-regex/-/country-regex-1.1.0.tgz",
+  "npm_integrity": "sha512-iSPlClZP8vX7MC3/u6s3lrDuoQyhQukh5LyABJ3hvfzbQ3Yyayd4fp04zjLnfi267B/B2FkumcWWgrbban7sSA==",
+  "tarball_sha256": "e38773cb2b6817532db4221fbf694138a37dfca8c362c3a0f457277297d00e79",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/etpinard/country-regex.git",
+    "type": "git"
+  },
+  "git_head": "a2cc561a29ba8dee8e9dae546e4853178461fb98",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/country-regex@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "295a58ae617eab21d154117b48e9875ed7be5d50d246094105af2af055a79a45",
+      "bytes": 1094
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

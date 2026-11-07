@@ -1,0 +1,29 @@
+{
+  "name": "d3-delaunay",
+  "version": "6.0.4",
+  "lock_keys": [
+    "d3-delaunay"
+  ],
+  "lock_integrities": [
+    "sha512-mdjtIZ1XLAM8bm/hx3WwjfHt6Sggek7qH043O8KEjDXN40xi3vx/6pYSVTwLjEgiXQTbvaouWKynLBiUZ6SK6A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-delaunay/6.0.4",
+  "tarball_url": "https://registry.npmjs.org/d3-delaunay/-/d3-delaunay-6.0.4.tgz",
+  "npm_integrity": "sha512-mdjtIZ1XLAM8bm/hx3WwjfHt6Sggek7qH043O8KEjDXN40xi3vx/6pYSVTwLjEgiXQTbvaouWKynLBiUZ6SK6A==",
+  "tarball_sha256": "935113ffa78d545505c8f1accf95be0e48594737eab34db8f50c9d6319907971",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-delaunay.git",
+    "type": "git"
+  },
+  "git_head": "c5a08b375cd57f4a314b07979e25e3e30387943f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-delaunay@6.0.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "582c3022bd01942336095f92b58a90b1be624dc547d987555c6c956512dd24c1",
+      "bytes": 757
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

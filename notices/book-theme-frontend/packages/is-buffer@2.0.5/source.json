@@ -1,0 +1,29 @@
+{
+  "name": "is-buffer",
+  "version": "2.0.5",
+  "lock_keys": [
+    "is-buffer"
+  ],
+  "lock_integrities": [
+    "sha512-i2R6zNFDwgEHJyQUtJEk0XFi1i0dPFn/oqjK3/vPCcDeJvW5NQ83V8QbicfF1SupOaB0h8ntgBC2YiE7dfyctQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-buffer/2.0.5",
+  "tarball_url": "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz",
+  "npm_integrity": "sha512-i2R6zNFDwgEHJyQUtJEk0XFi1i0dPFn/oqjK3/vPCcDeJvW5NQ83V8QbicfF1SupOaB0h8ntgBC2YiE7dfyctQ==",
+  "tarball_sha256": "2cde04866539c2397671a21d79773d4b95e3a7ae6573ee106c1cd437950fc05e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/feross/is-buffer.git",
+    "type": "git"
+  },
+  "git_head": "ec4bf3415108e8971375e6717ad63dde752faebf",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-buffer@2.0.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

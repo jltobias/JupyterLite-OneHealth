@@ -1,0 +1,29 @@
+{
+  "name": "normalize-svg-path",
+  "version": "1.1.0",
+  "lock_keys": [
+    "svg-path-bounds/normalize-svg-path"
+  ],
+  "lock_integrities": [
+    "sha512-r9KHKG2UUeB5LoTouwDzBy2VxXlHsiM6fyLQvnJa0S5hrhzqElH/CH7TUGhT1fVvIYBIKf3OpY4YJ4CK+iaqHg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/normalize-svg-path/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/normalize-svg-path/-/normalize-svg-path-1.1.0.tgz",
+  "npm_integrity": "sha512-r9KHKG2UUeB5LoTouwDzBy2VxXlHsiM6fyLQvnJa0S5hrhzqElH/CH7TUGhT1fVvIYBIKf3OpY4YJ4CK+iaqHg==",
+  "tarball_sha256": "c0cb660850638abb07561fffcecdbe91daf457e189d09e12c92277a056f99c1d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/jkroso/normalize-svg-path.git",
+    "type": "git"
+  },
+  "git_head": "34fcddc9451ff0d223167fd089af49ab6a179b90",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/normalize-svg-path@1.1.0/license.md",
+      "source_member": "package/license.md",
+      "sha256": "f3257cb8f6c6b69f90b1d4cebc1ef5dd84bf3bc831a0ba72b43dfa0f1a0f5100",
+      "bytes": 1237
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

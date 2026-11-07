@@ -1,0 +1,29 @@
+{
+  "name": "wrappy",
+  "version": "1.0.2",
+  "lock_keys": [
+    "wrappy"
+  ],
+  "lock_integrities": [
+    "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/wrappy/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz",
+  "npm_integrity": "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==",
+  "tarball_sha256": "aff3730d91b7b1e143822956d14608f563163cf11b9d0ae602df1fe1e430fdfb",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/npm/wrappy.git",
+    "type": "git"
+  },
+  "git_head": "71d91b6dc5bdeac37e218c2cf03f9ab55b60d214",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/wrappy@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+      "bytes": 765
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

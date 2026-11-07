@@ -1,0 +1,14 @@
+{
+  "name": "svg-path-bounds",
+  "version": "1.0.2",
+  "author_attribution": {
+    "name": "Dima Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/svg-path-bounds/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/svg-path-bounds/-/svg-path-bounds-1.0.2.tgz",
+  "git_head": "295974027c5424e48fab34c6d7f11264db72f357",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "geojson-vt",
+  "version": "4.0.3",
+  "lock_keys": [
+    "maplibre-gl/geojson-vt"
+  ],
+  "lock_integrities": [
+    "sha512-jR1MwkLaZGa8Zftct9ZFruyWFrdl9ZyD2OliXNy9Qq5bBPeg5wHVpBQF9p5GjnicSDQqvBVpysxTPKmWdsfWMA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/geojson-vt/4.0.3",
+  "tarball_url": "https://registry.npmjs.org/geojson-vt/-/geojson-vt-4.0.3.tgz",
+  "npm_integrity": "sha512-jR1MwkLaZGa8Zftct9ZFruyWFrdl9ZyD2OliXNy9Qq5bBPeg5wHVpBQF9p5GjnicSDQqvBVpysxTPKmWdsfWMA==",
+  "tarball_sha256": "4e3e75e18b3bb930c369800d4132920d33be1fe6a58279937083191a86393f0d",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mapbox/geojson-vt.git",
+    "type": "git"
+  },
+  "git_head": "3c21f0c126ae482805f075d3403748ce13adac26",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/geojson-vt@4.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "324139c19d87af03fda38afea1590e00ca354c4159bdb2ae9e9cec070cfa46a8",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

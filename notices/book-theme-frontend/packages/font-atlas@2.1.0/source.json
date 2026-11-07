@@ -1,0 +1,29 @@
+{
+  "name": "font-atlas",
+  "version": "2.1.0",
+  "lock_keys": [
+    "font-atlas"
+  ],
+  "lock_integrities": [
+    "sha512-kP3AmvX+HJpW4w3d+PiPR2X6E1yvsBXt2yhuCw+yReO9F1WYhvZwx3c95DGZGwg9xYzDGrgJYa885xmVA+28Cg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/font-atlas/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/font-atlas/-/font-atlas-2.1.0.tgz",
+  "npm_integrity": "sha512-kP3AmvX+HJpW4w3d+PiPR2X6E1yvsBXt2yhuCw+yReO9F1WYhvZwx3c95DGZGwg9xYzDGrgJYa885xmVA+28Cg==",
+  "tarball_sha256": "d91f351cf923041fc472856ead71e56878d00df09a7655c48a835c3fc0cf5996",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/font-atlas.git",
+    "type": "git"
+  },
+  "git_head": "7839a53518d04ab22d0a3b7c0392bffdc3472055",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/font-atlas@2.1.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "a9ecf3da3825b3e7232f29c970a2869bb1752c900bd75ba7cbabeb69b8f032b4",
+      "bytes": 1091
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

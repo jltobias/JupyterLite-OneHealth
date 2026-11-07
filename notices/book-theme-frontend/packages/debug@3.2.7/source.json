@@ -1,0 +1,29 @@
+{
+  "name": "debug",
+  "version": "3.2.7",
+  "lock_keys": [
+    "needle/debug"
+  ],
+  "lock_integrities": [
+    "sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/debug/3.2.7",
+  "tarball_url": "https://registry.npmjs.org/debug/-/debug-3.2.7.tgz",
+  "npm_integrity": "sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==",
+  "tarball_sha256": "72378f4db53abdf4c6d094e85169b0dc35a404ea4257da13ecafeda029a21c84",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/visionmedia/debug.git",
+    "type": "git"
+  },
+  "git_head": "338326076faaf6d230090903de97f459c4bccabc",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/debug@3.2.7/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "98c970de440dcfc77471610aec2377c9d9b0db2b3be6d1add524a586e1d7f422",
+      "bytes": 1107
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

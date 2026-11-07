@@ -1,0 +1,29 @@
+{
+  "name": "hachure-fill",
+  "version": "0.5.2",
+  "lock_keys": [
+    "hachure-fill"
+  ],
+  "lock_integrities": [
+    "sha512-3GKBOn+m2LX9iq+JC1064cSFprJY4jL1jCXTcpnfER5HYE2l/4EfWSGzkPa/ZDBmYI0ZOEj5VHV/eKnPGkHuOg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/hachure-fill/0.5.2",
+  "tarball_url": "https://registry.npmjs.org/hachure-fill/-/hachure-fill-0.5.2.tgz",
+  "npm_integrity": "sha512-3GKBOn+m2LX9iq+JC1064cSFprJY4jL1jCXTcpnfER5HYE2l/4EfWSGzkPa/ZDBmYI0ZOEj5VHV/eKnPGkHuOg==",
+  "tarball_sha256": "d816b83fea8b39161ef35c46f5080a0a7e406dce39ebf26f1ec8a1daea06a837",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/pshihn/hachure-fill.git",
+    "type": "git"
+  },
+  "git_head": "2083be6f7e6c814dc6a8c2c88a7823827566504e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/hachure-fill@0.5.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5e807b516a9be9229ed459880bf353a336e2d947867247290680d437017be391",
+      "bytes": 1068
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

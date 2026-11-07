@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/widgets",
+  "version": "2.8.0",
+  "lock_keys": [
+    "@lumino/widgets"
+  ],
+  "lock_integrities": [
+    "sha512-mgWcbxxolqC58mpN4HcPKQvZ1AzQFStonsffaIsR4Kor2vRhc7+RFc0hd5VnhgJowvoFmmREQhZW8ETR1ydCVw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/widgets/2.8.0",
+  "tarball_url": "https://registry.npmjs.org/@lumino/widgets/-/widgets-2.8.0.tgz",
+  "npm_integrity": "sha512-mgWcbxxolqC58mpN4HcPKQvZ1AzQFStonsffaIsR4Kor2vRhc7+RFc0hd5VnhgJowvoFmmREQhZW8ETR1ydCVw==",
+  "tarball_sha256": "4e7e5a5990fd9dcbfa857d9a4ea192dbf41b91ff63bf7ed2cafe00c4e898dc1d",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__widgets@2.8.0/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/widgets@2.8.0/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

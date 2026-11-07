@@ -1,0 +1,18 @@
+{
+  "runtime_publication_policy": "Optional Plotly payload excluded; uncertain legacy parser not distributed.",
+  "excluded_unverified_permissions": [
+    {
+      "name": "@mapbox/jsonlint-lines-primitives",
+      "version": "2.0.2",
+      "reason": "UNVERIFIED: locked2.0.2 has no license declaration or permission text; no successor-license inference made"
+    }
+  ],
+  "remaining_scope_limits": [
+    "Scope is production dependency closure of all locked instances of the 35 packages named by preserved bundled-license headers, excluding @types, dev dependencies, optional dependencies and peer-only packages.",
+    "This conservative source-lock inventory includes some build/server dependencies not proven to be present in client bundles; package presence in the lockfile does not prove inclusion.",
+    "This is not a byte-for-byte software bill of materials for every minified frontend chunk. Packages with no preserved header may require separate identification.",
+    "Original legal files and embedded legal headers are copied unchanged; application/theme code is not modified by this audit.",
+    "Some legacy packages omit standalone license files. Their explicit npm SPDX declarations, exact retained legal notices, npm author attributions and full standard-license reference text are distinguished from original license files. No missing copyright statement is invented."
+  ],
+  "download_errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "from2",
+  "version": "2.3.0",
+  "lock_keys": [
+    "from2"
+  ],
+  "lock_integrities": [
+    "sha512-OMcX/4IC/uqEPVgGeyfN22LJk6AZrMkRZHxcHBMBvHScDGgwTm2GT2Wkgtocyd3JfZffjj2kYUDXXII0Fk9W0g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/from2/2.3.0",
+  "tarball_url": "https://registry.npmjs.org/from2/-/from2-2.3.0.tgz",
+  "npm_integrity": "sha512-OMcX/4IC/uqEPVgGeyfN22LJk6AZrMkRZHxcHBMBvHScDGgwTm2GT2Wkgtocyd3JfZffjj2kYUDXXII0Fk9W0g==",
+  "tarball_sha256": "881be028b13e9f9a684473ada81da710c1aa9236dad0729cd92673fa26c995d6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/from2.git",
+    "type": "git"
+  },
+  "git_head": "09243c8b8354420059c9bc935875e1896aa58c10",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/from2@2.3.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "74afb88a7aa7f8db6735c014cba3f9f7b1b1fde39d7b56ba9b2c1f1f2d5d10ec",
+      "bytes": 1085
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

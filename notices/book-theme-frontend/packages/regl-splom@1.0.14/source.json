@@ -1,0 +1,29 @@
+{
+  "name": "regl-splom",
+  "version": "1.0.14",
+  "lock_keys": [
+    "regl-splom"
+  ],
+  "lock_integrities": [
+    "sha512-OiLqjmPRYbd7kDlHC6/zDf6L8lxgDC65BhC8JirhP4ykrK4x22ZyS+BnY8EUinXKDeMgmpRwCvUmk7BK4Nweuw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/regl-splom/1.0.14",
+  "tarball_url": "https://registry.npmjs.org/regl-splom/-/regl-splom-1.0.14.tgz",
+  "npm_integrity": "sha512-OiLqjmPRYbd7kDlHC6/zDf6L8lxgDC65BhC8JirhP4ykrK4x22ZyS+BnY8EUinXKDeMgmpRwCvUmk7BK4Nweuw==",
+  "tarball_sha256": "a8858d7633ddfcd60008974d27f31a1e39a3cbd7fdb3453c81399ebbf9c03109",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/gl-vis/regl-splom.git",
+    "type": "git"
+  },
+  "git_head": "4815b1e1ab9054d8fce3d5a010e9d276f377427d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/regl-splom@1.0.14/license.md",
+      "source_member": "package/license.md",
+      "sha256": "350454cc29b984110ff0936b4459fc8ea8f26b9b5cb7ca15664cca643577db9e",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

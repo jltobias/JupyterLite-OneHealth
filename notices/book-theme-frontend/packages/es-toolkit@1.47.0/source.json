@@ -1,0 +1,29 @@
+{
+  "name": "es-toolkit",
+  "version": "1.47.0",
+  "lock_keys": [
+    "es-toolkit"
+  ],
+  "lock_integrities": [
+    "sha512-n1GuoD0WEQZMBk5tttoZSqwgyLx01oqa5XsBmCHwPyNe1S9jPBEmtR2pSgp2kJuWE3ciFZ6yRHmY4pM4C3OOkw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/es-toolkit/1.47.0",
+  "tarball_url": "https://registry.npmjs.org/es-toolkit/-/es-toolkit-1.47.0.tgz",
+  "npm_integrity": "sha512-n1GuoD0WEQZMBk5tttoZSqwgyLx01oqa5XsBmCHwPyNe1S9jPBEmtR2pSgp2kJuWE3ciFZ6yRHmY4pM4C3OOkw==",
+  "tarball_sha256": "c3fe43c59df2bc2136841d95ffd64d7df12f7fec8faabb3652ae20ac80879abf",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/toss/es-toolkit.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/es-toolkit@1.47.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "ed68888a2a28f32a05e88f24d4d4ee75075a1bda2b6372a1f2e00fa0576a5524",
+      "bytes": 1424
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "csscolorparser",
+  "version": "1.0.3",
+  "lock_keys": [
+    "csscolorparser"
+  ],
+  "lock_integrities": [
+    "sha512-umPSgYwZkdFoUrH5hIq5kf0wPSXiro51nPw0j2K/c83KflkPSTBGMz6NJvMB+07VlL0y7VPo6QJcDjcgKTTm3w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/csscolorparser/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/csscolorparser/-/csscolorparser-1.0.3.tgz",
+  "npm_integrity": "sha512-umPSgYwZkdFoUrH5hIq5kf0wPSXiro51nPw0j2K/c83KflkPSTBGMz6NJvMB+07VlL0y7VPo6QJcDjcgKTTm3w==",
+  "tarball_sha256": "1cf25fa4cb23cbfb98e622b1805db712ceb701a43526e0f4792d160e7338e48a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "https://github.com/deanm/css-color-parser-js",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/csscolorparser@1.0.3/SOURCE-LEGAL-HEADER.txt",
+      "source_member": "package/csscolorparser.js",
+      "sha256": "8898ed988626e6176f0904feb841df585d2521cd7f3456f633622c7a15fb256f",
+      "bytes": 1207
+    }
+  ],
+  "coverage": "complete MIT copyright/permission grant copied verbatim from source header",
+  "npm_author_attribution": {
+    "name": "Dean McNamee",
+    "email": "dean@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": true
+}

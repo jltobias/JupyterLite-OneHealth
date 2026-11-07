@@ -1,0 +1,29 @@
+{
+  "name": "regl-scatter2d",
+  "version": "3.4.0",
+  "lock_keys": [
+    "regl-scatter2d"
+  ],
+  "lock_integrities": [
+    "sha512-DavKQlHsI+iHZuLgOL+yGkg+sPd94CS+7FCBWkcQ6s/TbaNfUsF9eN591fjjSWIoKrGNfb/SEGhsXR5lXjqZ2w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/regl-scatter2d/3.4.0",
+  "tarball_url": "https://registry.npmjs.org/regl-scatter2d/-/regl-scatter2d-3.4.0.tgz",
+  "npm_integrity": "sha512-DavKQlHsI+iHZuLgOL+yGkg+sPd94CS+7FCBWkcQ6s/TbaNfUsF9eN591fjjSWIoKrGNfb/SEGhsXR5lXjqZ2w==",
+  "tarball_sha256": "64717225d5f9afc10a7bad7dcb36a8526ad3fdff44ea59ff6c9a6d7a21064abc",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/regl-scatter2d.git",
+    "type": "git"
+  },
+  "git_head": "8874cf0d2cb756e6ad32b96c8fcaef274d630c24",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/regl-scatter2d@3.4.0/license",
+      "source_member": "package/license",
+      "sha256": "2907ee84b30a5ca0f0fb134e24f60daf292a598bf5819e418eb2eb2b32262ed8",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "unist-util-stringify-position",
+  "version": "3.0.3",
+  "lock_keys": [
+    "unist-util-stringify-position"
+  ],
+  "lock_integrities": [
+    "sha512-k5GzIBZ/QatR8N5X2y+drfpWG8IDBzdnVj6OInRNWm1oXrzydiaAT2OQiA8DPRRZyAKb9b6I2a6PxYklZD0gKg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/unist-util-stringify-position/3.0.3",
+  "tarball_url": "https://registry.npmjs.org/unist-util-stringify-position/-/unist-util-stringify-position-3.0.3.tgz",
+  "npm_integrity": "sha512-k5GzIBZ/QatR8N5X2y+drfpWG8IDBzdnVj6OInRNWm1oXrzydiaAT2OQiA8DPRRZyAKb9b6I2a6PxYklZD0gKg==",
+  "tarball_sha256": "60be966c7e35fea057a9c1c4c2304a72fd92de7a472373866ebbc1f94f374b60",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/syntax-tree/unist-util-stringify-position.git",
+    "type": "git"
+  },
+  "git_head": "e0cad5fc199831b457ce0efc1fab11dcdc097d11",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/unist-util-stringify-position@3.0.3/license",
+      "source_member": "package/license",
+      "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+      "bytes": 1099
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

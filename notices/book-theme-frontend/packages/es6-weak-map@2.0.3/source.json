@@ -1,0 +1,29 @@
+{
+  "name": "es6-weak-map",
+  "version": "2.0.3",
+  "lock_keys": [
+    "es6-weak-map"
+  ],
+  "lock_integrities": [
+    "sha512-p5um32HOTO1kP+w7PRnB+5lQ43Z6muuMuIMffvDN8ZB4GcnjLBV6zGStpbASIMk4DCAvEaamhe2zhyCb/QXXsA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/es6-weak-map/2.0.3",
+  "tarball_url": "https://registry.npmjs.org/es6-weak-map/-/es6-weak-map-2.0.3.tgz",
+  "npm_integrity": "sha512-p5um32HOTO1kP+w7PRnB+5lQ43Z6muuMuIMffvDN8ZB4GcnjLBV6zGStpbASIMk4DCAvEaamhe2zhyCb/QXXsA==",
+  "tarball_sha256": "886b1c2f5dcd3715e7205f843e8cf66be2f6530b0f41c479ac9db8ce4b5f2e87",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/medikoo/es6-weak-map.git",
+    "type": "git"
+  },
+  "git_head": "ac5868ab3b511552dca5fca178b1d118fed93653",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/es6-weak-map@2.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "af2d033286be76e6b748da6ca99298524e03a5e2f90eff3b2e9ab653d38d198e",
+      "bytes": 773
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

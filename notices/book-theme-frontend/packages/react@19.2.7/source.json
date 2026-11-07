@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "19.2.7",
+  "lock_keys": [
+    "react"
+  ],
+  "lock_integrities": [
+    "sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/react/19.2.7",
+  "tarball_url": "https://registry.npmjs.org/react/-/react-19.2.7.tgz",
+  "npm_integrity": "sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ==",
+  "tarball_sha256": "d0065884db7670ffb89046826995cf0d7754a31653d23908532e52671bf83d7d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/facebook/react.git",
+    "type": "git",
+    "directory": "packages/react"
+  },
+  "git_head": "6117d7cca4906492c51fe6a03381e35adfd86e7d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/react@19.2.7/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "bytes": 1088
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

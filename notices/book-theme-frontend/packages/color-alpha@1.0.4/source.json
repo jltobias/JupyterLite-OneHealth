@@ -1,0 +1,43 @@
+{
+  "name": "color-alpha",
+  "version": "1.0.4",
+  "lock_keys": [
+    "color-alpha"
+  ],
+  "lock_integrities": [
+    "sha512-lr8/t5NPozTSqli+duAN+x+no/2WaKTeWvxhHGN+aXT6AJ8vPlzLa7UriyjWak0pSC2jHol9JgjBYnnHsGha9A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-alpha/1.0.4",
+  "tarball_url": "https://registry.npmjs.org/color-alpha/-/color-alpha-1.0.4.tgz",
+  "npm_integrity": "sha512-lr8/t5NPozTSqli+duAN+x+no/2WaKTeWvxhHGN+aXT6AJ8vPlzLa7UriyjWak0pSC2jHol9JgjBYnnHsGha9A==",
+  "tarball_sha256": "9173bae32403e6b9dda3beea02ff752c397259494de2964203c1c6001c6155fd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/colorjs/color-alpha.git",
+    "type": "git"
+  },
+  "git_head": "9d0b7b2091ef0d6341171c5a8e667b372749135f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-alpha@1.0.4/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/color-alpha/1.0.4",
+      "sha256": "4a1e0110bf849c2b33445e2477e0bbcfbe41900ce3eda10fee40f3d31d0b18da",
+      "bytes": 660,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "\u0394Y",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

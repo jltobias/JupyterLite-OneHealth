@@ -1,0 +1,30 @@
+{
+  "name": "color-parse",
+  "version": "1.4.3",
+  "lock_keys": [
+    "color-alpha/color-parse",
+    "color-rgba/color-parse"
+  ],
+  "lock_integrities": [
+    "sha512-BADfVl/FHkQkyo8sRBwMYBqemqsgnu7JZAwUgvBvuwwuNUZAhSvLTbsEErS5bQXzOjDR0dWzJ4vXN2Q+QoPx0A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-parse/1.4.3",
+  "tarball_url": "https://registry.npmjs.org/color-parse/-/color-parse-1.4.3.tgz",
+  "npm_integrity": "sha512-BADfVl/FHkQkyo8sRBwMYBqemqsgnu7JZAwUgvBvuwwuNUZAhSvLTbsEErS5bQXzOjDR0dWzJ4vXN2Q+QoPx0A==",
+  "tarball_sha256": "88024e7e018d716e3aab229dfaf50dd6cb40fca1aa5731429a4a5462bb9da0d8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/colorjs/color-parse.git",
+    "type": "git"
+  },
+  "git_head": "f0ff46fcfaf46842f7594f6e5152b193444fb8b5",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-parse@1.4.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "af45ae40c7d031f40e77e09fd33b12700e96ea861c4a73f0dff3294d47e60a81",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

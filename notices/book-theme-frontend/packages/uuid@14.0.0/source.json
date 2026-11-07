@@ -1,0 +1,29 @@
+{
+  "name": "uuid",
+  "version": "14.0.0",
+  "lock_keys": [
+    "uuid"
+  ],
+  "lock_integrities": [
+    "sha512-Qo+uWgilfSmAhXCMav1uYFynlQO7fMFiMVZsQqZRMIXp0O7rR7qjkj+cPvBHLgBqi960QCoo/PH2/6ZtVqKvrg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/uuid/14.0.0",
+  "tarball_url": "https://registry.npmjs.org/uuid/-/uuid-14.0.0.tgz",
+  "npm_integrity": "sha512-Qo+uWgilfSmAhXCMav1uYFynlQO7fMFiMVZsQqZRMIXp0O7rR7qjkj+cPvBHLgBqi960QCoo/PH2/6ZtVqKvrg==",
+  "tarball_sha256": "ca468c168ec7f2021f6a98041e943443b29e67e0e0ff5b4c1caca17c6efa9870",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/uuidjs/uuid.git",
+    "type": "git"
+  },
+  "git_head": "7c1ea087a8149b57380fc8bb7f68c3a215cb6e4b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/uuid@14.0.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "beaa6b04fb82e41dd2ad679e19e27953afb5999b1abbb455b6564e78ebfeb332",
+      "bytes": 1109
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

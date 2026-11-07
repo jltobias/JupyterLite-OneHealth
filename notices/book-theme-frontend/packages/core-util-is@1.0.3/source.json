@@ -1,0 +1,29 @@
+{
+  "name": "core-util-is",
+  "version": "1.0.3",
+  "lock_keys": [
+    "core-util-is"
+  ],
+  "lock_integrities": [
+    "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/core-util-is/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz",
+  "npm_integrity": "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==",
+  "tarball_sha256": "4430fdc71f2cf3b5e297113b9a692da2d6cff96cf84da00f0ecef5e5a6e74d0c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/isaacs/core-util-is.git",
+    "type": "git"
+  },
+  "git_head": "85f4620829d1b6079fd7b351f040b6ea7e184970",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/core-util-is@1.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "33b734d60042d0fe0c92dd1fc1e874193a1c899ec3e276a2eb935d2d0bf5b710",
+      "bytes": 1077
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

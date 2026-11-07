@@ -1,0 +1,29 @@
+{
+  "name": "@plotly/d3",
+  "version": "3.8.2",
+  "lock_keys": [
+    "@plotly/d3"
+  ],
+  "lock_integrities": [
+    "sha512-wvsNmh1GYjyJfyEBPKJLTMzgf2c2bEbSIL50lmqVUi+o1NHaLPi1Lb4v7VxXXJn043BhNyrxUrWI85Q+zmjOVA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@plotly/d3/3.8.2",
+  "tarball_url": "https://registry.npmjs.org/@plotly/d3/-/d3-3.8.2.tgz",
+  "npm_integrity": "sha512-wvsNmh1GYjyJfyEBPKJLTMzgf2c2bEbSIL50lmqVUi+o1NHaLPi1Lb4v7VxXXJn043BhNyrxUrWI85Q+zmjOVA==",
+  "tarball_sha256": "f719a4d9c42cd450b3bf745865b83acc39dfd971fe6b73149f5ba6b26419b9e6",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/plotly/d3.git",
+    "type": "git"
+  },
+  "git_head": "be78ae8854e0459bf769341b84059ca3d58b2c95",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly__d3@3.8.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e4796bd1fdc09e06a3683957a177d59b38aec4143df81b2d25472438f5763482",
+      "bytes": 1429
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

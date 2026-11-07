@@ -1,0 +1,29 @@
+{
+  "name": "stream-shift",
+  "version": "1.0.3",
+  "lock_keys": [
+    "stream-shift"
+  ],
+  "lock_integrities": [
+    "sha512-76ORR0DO1o1hlKwTbi/DM3EXWGf3ZJYO8cXX5RJwnul2DEg2oyoZyjLNoQM8WsvZiFKCRfC1O0J7iCvie3RZmQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/stream-shift/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/stream-shift/-/stream-shift-1.0.3.tgz",
+  "npm_integrity": "sha512-76ORR0DO1o1hlKwTbi/DM3EXWGf3ZJYO8cXX5RJwnul2DEg2oyoZyjLNoQM8WsvZiFKCRfC1O0J7iCvie3RZmQ==",
+  "tarball_sha256": "a0b5436f80c03aa1e8c7b8b316f09417afb6c4579069fc30664cb4b757635b33",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mafintosh/stream-shift.git",
+    "type": "git"
+  },
+  "git_head": "959eb6839553630aa979d33ffc80793f07b8ba09",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/stream-shift@1.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6a134e51aa31496c15a741592fc5d782b2dbf8d8b6b8524e15c8520ae0cd6374",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

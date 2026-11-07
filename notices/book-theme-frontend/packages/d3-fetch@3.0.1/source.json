@@ -1,0 +1,29 @@
+{
+  "name": "d3-fetch",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-fetch"
+  ],
+  "lock_integrities": [
+    "sha512-kpkQIM20n3oLVBKGg6oHrUchHM3xODkTzjMoj7aWQFq5QEM+R6E4WkzT5+tojDY7yjez8KgCBRoj4aEr99Fdqw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-fetch/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-3.0.1.tgz",
+  "npm_integrity": "sha512-kpkQIM20n3oLVBKGg6oHrUchHM3xODkTzjMoj7aWQFq5QEM+R6E4WkzT5+tojDY7yjez8KgCBRoj4aEr99Fdqw==",
+  "tarball_sha256": "8a3d61af2bed2b4899df1a90dfed41c0e10ad79d1bea93a18155f5d4e11a526f",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-fetch.git",
+    "type": "git"
+  },
+  "git_head": "20a0b61b87a55c88e6b83580c927523b5c0448fe",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-fetch@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "ffdc17dc9040006bddeb891c95bfbb492e86d6bc64a4a4233666febab1be35e0",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

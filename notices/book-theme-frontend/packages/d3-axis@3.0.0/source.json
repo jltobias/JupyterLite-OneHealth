@@ -1,0 +1,29 @@
+{
+  "name": "d3-axis",
+  "version": "3.0.0",
+  "lock_keys": [
+    "d3-axis"
+  ],
+  "lock_integrities": [
+    "sha512-IH5tgjV4jE/GhHkRV0HiVYPDtvfjHQlQfJHs0usq7M30XcSBvOotpmH1IgkcXsO/5gEQZD43B//fc7SRT5S+xw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-axis/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/d3-axis/-/d3-axis-3.0.0.tgz",
+  "npm_integrity": "sha512-IH5tgjV4jE/GhHkRV0HiVYPDtvfjHQlQfJHs0usq7M30XcSBvOotpmH1IgkcXsO/5gEQZD43B//fc7SRT5S+xw==",
+  "tarball_sha256": "b5ca6e00b9a2503d6b473485684670564a370733cdc8565a45b63f9fb4d944f6",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-axis.git",
+    "type": "git"
+  },
+  "git_head": "64372b12c9ba5c8a816277b3ad04ff813db5af97",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-axis@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

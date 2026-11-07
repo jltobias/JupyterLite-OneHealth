@@ -1,0 +1,29 @@
+{
+  "name": "glsl-resolve",
+  "version": "0.0.1",
+  "lock_keys": [
+    "glsl-resolve"
+  ],
+  "lock_integrities": [
+    "sha512-xxFNsfnhZTK9NBhzJjSBGX6IOqYpvBHxxmo+4vapiljyGNCY0Bekzn0firQkQrazK59c1hYxMDxYS8MDlhw4gA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-resolve/0.0.1",
+  "tarball_url": "https://registry.npmjs.org/glsl-resolve/-/glsl-resolve-0.0.1.tgz",
+  "npm_integrity": "sha512-xxFNsfnhZTK9NBhzJjSBGX6IOqYpvBHxxmo+4vapiljyGNCY0Bekzn0firQkQrazK59c1hYxMDxYS8MDlhw4gA==",
+  "tarball_sha256": "8570910cc0e4be720028339cfc802016ce5b9a2e16a8e8343d12b8b95f5ef78b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/glsl-resolve",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-resolve@0.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "74afb88a7aa7f8db6735c014cba3f9f7b1b1fde39d7b56ba9b2c1f1f2d5d10ec",
+      "bytes": 1085
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

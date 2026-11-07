@@ -1,0 +1,30 @@
+{
+  "name": "d3-geo",
+  "version": "1.12.1",
+  "lock_keys": [
+    "d3-geo-projection/d3-geo",
+    "plotly.js/d3-geo"
+  ],
+  "lock_integrities": [
+    "sha512-XG4d1c/UJSEX9NfU02KwBL6BYPj8YKHxgBEw5om2ZnTRSbIcego6dhHwcxuSR3clxh0EpE38os1DVPOmnYtTPg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-geo/1.12.1",
+  "tarball_url": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.12.1.tgz",
+  "npm_integrity": "sha512-XG4d1c/UJSEX9NfU02KwBL6BYPj8YKHxgBEw5om2ZnTRSbIcego6dhHwcxuSR3clxh0EpE38os1DVPOmnYtTPg==",
+  "tarball_sha256": "77ad61dd4455079deec1e5fe365e12b8a9558bb36c4c6f83d56a0fb5171ede06",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "https://github.com/d3/d3-geo.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-geo@1.12.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c3c9d41a75b64963748657932167ec4c56404b8fd557d4f89c9eeda6e2fdf39a",
+      "bytes": 2606
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

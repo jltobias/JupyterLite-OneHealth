@@ -1,0 +1,29 @@
+{
+  "name": "shallow-copy",
+  "version": "0.0.1",
+  "lock_keys": [
+    "shallow-copy"
+  ],
+  "lock_integrities": [
+    "sha512-b6i4ZpVuUxB9h5gfCxPiusKYkqTMOjEbBs4wMaFbkfia4yFv92UKZ6Df8WXcKbn08JNL/abvg3FnMAOfakDvUw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/shallow-copy/0.0.1",
+  "tarball_url": "https://registry.npmjs.org/shallow-copy/-/shallow-copy-0.0.1.tgz",
+  "npm_integrity": "sha512-b6i4ZpVuUxB9h5gfCxPiusKYkqTMOjEbBs4wMaFbkfia4yFv92UKZ6Df8WXcKbn08JNL/abvg3FnMAOfakDvUw==",
+  "tarball_sha256": "38f25e0d4d9d15aa2ae371ec0f0bcf739c418d297d24a4645067e699a6414bc1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/substack/shallow-copy.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/shallow-copy@0.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

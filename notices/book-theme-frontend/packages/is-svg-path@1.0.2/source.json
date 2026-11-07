@@ -1,0 +1,43 @@
+{
+  "name": "is-svg-path",
+  "version": "1.0.2",
+  "lock_keys": [
+    "is-svg-path"
+  ],
+  "lock_integrities": [
+    "sha512-Lj4vePmqpPR1ZnRctHv8ltSh1OrSxHkhUkd7wi+VQdcdP15/KvQFyk7LhNuM7ZW0EVbJz8kZLVmL9quLrfq4Kg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-svg-path/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/is-svg-path/-/is-svg-path-1.0.2.tgz",
+  "npm_integrity": "sha512-Lj4vePmqpPR1ZnRctHv8ltSh1OrSxHkhUkd7wi+VQdcdP15/KvQFyk7LhNuM7ZW0EVbJz8kZLVmL9quLrfq4Kg==",
+  "tarball_sha256": "8f2a6b2501b89b7edfc2b2a45415773406d1d2a6b7c6e07cbc2b76ff545e84e6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/is-svg-path.git",
+    "type": "git"
+  },
+  "git_head": "72cc81f79dc37e6b9fb8855daa9d9e51c5eb204a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-svg-path@1.0.2/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/is-svg-path/1.0.2",
+      "sha256": "1607e4d9a1be5efe63898dbbfbf4001392411d9b387e6a42bdd520ed86a2adbe",
+      "bytes": 660,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

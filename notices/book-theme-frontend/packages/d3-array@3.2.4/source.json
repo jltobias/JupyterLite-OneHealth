@@ -1,0 +1,29 @@
+{
+  "name": "d3-array",
+  "version": "3.2.4",
+  "lock_keys": [
+    "d3-array"
+  ],
+  "lock_integrities": [
+    "sha512-tdQAmyA18i4J7wprpYq8ClcxZy3SC31QMeByyCFyRt7BVHdREQZ5lpzoe5mFEYZUWe+oq8HBvk9JjpibyEV4Jg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-array/3.2.4",
+  "tarball_url": "https://registry.npmjs.org/d3-array/-/d3-array-3.2.4.tgz",
+  "npm_integrity": "sha512-tdQAmyA18i4J7wprpYq8ClcxZy3SC31QMeByyCFyRt7BVHdREQZ5lpzoe5mFEYZUWe+oq8HBvk9JjpibyEV4Jg==",
+  "tarball_sha256": "6dbf3f2be39e48f86775be6e166a5d3e5a585ca7144453cd6ad1912f5ae4417f",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-array.git",
+    "type": "git"
+  },
+  "git_head": "94d4541626ae3ac6c847e3d4c6e31aca1a8879b4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-array@3.2.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "glslify-deps",
+  "version": "1.3.2",
+  "lock_keys": [
+    "glslify-deps"
+  ],
+  "lock_integrities": [
+    "sha512-7S7IkHWygJRjcawveXQjRXLO2FTjijPDYC7QfZyAQanY+yGLCFHYnPtsGT9bdyHiwPTw/5a1m1M9hamT2aBpag=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glslify-deps/1.3.2",
+  "tarball_url": "https://registry.npmjs.org/glslify-deps/-/glslify-deps-1.3.2.tgz",
+  "npm_integrity": "sha512-7S7IkHWygJRjcawveXQjRXLO2FTjijPDYC7QfZyAQanY+yGLCFHYnPtsGT9bdyHiwPTw/5a1m1M9hamT2aBpag==",
+  "tarball_sha256": "f9d3da1cd89a92c789eee8fb77d8d5f60722ebfbb020916fa84d29f13ca62678",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/stackgl/glslify-deps.git",
+    "type": "git"
+  },
+  "git_head": "bf8c8ba7672303f476339060469dcb63804a4735",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glslify-deps@1.3.2/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/glslify-deps/1.3.2",
+      "sha256": "742398183adbec05ec5ea0a6b83f64afe1fafa66930f6ecb7dae6e9e6033883d",
+      "bytes": 703,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "url": "http://hughsk.io/",
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/ISC.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC.txt",
+    "sha256": "521c6f0ed8e64736684f89843d16a4df6b4b7449acbcfc6ca6630a3037ca8c53",
+    "bytes": 737,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

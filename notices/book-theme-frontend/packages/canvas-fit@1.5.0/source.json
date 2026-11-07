@@ -1,0 +1,29 @@
+{
+  "name": "canvas-fit",
+  "version": "1.5.0",
+  "lock_keys": [
+    "canvas-fit"
+  ],
+  "lock_integrities": [
+    "sha512-onIcjRpz69/Hx5bB5HGbYKUF2uC6QT6Gp+pfpGm3A7mPfcluSLV5v4Zu+oflDUwLdUw0rLIBhUbi0v8hM4FJQQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/canvas-fit/1.5.0",
+  "tarball_url": "https://registry.npmjs.org/canvas-fit/-/canvas-fit-1.5.0.tgz",
+  "npm_integrity": "sha512-onIcjRpz69/Hx5bB5HGbYKUF2uC6QT6Gp+pfpGm3A7mPfcluSLV5v4Zu+oflDUwLdUw0rLIBhUbi0v8hM4FJQQ==",
+  "tarball_sha256": "57396fa5eca1f420bcd15be52f71fe9e2f9cc7ddfcbe7130bc2c696b2992f1c5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/canvas-fit.git",
+    "type": "git"
+  },
+  "git_head": "55ba4fa0261168779b8e2c0e7d177f22688adbb3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/canvas-fit@1.5.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

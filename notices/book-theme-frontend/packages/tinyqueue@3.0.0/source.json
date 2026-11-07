@@ -1,0 +1,30 @@
+{
+  "name": "tinyqueue",
+  "version": "3.0.0",
+  "lock_keys": [
+    "@maplibre/maplibre-gl-style-spec/tinyqueue",
+    "maplibre-gl/tinyqueue"
+  ],
+  "lock_integrities": [
+    "sha512-gRa9gwYU3ECmQYv3lslts5hxuIa90veaEcxDYuu3QGOIAEM2mOZkVHp48ANJuu1CURtRdHKUBY5Lm1tHV+sD4g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/tinyqueue/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/tinyqueue/-/tinyqueue-3.0.0.tgz",
+  "npm_integrity": "sha512-gRa9gwYU3ECmQYv3lslts5hxuIa90veaEcxDYuu3QGOIAEM2mOZkVHp48ANJuu1CURtRdHKUBY5Lm1tHV+sD4g==",
+  "tarball_sha256": "64d0414e61332c1ee6a2a99a26d42e847d8650d32b2bea232b563e01bbe643ae",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mourner/tinyqueue.git",
+    "type": "git"
+  },
+  "git_head": "1f818719f6b048be781642f04bd84e061e0ecfd3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/tinyqueue@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "780453e05abdc22307ee01c706a2e73f508d3e484fc4c804485ebf6fe0964694",
+      "bytes": 750
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "estraverse",
+  "version": "5.3.0",
+  "lock_keys": [
+    "estraverse"
+  ],
+  "lock_integrities": [
+    "sha512-MMdARuVEQziNTeJD8DgMqmhwR11BRQ/cBP+pLtYdSTnf3MIO8fFeiINEbX36ZdNlfU/7A9f3gUw49B3oQsvwBA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/estraverse/5.3.0",
+  "tarball_url": "https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz",
+  "npm_integrity": "sha512-MMdARuVEQziNTeJD8DgMqmhwR11BRQ/cBP+pLtYdSTnf3MIO8fFeiINEbX36ZdNlfU/7A9f3gUw49B3oQsvwBA==",
+  "tarball_sha256": "3e8d45da5b8085a4a8d51368ffead5b551a502c286978962a05d5c8e0d72fda6",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/estools/estraverse.git",
+    "type": "git"
+  },
+  "git_head": "ec3f900528eac270a51f7b079edeae086e7ebce4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/estraverse@5.3.0/LICENSE.BSD",
+      "source_member": "package/LICENSE.BSD",
+      "sha256": "0e74697a68cebdcd61502c30fe80ab7f9e341d995dcd452023654d57133534b1",
+      "bytes": 1231
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

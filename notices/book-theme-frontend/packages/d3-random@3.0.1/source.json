@@ -1,0 +1,29 @@
+{
+  "name": "d3-random",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-random"
+  ],
+  "lock_integrities": [
+    "sha512-FXMe9GfxTxqd5D6jFsQ+DJ8BJS4E/fT5mqqdjovykEB2oFbTMDVdg1MGFxfQW+FBOGoB++k8swBrgwSHT1cUXQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-random/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-random/-/d3-random-3.0.1.tgz",
+  "npm_integrity": "sha512-FXMe9GfxTxqd5D6jFsQ+DJ8BJS4E/fT5mqqdjovykEB2oFbTMDVdg1MGFxfQW+FBOGoB++k8swBrgwSHT1cUXQ==",
+  "tarball_sha256": "c35794d70beff4e2e2da799cd7fb0e3e763574f24c0fad38c1841770c12b99e8",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-random.git",
+    "type": "git"
+  },
+  "git_head": "4a8ed7dd38cac562f924d69f475f9f058366240b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-random@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

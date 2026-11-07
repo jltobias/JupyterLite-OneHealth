@@ -1,0 +1,29 @@
+{
+  "name": "d3-sankey",
+  "version": "0.12.3",
+  "lock_keys": [
+    "d3-sankey"
+  ],
+  "lock_integrities": [
+    "sha512-nQhsBRmM19Ax5xEIPLMY9ZmJ/cDvd1BG3UVvt5h3WRxKg5zGRbvnteTyWAbzeSvlh3tW7ZEmq4VwR5mB3tutmQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-sankey/0.12.3",
+  "tarball_url": "https://registry.npmjs.org/d3-sankey/-/d3-sankey-0.12.3.tgz",
+  "npm_integrity": "sha512-nQhsBRmM19Ax5xEIPLMY9ZmJ/cDvd1BG3UVvt5h3WRxKg5zGRbvnteTyWAbzeSvlh3tW7ZEmq4VwR5mB3tutmQ==",
+  "tarball_sha256": "6bd8cdb143d4088ff38179def70954419868d4b95f136c168ffef2dad004ff22",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-sankey.git",
+    "type": "git"
+  },
+  "git_head": "bb7233ea0004669878d922e55fe83084ef3cb555",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-sankey@0.12.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2bf785e778d67a4f5266cffcd4f2cc5bb98cde73791666e7efeb8002ba32dfa5",
+      "bytes": 1471
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

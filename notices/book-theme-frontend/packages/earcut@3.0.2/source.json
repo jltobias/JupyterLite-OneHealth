@@ -1,0 +1,29 @@
+{
+  "name": "earcut",
+  "version": "3.0.2",
+  "lock_keys": [
+    "maplibre-gl/earcut"
+  ],
+  "lock_integrities": [
+    "sha512-X7hshQbLyMJ/3RPhyObLARM2sNxxmRALLKx1+NVFFnQ9gKzmCrxm9+uLIAdBcvc8FNLpctqlQ2V6AE92Ol9UDQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/earcut/3.0.2",
+  "tarball_url": "https://registry.npmjs.org/earcut/-/earcut-3.0.2.tgz",
+  "npm_integrity": "sha512-X7hshQbLyMJ/3RPhyObLARM2sNxxmRALLKx1+NVFFnQ9gKzmCrxm9+uLIAdBcvc8FNLpctqlQ2V6AE92Ol9UDQ==",
+  "tarball_sha256": "546b92493d021b05b5c3832edbae292ad3686848a3f434697b6338d4d74c8253",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mapbox/earcut.git",
+    "type": "git"
+  },
+  "git_head": "1b942f01f4093afe8f9ba729c3850b229f69eb12",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/earcut@3.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "324139c19d87af03fda38afea1590e00ca354c4159bdb2ae9e9cec070cfa46a8",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

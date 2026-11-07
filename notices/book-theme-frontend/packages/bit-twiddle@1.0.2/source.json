@@ -1,0 +1,29 @@
+{
+  "name": "bit-twiddle",
+  "version": "1.0.2",
+  "lock_keys": [
+    "bit-twiddle"
+  ],
+  "lock_integrities": [
+    "sha512-B9UhK0DKFZhoTFcfvAzhqsjStvGJp9vYWf3+6SNTtdSQnvIgfkHbgHrg/e4+TH71N2GDu8tpmCVoyfrL1d7ntA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/bit-twiddle/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/bit-twiddle/-/bit-twiddle-1.0.2.tgz",
+  "npm_integrity": "sha512-B9UhK0DKFZhoTFcfvAzhqsjStvGJp9vYWf3+6SNTtdSQnvIgfkHbgHrg/e4+TH71N2GDu8tpmCVoyfrL1d7ntA==",
+  "tarball_sha256": "b56197f17326f89a1fb628d5c7fbadab0840f6143a5b72c522a642a835932bb5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/bit-twiddle.git",
+    "type": "git"
+  },
+  "git_head": "f0b4adc66dfb632473c57632e87d3a23f3dd2680",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/bit-twiddle@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

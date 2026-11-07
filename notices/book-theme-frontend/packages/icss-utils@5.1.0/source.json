@@ -1,0 +1,29 @@
+{
+  "name": "icss-utils",
+  "version": "5.1.0",
+  "lock_keys": [
+    "icss-utils"
+  ],
+  "lock_integrities": [
+    "sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/icss-utils/5.1.0",
+  "tarball_url": "https://registry.npmjs.org/icss-utils/-/icss-utils-5.1.0.tgz",
+  "npm_integrity": "sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA==",
+  "tarball_sha256": "8020830a75369887881c2d03656044b119be8100426365aff4156c368fe73a90",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/css-modules/icss-utils.git",
+    "type": "git"
+  },
+  "git_head": "913a175f0cc2d70fad80b6190e9dce122454a0e0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/icss-utils@5.1.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "b2b54c738525e98cc42d4a1c239c9d8421507816acce98950e81d0943daae68e",
+      "bytes": 744
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

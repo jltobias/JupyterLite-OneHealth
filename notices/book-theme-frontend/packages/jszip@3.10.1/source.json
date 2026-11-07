@@ -1,0 +1,35 @@
+{
+  "name": "jszip",
+  "version": "3.10.1",
+  "lock_keys": [
+    "jszip"
+  ],
+  "lock_integrities": [
+    "sha512-xXDvecyTpGLrqFrvkrUSoxxfJI5AH7U8zxxtVclpsUtMCq4JQ290LY8AW5c7Ggnr/Y/oK+bQMbqK2qmtk3pN4g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/jszip/3.10.1",
+  "tarball_url": "https://registry.npmjs.org/jszip/-/jszip-3.10.1.tgz",
+  "npm_integrity": "sha512-xXDvecyTpGLrqFrvkrUSoxxfJI5AH7U8zxxtVclpsUtMCq4JQ290LY8AW5c7Ggnr/Y/oK+bQMbqK2qmtk3pN4g==",
+  "tarball_sha256": "5117f4a2a645aeb307bf3b829c575ad58135cc97e75291e594532ab5b5b21b23",
+  "declared_license": "(MIT OR GPL-3.0-or-later)",
+  "repository": {
+    "url": "git+https://github.com/Stuk/jszip.git",
+    "type": "git"
+  },
+  "git_head": "0f2f1e4d0509514417db83fe5b86bde90e0ffe8d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/jszip@3.10.1/lib/license_header.js",
+      "source_member": "package/lib/license_header.js",
+      "sha256": "27873abeec2df3693480a8d1b8fe17dd61bee843d1b39c1c9cfab57ffe93099e",
+      "bytes": 388
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/jszip@3.10.1/LICENSE.markdown",
+      "source_member": "package/LICENSE.markdown",
+      "sha256": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4",
+      "bytes": 33753
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

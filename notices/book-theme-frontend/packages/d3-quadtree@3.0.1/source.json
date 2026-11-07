@@ -1,0 +1,29 @@
+{
+  "name": "d3-quadtree",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-quadtree"
+  ],
+  "lock_integrities": [
+    "sha512-04xDrxQTDTCFwP5H6hRhsRcb9xxv2RzkcsygFzmkSIOJy3PeRJP7sNk3VRIbKXcog561P9oU0/rVH6vDROAgUw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-quadtree/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-3.0.1.tgz",
+  "npm_integrity": "sha512-04xDrxQTDTCFwP5H6hRhsRcb9xxv2RzkcsygFzmkSIOJy3PeRJP7sNk3VRIbKXcog561P9oU0/rVH6vDROAgUw==",
+  "tarball_sha256": "d4145e9cecca8a6077e1099de96375ec9923b0de0df4004bd98aafa17c2d557f",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-quadtree.git",
+    "type": "git"
+  },
+  "git_head": "24d7ea88ea7099407cdce67e7fe548a3a1893d92",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-quadtree@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "json-stringify-pretty-compact",
+  "version": "4.0.0",
+  "lock_keys": [
+    "json-stringify-pretty-compact"
+  ],
+  "lock_integrities": [
+    "sha512-3CNZ2DnrpByG9Nqj6Xo8vqbjT4F6N+tb4Gb28ESAZjYZ5yqvmc56J+/kuIwkaAMOyblTQhUW7PxMkUb8Q36N3Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/json-stringify-pretty-compact/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/json-stringify-pretty-compact/-/json-stringify-pretty-compact-4.0.0.tgz",
+  "npm_integrity": "sha512-3CNZ2DnrpByG9Nqj6Xo8vqbjT4F6N+tb4Gb28ESAZjYZ5yqvmc56J+/kuIwkaAMOyblTQhUW7PxMkUb8Q36N3Q==",
+  "tarball_sha256": "f15336163c9de2e2d9b820516be061235f4eed93a0a4d5bc9593700799c25f4f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lydell/json-stringify-pretty-compact.git",
+    "type": "git"
+  },
+  "git_head": "4001a1217b358f1d2aff2654fe1593d62d131195",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/json-stringify-pretty-compact@4.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2d51145876dda3dd13253463b852aa83b78aa598b90fca1709f39f1740ff9a2f",
+      "bytes": 1109
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

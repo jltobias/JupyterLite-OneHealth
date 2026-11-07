@@ -1,0 +1,29 @@
+{
+  "name": "@plotly/d3-sankey-circular",
+  "version": "0.33.1",
+  "lock_keys": [
+    "@plotly/d3-sankey-circular"
+  ],
+  "lock_integrities": [
+    "sha512-FgBV1HEvCr3DV7RHhDsPXyryknucxtfnLwPtCKKxdolKyTFYoLX/ibEfX39iFYIL7DYbVeRtP43dbFcrHNE+KQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@plotly/d3-sankey-circular/0.33.1",
+  "tarball_url": "https://registry.npmjs.org/@plotly/d3-sankey-circular/-/d3-sankey-circular-0.33.1.tgz",
+  "npm_integrity": "sha512-FgBV1HEvCr3DV7RHhDsPXyryknucxtfnLwPtCKKxdolKyTFYoLX/ibEfX39iFYIL7DYbVeRtP43dbFcrHNE+KQ==",
+  "tarball_sha256": "29bdd59b3d5148323beafa0add4fc2dca806156b0791d8246e60081a6e0cb4dd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/d3-sankey-circular.git",
+    "type": "git"
+  },
+  "git_head": "aaef0acc305229e0dbaf6df87b5a2fb48e6d1639",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly__d3-sankey-circular@0.33.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "793031003729acb6fc69e8e6c5ef754dd9f5be4e68ac1e70ced1cc7c1dabae94",
+      "bytes": 1068
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

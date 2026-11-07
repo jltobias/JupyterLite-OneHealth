@@ -1,0 +1,29 @@
+{
+  "name": "normalize-svg-path",
+  "version": "0.1.0",
+  "lock_keys": [
+    "normalize-svg-path"
+  ],
+  "lock_integrities": [
+    "sha512-1/kmYej2iedi5+ROxkRESL/pI02pkg0OBnaR4hJkSIX6+ORzepwbuUXfrdZaPjysTsJInj0Rj5NuX027+dMBvA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/normalize-svg-path/0.1.0",
+  "tarball_url": "https://registry.npmjs.org/normalize-svg-path/-/normalize-svg-path-0.1.0.tgz",
+  "npm_integrity": "sha512-1/kmYej2iedi5+ROxkRESL/pI02pkg0OBnaR4hJkSIX6+ORzepwbuUXfrdZaPjysTsJInj0Rj5NuX027+dMBvA==",
+  "tarball_sha256": "eaa2a12bbad47643e046dba25db684b0412c9e6b93d3a839b68e7ac31ac1e6c1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/jkroso/normalize-svg-path.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/normalize-svg-path@0.1.0/UPSTREAM-License",
+      "source_url": "https://raw.githubusercontent.com/jkroso/normalize-svg-path/0.1.0/License",
+      "sha256": "85acc0e2f3679e910e732e0f54f5492bc444fe0d367ea96e10765d16f85db388",
+      "bytes": 1212
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

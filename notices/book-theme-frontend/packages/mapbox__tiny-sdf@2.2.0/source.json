@@ -1,0 +1,29 @@
+{
+  "name": "@mapbox/tiny-sdf",
+  "version": "2.2.0",
+  "lock_keys": [
+    "maplibre-gl/@mapbox/tiny-sdf"
+  ],
+  "lock_integrities": [
+    "sha512-LVL4wgI9YAum5V+LNVQO6QgFBPw7/MIIY4XJPNsPDMrjEwcE+JfKk1LuIl8GnF197ejVdC9QdPaxrx5gfgdGXg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/tiny-sdf/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/tiny-sdf/-/tiny-sdf-2.2.0.tgz",
+  "npm_integrity": "sha512-LVL4wgI9YAum5V+LNVQO6QgFBPw7/MIIY4XJPNsPDMrjEwcE+JfKk1LuIl8GnF197ejVdC9QdPaxrx5gfgdGXg==",
+  "tarball_sha256": "b0c5d73513d385d9df98ddde8567c2e7583672b82fc10fad551d3377994d1e75",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+https://github.com/mapbox/tiny-sdf.git",
+    "type": "git"
+  },
+  "git_head": "acd9f1646724f7dc8a7e049d0666450491bf8d12",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__tiny-sdf@2.2.0/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "4f78063c6c0757df950aa3440cef9a2a6bd1c552c994c32237c3acc283e72ee6",
+      "bytes": 1290
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

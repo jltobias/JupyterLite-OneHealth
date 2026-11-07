@@ -1,0 +1,29 @@
+{
+  "name": "commander",
+  "version": "7.2.0",
+  "lock_keys": [
+    "d3-dsv/commander"
+  ],
+  "lock_integrities": [
+    "sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/commander/7.2.0",
+  "tarball_url": "https://registry.npmjs.org/commander/-/commander-7.2.0.tgz",
+  "npm_integrity": "sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==",
+  "tarball_sha256": "cbb0895e31309d01f270ba9e94a0bea386acab0165672f6a1539df8b3a6448f6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tj/commander.js.git",
+    "type": "git"
+  },
+  "git_head": "327a3ddd552f90d1dbd37f55fa7a88b9553468ae",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/commander@7.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "04512a63dce4d2d506ad612dc0bd7681ccf6e3655f7b6eaef7dfac8323d1ec0b",
+      "bytes": 1098
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "has-hover",
+  "version": "1.0.1",
+  "lock_keys": [
+    "has-hover"
+  ],
+  "lock_integrities": [
+    "sha512-0G6w7LnlcpyDzpeGUTuT0CEw05+QlMuGVk1IHNAlHrGJITGodjZu3x8BNDUMfKJSZXNB2ZAclqc1bvrd+uUpfg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/has-hover/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/has-hover/-/has-hover-1.0.1.tgz",
+  "npm_integrity": "sha512-0G6w7LnlcpyDzpeGUTuT0CEw05+QlMuGVk1IHNAlHrGJITGodjZu3x8BNDUMfKJSZXNB2ZAclqc1bvrd+uUpfg==",
+  "tarball_sha256": "bee8655034499c128f5aab9841cf6355df97b827d714fb6915fc2e94649b5ef7",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/has-hover.git",
+    "type": "git"
+  },
+  "git_head": "a47557cd032153f955f5ac0d48a35e2f1ce5ad9c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/has-hover@1.0.1/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/has-hover/1.0.1",
+      "sha256": "385a624c72c711a04cbc7ea7878e959fe20bf3d31cbaaa7174d40ef44729c558",
+      "bytes": 653,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

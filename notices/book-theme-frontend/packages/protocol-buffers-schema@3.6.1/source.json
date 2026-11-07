@@ -1,0 +1,29 @@
+{
+  "name": "protocol-buffers-schema",
+  "version": "3.6.1",
+  "lock_keys": [
+    "protocol-buffers-schema"
+  ],
+  "lock_integrities": [
+    "sha512-VG2K63Igkiv9p76tk1lilczEK1cT+kCjKtkdhw1dQZV3k3IXJbd3o6Ho8b9zJZaHSnT2hKe4I+ObmX9w6m5SmQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/protocol-buffers-schema/3.6.1",
+  "tarball_url": "https://registry.npmjs.org/protocol-buffers-schema/-/protocol-buffers-schema-3.6.1.tgz",
+  "npm_integrity": "sha512-VG2K63Igkiv9p76tk1lilczEK1cT+kCjKtkdhw1dQZV3k3IXJbd3o6Ho8b9zJZaHSnT2hKe4I+ObmX9w6m5SmQ==",
+  "tarball_sha256": "907f8fd7d60cc2a96875b128e161b0013bdef8c2523012d3041a0f72f20de852",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mafintosh/protocol-buffers-schema.git",
+    "type": "git"
+  },
+  "git_head": "46c34bd3199aa1e32374a1af59d02413b9ea197a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/protocol-buffers-schema@3.6.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

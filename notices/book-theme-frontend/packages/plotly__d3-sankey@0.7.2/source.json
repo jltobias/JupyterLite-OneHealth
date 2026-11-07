@@ -1,0 +1,29 @@
+{
+  "name": "@plotly/d3-sankey",
+  "version": "0.7.2",
+  "lock_keys": [
+    "@plotly/d3-sankey"
+  ],
+  "lock_integrities": [
+    "sha512-2jdVos1N3mMp3QW0k2q1ph7Gd6j5PY1YihBrwpkFnKqO+cqtZq3AdEYUeSGXMeLsBDQYiqTVcihYfk8vr5tqhw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@plotly/d3-sankey/0.7.2",
+  "tarball_url": "https://registry.npmjs.org/@plotly/d3-sankey/-/d3-sankey-0.7.2.tgz",
+  "npm_integrity": "sha512-2jdVos1N3mMp3QW0k2q1ph7Gd6j5PY1YihBrwpkFnKqO+cqtZq3AdEYUeSGXMeLsBDQYiqTVcihYfk8vr5tqhw==",
+  "tarball_sha256": "4926a9f501b61dac94b32c1900d6feeefe9a59fa381dc603bfa8ae075cab09da",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-sankey.git",
+    "type": "git"
+  },
+  "git_head": "d046b321955fdfcd2d0c8b0f8055e34c841dd80d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly__d3-sankey@0.7.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2bf785e778d67a4f5266cffcd4f2cc5bb98cde73791666e7efeb8002ba32dfa5",
+      "bytes": 1471
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

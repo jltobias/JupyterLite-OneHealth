@@ -1,0 +1,29 @@
+{
+  "name": "array-range",
+  "version": "1.0.1",
+  "lock_keys": [
+    "array-range"
+  ],
+  "lock_integrities": [
+    "sha512-shdaI1zT3CVNL2hnx9c0JMc0ZogGaxDs5e85akgHWKYa0yVbIyp06Ind3dVkTj/uuFrzaHBOyqFzo+VV6aXgtA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/array-range/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/array-range/-/array-range-1.0.1.tgz",
+  "npm_integrity": "sha512-shdaI1zT3CVNL2hnx9c0JMc0ZogGaxDs5e85akgHWKYa0yVbIyp06Ind3dVkTj/uuFrzaHBOyqFzo+VV6aXgtA==",
+  "tarball_sha256": "ef7b62b61ede2a444491faf138389ca1551372b80450982bd6e72465de589af9",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mattdesl/array-range.git",
+    "type": "git"
+  },
+  "git_head": "d8b6fbdfc29caf846be02229325dfb4967f1dcd6",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/array-range@1.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "91515553fda3d86e82454bab0eb876a2cb9a31c0dcb8be640870fed624e53697",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

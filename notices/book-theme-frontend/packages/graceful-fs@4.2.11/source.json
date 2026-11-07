@@ -1,0 +1,29 @@
+{
+  "name": "graceful-fs",
+  "version": "4.2.11",
+  "lock_keys": [
+    "graceful-fs"
+  ],
+  "lock_integrities": [
+    "sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/graceful-fs/4.2.11",
+  "tarball_url": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz",
+  "npm_integrity": "sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==",
+  "tarball_sha256": "3961374aa161e6fed80d6f4b6aaf2fb7eafd2c9e5be34e865b375f0114dd099c",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/isaacs/node-graceful-fs.git",
+    "type": "git"
+  },
+  "git_head": "514861c372899df14beb7aaecca4cdbb498d7d11",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/graceful-fs@4.2.11/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f65c5d9f22a317b2a10803bd1868461ce6499c2ed7217bc80c0cc772a748789c",
+      "bytes": 791
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

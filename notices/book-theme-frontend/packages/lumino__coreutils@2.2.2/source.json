@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/coreutils",
+  "version": "2.2.2",
+  "lock_keys": [
+    "@lumino/coreutils"
+  ],
+  "lock_integrities": [
+    "sha512-zaKJaK7rawPATn2BGHkbMrR6oK3s9PxNe9KreLwWF2dB4ZBHDiEmNLRyHRorfJ7XqVOEXAsAAj0jFn+qJPC/4Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/coreutils/2.2.2",
+  "tarball_url": "https://registry.npmjs.org/@lumino/coreutils/-/coreutils-2.2.2.tgz",
+  "npm_integrity": "sha512-zaKJaK7rawPATn2BGHkbMrR6oK3s9PxNe9KreLwWF2dB4ZBHDiEmNLRyHRorfJ7XqVOEXAsAAj0jFn+qJPC/4Q==",
+  "tarball_sha256": "522c78176f87c07c10f1427c26d06d8e7795d43069d49014458ba0582529893e",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__coreutils@2.2.2/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/coreutils@2.2.2/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

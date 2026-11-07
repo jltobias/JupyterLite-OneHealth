@@ -1,0 +1,29 @@
+{
+  "name": "immediate",
+  "version": "3.0.6",
+  "lock_keys": [
+    "immediate"
+  ],
+  "lock_integrities": [
+    "sha512-XXOFtyqDjNDAQxVfYxuF7g9Il/IbWmmlQg2MYKOH8ExIT1qg6xc4zyS3HaEEATgs1btfzxq15ciUiY7gjSXRGQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/immediate/3.0.6",
+  "tarball_url": "https://registry.npmjs.org/immediate/-/immediate-3.0.6.tgz",
+  "npm_integrity": "sha512-XXOFtyqDjNDAQxVfYxuF7g9Il/IbWmmlQg2MYKOH8ExIT1qg6xc4zyS3HaEEATgs1btfzxq15ciUiY7gjSXRGQ==",
+  "tarball_sha256": "98c792f39650b00818c05dcc407902034dc4092f368596b37658d44f28739d11",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/calvinmetcalf/immediate.git",
+    "type": "git"
+  },
+  "git_head": "cba16a641397af7071dda0d7aee8b06c89a9926d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/immediate@3.0.6/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "809e66de579fb7d92503848bbe6d1f348f4f6521a71e5d294fe7cc0c87a3b4ff",
+      "bytes": 1115
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "buffer-from",
+  "version": "1.1.2",
+  "lock_keys": [
+    "buffer-from"
+  ],
+  "lock_integrities": [
+    "sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/buffer-from/1.1.2",
+  "tarball_url": "https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.2.tgz",
+  "npm_integrity": "sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==",
+  "tarball_sha256": "9c2b03d59eca8f463a1927e07273ddaa87785fe3f61626c42b005540e962e343",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/LinusU/buffer-from.git",
+    "type": "git"
+  },
+  "git_head": "fa0c9264a1b7eddf8c1aa1bbd78ce0ac256c485f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/buffer-from@1.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "14275f5c8139d02054c5259d52a88ccbba662a86af18c30f071c8d082dc6004c",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

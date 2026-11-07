@@ -1,0 +1,32 @@
+{
+  "name": "react-is",
+  "version": "18.3.1",
+  "lock_keys": [
+    "@rjsf/utils/react-is",
+    "jest-message-util/pretty-format/react-is",
+    "pretty-format/react-is"
+  ],
+  "lock_integrities": [
+    "sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/react-is/18.3.1",
+  "tarball_url": "https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz",
+  "npm_integrity": "sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==",
+  "tarball_sha256": "867a2bb62ef5277e6b2065cdd1332cda07cc92aa2979b22d05c86c89fb918552",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/facebook/react.git",
+    "type": "git",
+    "directory": "packages/react-is"
+  },
+  "git_head": "a87edf62d7d69705ddbcec9a24f0780b3db7535f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/react-is@18.3.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+      "bytes": 1086
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

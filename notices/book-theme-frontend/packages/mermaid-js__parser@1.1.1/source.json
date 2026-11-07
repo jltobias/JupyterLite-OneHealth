@@ -1,0 +1,30 @@
+{
+  "name": "@mermaid-js/parser",
+  "version": "1.1.1",
+  "lock_keys": [
+    "@mermaid-js/parser"
+  ],
+  "lock_integrities": [
+    "sha512-VuHdsYMK1bT6X2JbcAaWAhugTRvRBRyuZgd+c22swUeI9g/ntaxF7CY7dYarhZovofCbUNO0G7JesfmNtjYOCw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mermaid-js/parser/1.1.1",
+  "tarball_url": "https://registry.npmjs.org/@mermaid-js/parser/-/parser-1.1.1.tgz",
+  "npm_integrity": "sha512-VuHdsYMK1bT6X2JbcAaWAhugTRvRBRyuZgd+c22swUeI9g/ntaxF7CY7dYarhZovofCbUNO0G7JesfmNtjYOCw==",
+  "tarball_sha256": "08ebeb496d251ae5861e5ece63c7c7c8c5fdbb247f34f46e57c234c6eb3b0c9b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mermaid-js/mermaid.git",
+    "type": "git",
+    "directory": "packages/parser"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mermaid-js__parser@1.1.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "d374061c40bfb6f99c5033290caefda97a9b3e7e477e5ee02f487143ef2177e8",
+      "bytes": 1077
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

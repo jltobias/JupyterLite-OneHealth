@@ -1,0 +1,29 @@
+{
+  "name": "raf",
+  "version": "3.4.1",
+  "lock_keys": [
+    "raf"
+  ],
+  "lock_integrities": [
+    "sha512-Sq4CW4QhwOHE8ucn6J34MqtZCeWFP2aQSmrlroYgqAV1PjStIhJXxYuTgUIfkEk7zTLjmIjLmU5q+fbD1NnOJA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/raf/3.4.1",
+  "tarball_url": "https://registry.npmjs.org/raf/-/raf-3.4.1.tgz",
+  "npm_integrity": "sha512-Sq4CW4QhwOHE8ucn6J34MqtZCeWFP2aQSmrlroYgqAV1PjStIhJXxYuTgUIfkEk7zTLjmIjLmU5q+fbD1NnOJA==",
+  "tarball_sha256": "1e808c9494d51196e026d250b4bcecbe81ce91e7d9ace1b419ff14be5319802f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/chrisdickinson/raf.git",
+    "type": "git"
+  },
+  "git_head": "8b77b7b0f37275dce8930cd9888f1cab209fff6a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/raf@3.4.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6b2194e178545b3dcde4a40a09b5f6c00bd9b5b695db0c826c14995c6c9b4ec5",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

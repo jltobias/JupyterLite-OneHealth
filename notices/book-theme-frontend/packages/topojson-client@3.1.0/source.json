@@ -1,0 +1,29 @@
+{
+  "name": "topojson-client",
+  "version": "3.1.0",
+  "lock_keys": [
+    "topojson-client"
+  ],
+  "lock_integrities": [
+    "sha512-605uxS6bcYxGXw9qi62XyrV6Q3xwbndjachmNxu8HWTtVPxZfEJN9fd/SZS1Q54Sn2y0TMyMxFj/cJINqGHrKw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/topojson-client/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/topojson-client/-/topojson-client-3.1.0.tgz",
+  "npm_integrity": "sha512-605uxS6bcYxGXw9qi62XyrV6Q3xwbndjachmNxu8HWTtVPxZfEJN9fd/SZS1Q54Sn2y0TMyMxFj/cJINqGHrKw==",
+  "tarball_sha256": "889fadb422f6236d0f8337a236ce6499f258b75e44b81733b13bd971067322bf",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/topojson/topojson-client.git",
+    "type": "git"
+  },
+  "git_head": "71e5bd6428fd8b7a40fa980d2ef7862140851f03",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/topojson-client@3.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+      "bytes": 734
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

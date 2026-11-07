@@ -1,0 +1,29 @@
+{
+  "name": "process-nextick-args",
+  "version": "2.0.1",
+  "lock_keys": [
+    "process-nextick-args"
+  ],
+  "lock_integrities": [
+    "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/process-nextick-args/2.0.1",
+  "tarball_url": "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.1.tgz",
+  "npm_integrity": "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==",
+  "tarball_sha256": "425bf8c725d23bc5ac76bcedd10d9cdbbd6354c7273dd7def44417cfbca8889b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/calvinmetcalf/process-nextick-args.git",
+    "type": "git"
+  },
+  "git_head": "b96d59913025441b00c4fd40e6894ddfa8e1c398",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/process-nextick-args@2.0.1/license.md",
+      "source_member": "package/license.md",
+      "sha256": "ecdccbcf39024f624ded480c01c0b25458e1eca8f26ecf040933865ce56d9a4f",
+      "bytes": 1064
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "quickselect",
+  "version": "3.0.0",
+  "lock_keys": [
+    "maplibre-gl/quickselect"
+  ],
+  "lock_integrities": [
+    "sha512-XdjUArbK4Bm5fLLvlm5KpTFOiOThgfWWI4axAZDWg4E/0mKdZyI9tNEfds27qCi1ze/vwTR16kvmmGhRra3c2g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/quickselect/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/quickselect/-/quickselect-3.0.0.tgz",
+  "npm_integrity": "sha512-XdjUArbK4Bm5fLLvlm5KpTFOiOThgfWWI4axAZDWg4E/0mKdZyI9tNEfds27qCi1ze/vwTR16kvmmGhRra3c2g==",
+  "tarball_sha256": "2cf90a3c6f9eb7ccb618bc31e362a615f9f46de593b8465176d883e66b5f8c84",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mourner/quickselect.git",
+    "type": "git"
+  },
+  "git_head": "c26429fd0a6f7b63b48a269e04748c34e8c0c5f4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/quickselect@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "238ddb00e12a420a54e060afa19bdab4f70bf49e0e2a8ebb1a5e851f9ef447df",
+      "bytes": 750
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

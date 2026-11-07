@@ -1,0 +1,30 @@
+{
+  "name": "@mapbox/unitbezier",
+  "version": "0.0.1",
+  "lock_keys": [
+    "@maplibre/maplibre-gl-style-spec/@mapbox/unitbezier",
+    "maplibre-gl/@mapbox/unitbezier"
+  ],
+  "lock_integrities": [
+    "sha512-nMkuDXFv60aBr9soUG5q+GvZYL+2KZHVvsqFCzqnkGEf46U2fvmytHaEVc1/YZbiLn8X+eR3QzX1+dwDO1lxlw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/unitbezier/0.0.1",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/unitbezier/-/unitbezier-0.0.1.tgz",
+  "npm_integrity": "sha512-nMkuDXFv60aBr9soUG5q+GvZYL+2KZHVvsqFCzqnkGEf46U2fvmytHaEVc1/YZbiLn8X+eR3QzX1+dwDO1lxlw==",
+  "tarball_sha256": "6eb1a3d9b5caa2a7685ae212e0a65c5e7e353c11ad78f439f2bbb2fc22296016",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/mapbox/unitbezier.git",
+    "type": "git"
+  },
+  "git_head": "3961002a8b6341c146252c1c240f5db4f9bd21f4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__unitbezier@0.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f0dc305ad097eddbc66eebb79288c92d8a5043818ace81206383a4c1a3268fe3",
+      "bytes": 1387
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

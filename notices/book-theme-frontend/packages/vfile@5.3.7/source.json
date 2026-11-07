@@ -1,0 +1,29 @@
+{
+  "name": "vfile",
+  "version": "5.3.7",
+  "lock_keys": [
+    "vfile"
+  ],
+  "lock_integrities": [
+    "sha512-r7qlzkgErKjobAmyNIkkSpizsFPYiUPuJb5pNW1RB4JcYVZhs4lIbVqk8XPk033CV/1z8ss5pkax8SuhGpcG8g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/vfile/5.3.7",
+  "tarball_url": "https://registry.npmjs.org/vfile/-/vfile-5.3.7.tgz",
+  "npm_integrity": "sha512-r7qlzkgErKjobAmyNIkkSpizsFPYiUPuJb5pNW1RB4JcYVZhs4lIbVqk8XPk033CV/1z8ss5pkax8SuhGpcG8g==",
+  "tarball_sha256": "e82955700668f1198443fe90a649c75129b822266da8ddca7d1ac897d2d7b89b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vfile/vfile.git",
+    "type": "git"
+  },
+  "git_head": "5d3c0de9529e4b0dd45cd7c2d9919b95e169eab9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/vfile@5.3.7/license",
+      "source_member": "package/license",
+      "sha256": "05811400116ed61f1a7693b78fe8ca6598c155a12f3978e609db4df648a4cb3d",
+      "bytes": 1099
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

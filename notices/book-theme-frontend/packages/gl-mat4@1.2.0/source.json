@@ -1,0 +1,29 @@
+{
+  "name": "gl-mat4",
+  "version": "1.2.0",
+  "lock_keys": [
+    "gl-mat4"
+  ],
+  "lock_integrities": [
+    "sha512-sT5C0pwB1/e9G9AvAoLsoaJtbMGjfd/jfxo8jMCKqYYEnjZuFvqV5rehqar0538EmssjdDeiEWnKyBSTw7quoA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/gl-mat4/1.2.0",
+  "tarball_url": "https://registry.npmjs.org/gl-mat4/-/gl-mat4-1.2.0.tgz",
+  "npm_integrity": "sha512-sT5C0pwB1/e9G9AvAoLsoaJtbMGjfd/jfxo8jMCKqYYEnjZuFvqV5rehqar0538EmssjdDeiEWnKyBSTw7quoA==",
+  "tarball_sha256": "3f451c2f9a9e6e58460bd652547f26f174927c2fd2c3852c1a037fa923f61779",
+  "declared_license": "Zlib",
+  "repository": {
+    "url": "git+https://github.com/stackgl/gl-mat4.git",
+    "type": "git"
+  },
+  "git_head": "28102b8791594310960715273a983a43068a41ed",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/gl-mat4@1.2.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "28b772abdf0b639145dca52fb975cb322bac45ee098da1aa316d41e1d3c4493a",
+      "bytes": 879
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

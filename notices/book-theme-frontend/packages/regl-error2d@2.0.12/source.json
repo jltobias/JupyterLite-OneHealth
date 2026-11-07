@@ -1,0 +1,29 @@
+{
+  "name": "regl-error2d",
+  "version": "2.0.12",
+  "lock_keys": [
+    "regl-error2d"
+  ],
+  "lock_integrities": [
+    "sha512-r7BUprZoPO9AbyqM5qlJesrSRkl+hZnVKWKsVp7YhOl/3RIpi4UDGASGJY0puQ96u5fBYw/OlqV24IGcgJ0McA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/regl-error2d/2.0.12",
+  "tarball_url": "https://registry.npmjs.org/regl-error2d/-/regl-error2d-2.0.12.tgz",
+  "npm_integrity": "sha512-r7BUprZoPO9AbyqM5qlJesrSRkl+hZnVKWKsVp7YhOl/3RIpi4UDGASGJY0puQ96u5fBYw/OlqV24IGcgJ0McA==",
+  "tarball_sha256": "bc7dafd0e2f881fe8775135df6c1e8871d5d89490122d2d260d49996ec7f4e96",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/regl-error2d.git",
+    "type": "git"
+  },
+  "git_head": "dac2ca20d40ee47369a02fae9ef789c89a7da667",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/regl-error2d@2.0.12/license",
+      "source_member": "package/license",
+      "sha256": "2907ee84b30a5ca0f0fb134e24f60daf292a598bf5819e418eb2eb2b32262ed8",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "detect-kerning",
+  "version": "2.1.2",
+  "author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/detect-kerning/2.1.2",
+  "tarball_url": "https://registry.npmjs.org/detect-kerning/-/detect-kerning-2.1.2.tgz",
+  "git_head": "9692eb832b71ae3d6ba3fc89ab7d839d59b9c35c",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "css-loader",
+  "version": "7.1.4",
+  "lock_keys": [
+    "css-loader"
+  ],
+  "lock_integrities": [
+    "sha512-vv3J9tlOl04WjiMvHQI/9tmIrCxVrj6PFbHemBB1iihpeRbi/I4h033eoFIhwxBBqLhI0KYFS7yvynBFhIZfTw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-loader/7.1.4",
+  "tarball_url": "https://registry.npmjs.org/css-loader/-/css-loader-7.1.4.tgz",
+  "npm_integrity": "sha512-vv3J9tlOl04WjiMvHQI/9tmIrCxVrj6PFbHemBB1iihpeRbi/I4h033eoFIhwxBBqLhI0KYFS7yvynBFhIZfTw==",
+  "tarball_sha256": "c958ef5433dde32cc267d79f63df2dcab5d9ce0b748057c650e10dda66b39281",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/webpack/css-loader.git",
+    "type": "git"
+  },
+  "git_head": "5b795afc2fb928e548a06040b1964304f101a2fc",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-loader@7.1.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

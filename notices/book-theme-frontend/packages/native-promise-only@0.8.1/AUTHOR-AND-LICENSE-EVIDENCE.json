@@ -1,0 +1,14 @@
+{
+  "name": "native-promise-only",
+  "version": "0.8.1",
+  "author_attribution": {
+    "name": "Kyle Simpson",
+    "email": "getify@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/native-promise-only/0.8.1",
+  "tarball_url": "https://registry.npmjs.org/native-promise-only/-/native-promise-only-0.8.1.tgz",
+  "git_head": "519d1cddb1128e3c51e93f5f4ec03460c42b51e9",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

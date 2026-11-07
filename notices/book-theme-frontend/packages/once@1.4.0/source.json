@@ -1,0 +1,29 @@
+{
+  "name": "once",
+  "version": "1.4.0",
+  "lock_keys": [
+    "once"
+  ],
+  "lock_integrities": [
+    "sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/once/1.4.0",
+  "tarball_url": "https://registry.npmjs.org/once/-/once-1.4.0.tgz",
+  "npm_integrity": "sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w==",
+  "tarball_sha256": "cf51460ba370c698f68b976e514d113497339ba018b6003e8e8eb569c6fccfcf",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/isaacs/once.git",
+    "type": "git"
+  },
+  "git_head": "0e614d9f5a7e6f0305c625f6b581f6d80b33b8a6",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/once@1.4.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+      "bytes": 765
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

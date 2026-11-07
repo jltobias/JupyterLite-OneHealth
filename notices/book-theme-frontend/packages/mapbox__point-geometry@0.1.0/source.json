@@ -1,0 +1,29 @@
+{
+  "name": "@mapbox/point-geometry",
+  "version": "0.1.0",
+  "lock_keys": [
+    "@mapbox/point-geometry"
+  ],
+  "lock_integrities": [
+    "sha512-6j56HdLTwWGO0fJPlrZtdU/B13q8Uwmo18Ck2GnGgN9PCFyKTZ3UbXeEdRFh18i9XQ92eH2VdtpJHpBD3aripQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/point-geometry/0.1.0",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/point-geometry/-/point-geometry-0.1.0.tgz",
+  "npm_integrity": "sha512-6j56HdLTwWGO0fJPlrZtdU/B13q8Uwmo18Ck2GnGgN9PCFyKTZ3UbXeEdRFh18i9XQ92eH2VdtpJHpBD3aripQ==",
+  "tarball_sha256": "c41636a57118b2cb611dfbc87580388f179dbaa7ca5677f92c10c0fc38473755",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+ssh://git@github.com/mapbox/point-geometry.git",
+    "type": "git"
+  },
+  "git_head": "168c4666af9167f11d40c4718b05729d98046834",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__point-geometry@0.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "dd21817f71dfddadd36108266c1f19c89e2d1f24e4e27ee5b6c34743462d8310",
+      "bytes": 728
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

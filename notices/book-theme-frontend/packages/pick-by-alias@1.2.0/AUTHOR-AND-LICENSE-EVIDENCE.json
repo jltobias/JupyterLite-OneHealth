@@ -1,0 +1,14 @@
+{
+  "name": "pick-by-alias",
+  "version": "1.2.0",
+  "author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/pick-by-alias/1.2.0",
+  "tarball_url": "https://registry.npmjs.org/pick-by-alias/-/pick-by-alias-1.2.0.tgz",
+  "git_head": "9c0fe93e621f524cc249c4ddb82d6df2154e5da5",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "@mapbox/jsonlint-lines-primitives",
+  "version": "2.0.2",
+  "lock_keys": [
+    "@mapbox/jsonlint-lines-primitives"
+  ],
+  "lock_integrities": [
+    "sha512-rY0o9A5ECsTQRVhv7tL/OyDpGAoUB4tTvLiW1DSzQGq4bvTPhNw1VpSNjDJc5GFZ2XuyOtSWSVN05qOtcD71qQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/jsonlint-lines-primitives/2.0.2",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/jsonlint-lines-primitives/-/jsonlint-lines-primitives-2.0.2.tgz",
+  "npm_integrity": "sha512-rY0o9A5ECsTQRVhv7tL/OyDpGAoUB4tTvLiW1DSzQGq4bvTPhNw1VpSNjDJc5GFZ2XuyOtSWSVN05qOtcD71qQ==",
+  "tarball_sha256": "96ce93290857e2bd50880fffd1620305702ad0e2a97a1dca21fa1504b0960540",
+  "declared_license": null,
+  "repository": {
+    "url": "git://github.com/mapbox/jsonlint.git",
+    "type": "git"
+  },
+  "git_head": "1272a5add2d731a4892319ed556a15852792d2b8",
+  "notice_files": [],
+  "coverage": "UNVERIFIED: locked2.0.2 has no license declaration or permission text; no successor-license inference made",
+  "npm_author_attribution": {
+    "url": "http://zaa.ch",
+    "name": "Zach Carter",
+    "email": "zach@carter.name"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "rights_status": "unverified locked-version permission; exclude optional Plotly asset if implementing strict publication restriction",
+  "successor_evidence": {
+    "version": "2.0.3",
+    "official_metadata_url": "https://registry.npmjs.org/@mapbox/jsonlint-lines-primitives/2.0.3",
+    "declared_license": "MIT",
+    "git_head": "02bd1f1edce9919d9222ad47686c51b9c8c83119",
+    "copyright": "2012 Zachary Carter",
+    "limitation": "Identical grammar and formatter do not establish a verified permission grant for the regenerated/changed locked2.0.2 parser. Not used to mark2.0.2 licensed."
+  },
+  "publication_status": "not distributed in the published runtime; optional Plotly payload excluded"
+}

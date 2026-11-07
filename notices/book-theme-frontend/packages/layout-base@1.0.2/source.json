@@ -1,0 +1,29 @@
+{
+  "name": "layout-base",
+  "version": "1.0.2",
+  "lock_keys": [
+    "layout-base"
+  ],
+  "lock_integrities": [
+    "sha512-8h2oVEZNktL4BH2JCOI90iD1yXwL6iNW7KcCKT2QZgQJR2vbqDsldCTPRU9NifTCqHZci57XvQQ15YTu+sTYPg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/layout-base/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/layout-base/-/layout-base-1.0.2.tgz",
+  "npm_integrity": "sha512-8h2oVEZNktL4BH2JCOI90iD1yXwL6iNW7KcCKT2QZgQJR2vbqDsldCTPRU9NifTCqHZci57XvQQ15YTu+sTYPg==",
+  "tarball_sha256": "efea1306903d9d043c42c1e7931b2d97b4f519cff04b1347fa308032a52eebab",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iVis-at-Bilkent/layout-base.git",
+    "type": "git"
+  },
+  "git_head": "836898aa4a88e2794774997d7128b383108a3d5a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/layout-base@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "eabb762d8a95109a39c9be3247325529a5239a7aca327d909c3ccdc41f3a06bf",
+      "bytes": 1069
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

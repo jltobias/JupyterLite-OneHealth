@@ -1,0 +1,14 @@
+{
+  "name": "weak-map",
+  "version": "1.0.8",
+  "author_attribution": {
+    "name": "Mark Miller",
+    "email": "erights@gmail.com"
+  },
+  "license_declaration": "Apache-2.0",
+  "metadata_url": "https://registry.npmjs.org/weak-map/1.0.8",
+  "tarball_url": "https://registry.npmjs.org/weak-map/-/weak-map-1.0.8.tgz",
+  "git_head": "35764aa1bbcb8ca31bb2a554ee323acaa19bca27",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/Apache-2.0.txt"
+}

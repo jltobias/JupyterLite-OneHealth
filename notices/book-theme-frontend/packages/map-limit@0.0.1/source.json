@@ -1,0 +1,29 @@
+{
+  "name": "map-limit",
+  "version": "0.0.1",
+  "lock_keys": [
+    "map-limit"
+  ],
+  "lock_integrities": [
+    "sha512-pJpcfLPnIF/Sk3taPW21G/RQsEEirGaFpCW3oXRwH9dnFHPHNGjNyvh++rdmC2fNqEaTw2MhYJraoJWAHx8kEg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/map-limit/0.0.1",
+  "tarball_url": "https://registry.npmjs.org/map-limit/-/map-limit-0.0.1.tgz",
+  "npm_integrity": "sha512-pJpcfLPnIF/Sk3taPW21G/RQsEEirGaFpCW3oXRwH9dnFHPHNGjNyvh++rdmC2fNqEaTw2MhYJraoJWAHx8kEg==",
+  "tarball_sha256": "e606599c1e077f8ae0e99f18c18e7c469d391e55df66ae61a23886cf32909971",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/map-limit",
+    "type": "git"
+  },
+  "git_head": "54633d3dea9f407482ac62927ba3664a8cbc7f36",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/map-limit@0.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "74afb88a7aa7f8db6735c014cba3f9f7b1b1fde39d7b56ba9b2c1f1f2d5d10ec",
+      "bytes": 1085
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

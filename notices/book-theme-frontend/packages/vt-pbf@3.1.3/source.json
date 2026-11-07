@@ -1,0 +1,29 @@
+{
+  "name": "vt-pbf",
+  "version": "3.1.3",
+  "lock_keys": [
+    "vt-pbf"
+  ],
+  "lock_integrities": [
+    "sha512-2LzDFzt0mZKZ9IpVF2r69G9bXaP2Q2sArJCmcCgvfTdCCZzSyz4aCLoQyUilu37Ll56tCblIZrXFIjNUpGIlmA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/vt-pbf/3.1.3",
+  "tarball_url": "https://registry.npmjs.org/vt-pbf/-/vt-pbf-3.1.3.tgz",
+  "npm_integrity": "sha512-2LzDFzt0mZKZ9IpVF2r69G9bXaP2Q2sArJCmcCgvfTdCCZzSyz4aCLoQyUilu37Ll56tCblIZrXFIjNUpGIlmA==",
+  "tarball_sha256": "3dc80f21647d14e1523e4164a1c4f351d1aa47e427471a1c1e138abf8c738aa4",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mapbox/vt-pbf.git",
+    "type": "git"
+  },
+  "git_head": "a11236249d5c557133df67d3b4301e4ccc9a3807",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/vt-pbf@3.1.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3d29e124a0236cfefe13458b82c44fde04d7dcc7b3b64b7fa4de0027953274db",
+      "bytes": 2743
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

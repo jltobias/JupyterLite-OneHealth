@@ -1,0 +1,29 @@
+{
+  "name": "@upsetjs/venn.js",
+  "version": "2.0.0",
+  "lock_keys": [
+    "@upsetjs/venn.js"
+  ],
+  "lock_integrities": [
+    "sha512-WbBhLrooyePuQ1VZxrJjtLvTc4NVfpOyKx0sKqioq9bX1C1m7Jgykkn8gLrtwumBioXIqam8DLxp88Adbue6Hw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@upsetjs/venn.js/2.0.0",
+  "tarball_url": "https://registry.npmjs.org/@upsetjs/venn.js/-/venn.js-2.0.0.tgz",
+  "npm_integrity": "sha512-WbBhLrooyePuQ1VZxrJjtLvTc4NVfpOyKx0sKqioq9bX1C1m7Jgykkn8gLrtwumBioXIqam8DLxp88Adbue6Hw==",
+  "tarball_sha256": "23c5da5de5c23351c6c6ed891d6416284c05c618e2774bd55484a4c4bef321e4",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "https://github.com/upsetjs/venn.js.git",
+    "type": "git"
+  },
+  "git_head": "350c835aab4a92a7570963c28f725cf9f6e5f258",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/upsetjs__venn.js@2.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6a3508febf2cfccfee96597394543a6154a4bb0b1f91f28404be42c09e9fcb54",
+      "bytes": 1106
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "layout-base",
+  "version": "2.0.1",
+  "lock_keys": [
+    "cytoscape-fcose/cose-base/layout-base"
+  ],
+  "lock_integrities": [
+    "sha512-dp3s92+uNI1hWIpPGH3jK2kxE2lMjdXdr+DH8ynZHpd6PUlH6x6cbuXnoMmiNumznqaNO31xu9e79F0uuZ0JFg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/layout-base/2.0.1",
+  "tarball_url": "https://registry.npmjs.org/layout-base/-/layout-base-2.0.1.tgz",
+  "npm_integrity": "sha512-dp3s92+uNI1hWIpPGH3jK2kxE2lMjdXdr+DH8ynZHpd6PUlH6x6cbuXnoMmiNumznqaNO31xu9e79F0uuZ0JFg==",
+  "tarball_sha256": "34165e46d8c4b9d719a592e39a60fa5f7324c21a3edd02733e1116b17013defd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iVis-at-Bilkent/layout-base.git",
+    "type": "git"
+  },
+  "git_head": "3f7549940feef31416cc35ef8256282ebc4d1ecd",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/layout-base@2.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "eabb762d8a95109a39c9be3247325529a5239a7aca327d909c3ccdc41f3a06bf",
+      "bytes": 1069
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

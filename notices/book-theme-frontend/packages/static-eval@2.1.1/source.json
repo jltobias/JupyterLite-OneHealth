@@ -1,0 +1,29 @@
+{
+  "name": "static-eval",
+  "version": "2.1.1",
+  "lock_keys": [
+    "static-eval"
+  ],
+  "lock_integrities": [
+    "sha512-MgWpQ/ZjGieSVB3eOJVs4OA2LT/q1vx98KPCTTQPzq/aLr0YUXTsgryTXr4SLfR0ZfUUCiedM9n/ABeDIyy4mA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/static-eval/2.1.1",
+  "tarball_url": "https://registry.npmjs.org/static-eval/-/static-eval-2.1.1.tgz",
+  "npm_integrity": "sha512-MgWpQ/ZjGieSVB3eOJVs4OA2LT/q1vx98KPCTTQPzq/aLr0YUXTsgryTXr4SLfR0ZfUUCiedM9n/ABeDIyy4mA==",
+  "tarball_sha256": "c67a9fbf17c593c041ce2b5eddc04858827ea7d2e7f0c905b4898fd849cd8666",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/browserify/static-eval.git",
+    "type": "git"
+  },
+  "git_head": "c682147323a1dfde9e7c01a9558f4feeb68e36cd",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/static-eval@2.1.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a22b9d5763f574e5db347c30acc0b33eaf4846767c03d2e27d012e864e79a824",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

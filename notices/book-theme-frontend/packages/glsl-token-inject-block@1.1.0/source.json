@@ -1,0 +1,29 @@
+{
+  "name": "glsl-token-inject-block",
+  "version": "1.1.0",
+  "lock_keys": [
+    "glsl-token-inject-block"
+  ],
+  "lock_integrities": [
+    "sha512-q/m+ukdUBuHCOtLhSr0uFb/qYQr4/oKrPSdIK2C4TD+qLaJvqM9wfXIF/OOBjuSA3pUoYHurVRNao6LTVVUPWA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-token-inject-block/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/glsl-token-inject-block/-/glsl-token-inject-block-1.1.0.tgz",
+  "npm_integrity": "sha512-q/m+ukdUBuHCOtLhSr0uFb/qYQr4/oKrPSdIK2C4TD+qLaJvqM9wfXIF/OOBjuSA3pUoYHurVRNao6LTVVUPWA==",
+  "tarball_sha256": "97450fcc5e04a363cfa6d013bd94309f6f01694b01bfd1c6f6eaef3ef70f619a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/Jam3/glsl-token-inject-block.git",
+    "type": "git"
+  },
+  "git_head": "1d5c57154cbe6a98a9f1094b7496e5c79414c2d7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-token-inject-block@1.1.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "fb153e8eaf70c10aa169bc3d7401946a9d51163cafaca23458cea8e67de972f4",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "glsl-token-descope",
+  "version": "1.0.2",
+  "lock_keys": [
+    "glsl-token-descope"
+  ],
+  "lock_integrities": [
+    "sha512-kS2PTWkvi/YOeicVjXGgX5j7+8N7e56srNDEHDTVZ1dcESmbmpmgrnpjPcjxJjMxh56mSXYoFdZqb90gXkGjQw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-token-descope/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/glsl-token-descope/-/glsl-token-descope-1.0.2.tgz",
+  "npm_integrity": "sha512-kS2PTWkvi/YOeicVjXGgX5j7+8N7e56srNDEHDTVZ1dcESmbmpmgrnpjPcjxJjMxh56mSXYoFdZqb90gXkGjQw==",
+  "tarball_sha256": "999f7ca220937f8a336face996d4fe6c15b8ff6a96637c292e37704a8a741e8c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/stackgl/glsl-token-descope.git",
+    "type": "git"
+  },
+  "git_head": "31673dcc087f308707a8d0e8cd6445dbb11554de",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-token-descope@1.0.2/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "aa084193c84505fcea25068c7dc2eb1643a2ad2a744a586a22a14bc459b0eeb1",
+      "bytes": 1256
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

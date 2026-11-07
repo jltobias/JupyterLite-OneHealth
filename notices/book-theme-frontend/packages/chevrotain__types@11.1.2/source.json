@@ -1,0 +1,29 @@
+{
+  "name": "@chevrotain/types",
+  "version": "11.1.2",
+  "lock_keys": [
+    "@chevrotain/types"
+  ],
+  "lock_integrities": [
+    "sha512-U+HFai5+zmJCkK86QsaJtoITlboZHBqrVketcO2ROv865xfCMSFpELQoz1GkX5GzME8pTa+3kbKrZHQtI0gdbw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@chevrotain/types/11.1.2",
+  "tarball_url": "https://registry.npmjs.org/@chevrotain/types/-/types-11.1.2.tgz",
+  "npm_integrity": "sha512-U+HFai5+zmJCkK86QsaJtoITlboZHBqrVketcO2ROv865xfCMSFpELQoz1GkX5GzME8pTa+3kbKrZHQtI0gdbw==",
+  "tarball_sha256": "9b2fdbccd96c14aaab400927ca6ab30ccbc054afc30a66ed1b3d5b7e1ec78592",
+  "declared_license": "Apache-2.0",
+  "repository": {
+    "url": "git://github.com/Chevrotain/chevrotain.git",
+    "type": "git"
+  },
+  "git_head": "3a0ee6abc9ef3b22448cc72ec54ec4987e44ab9b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/chevrotain__types@11.1.2/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

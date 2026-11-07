@@ -1,0 +1,29 @@
+{
+  "name": "source-map-js",
+  "version": "1.2.1",
+  "lock_keys": [
+    "source-map-js"
+  ],
+  "lock_integrities": [
+    "sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/source-map-js/1.2.1",
+  "tarball_url": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz",
+  "npm_integrity": "sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==",
+  "tarball_sha256": "f126a6f9fca487a43219d8cb8c3a955279187a966119d548eb5cd47e999d4853",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/7rulnik/source-map-js.git",
+    "type": "git"
+  },
+  "git_head": "428d49f6b1e1614f082b7706fa879a3d9c64f728",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/source-map-js@1.2.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd",
+      "bytes": 1526
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "safe-buffer",
+  "version": "5.1.2",
+  "lock_keys": [
+    "readable-stream/safe-buffer",
+    "string_decoder/safe-buffer"
+  ],
+  "lock_integrities": [
+    "sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/safe-buffer/5.1.2",
+  "tarball_url": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz",
+  "npm_integrity": "sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==",
+  "tarball_sha256": "e09206c60fccafb952c854af7629cbb031a98d6da2e143fb3aa3c8a48402aa22",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/feross/safe-buffer.git",
+    "type": "git"
+  },
+  "git_head": "649435cc8e2d1f3ecdc7caf323f1cb1187307a16",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/safe-buffer@5.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

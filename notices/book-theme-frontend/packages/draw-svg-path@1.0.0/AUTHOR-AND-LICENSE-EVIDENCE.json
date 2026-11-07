@@ -1,0 +1,13 @@
+{
+  "name": "draw-svg-path",
+  "version": "1.0.0",
+  "author_attribution": {
+    "name": "Michael Rhodes"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/draw-svg-path/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/draw-svg-path/-/draw-svg-path-1.0.0.tgz",
+  "git_head": null,
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

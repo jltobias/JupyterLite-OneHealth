@@ -1,0 +1,29 @@
+{
+  "name": "ms",
+  "version": "2.1.3",
+  "lock_keys": [
+    "ms"
+  ],
+  "lock_integrities": [
+    "sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/ms/2.1.3",
+  "tarball_url": "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz",
+  "npm_integrity": "sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==",
+  "tarball_sha256": "f6616e15e530ed552f9daa2d3ce71963947c6bc7c98c9b64fd3e673fd02622c6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vercel/ms.git",
+    "type": "git"
+  },
+  "git_head": "1c6264b795492e8fdecbc82cb8802fcfbfc08d26",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/ms@2.1.3/license.md",
+      "source_member": "package/license.md",
+      "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

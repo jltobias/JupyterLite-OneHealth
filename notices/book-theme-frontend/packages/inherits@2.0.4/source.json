@@ -1,0 +1,29 @@
+{
+  "name": "inherits",
+  "version": "2.0.4",
+  "lock_keys": [
+    "inherits"
+  ],
+  "lock_integrities": [
+    "sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/inherits/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz",
+  "npm_integrity": "sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==",
+  "tarball_sha256": "d94dbc6c1bb3c5ac0fb12a73ade187108fc60de273a1b754f55044eb5e24afaf",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/isaacs/inherits.git",
+    "type": "git"
+  },
+  "git_head": "9a2c29400c6d491e0b7beefe0c32efa3b462545d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/inherits@2.0.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5ffe28e7ade7d8f10d85d5337a73fd793dac5c462fb9a28fbf8c5046c7fbca3b",
+      "bytes": 749
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "sprintf-js",
+  "version": "1.0.3",
+  "lock_keys": [
+    "sprintf-js"
+  ],
+  "lock_integrities": [
+    "sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/sprintf-js/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz",
+  "npm_integrity": "sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==",
+  "tarball_sha256": "3afb26bcc328dc90f516515acf2783ad35b08dbfe9e0ada18264c3c4ddaa1a83",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/alexei/sprintf.js.git",
+    "type": "git"
+  },
+  "git_head": "747b806c2dab5b64d5c9958c42884946a187c3b1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/sprintf-js@1.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a4cdda44b5adea4731d53dcae78fb5124f8fd853e994f01e25d8c33a7daf818b",
+      "bytes": 1518
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

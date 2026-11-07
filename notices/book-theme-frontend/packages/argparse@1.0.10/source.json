@@ -1,0 +1,30 @@
+{
+  "name": "argparse",
+  "version": "1.0.10",
+  "lock_keys": [
+    "@istanbuljs/load-nyc-config/js-yaml/argparse",
+    "read-yaml-file/js-yaml/argparse"
+  ],
+  "lock_integrities": [
+    "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/argparse/1.0.10",
+  "tarball_url": "https://registry.npmjs.org/argparse/-/argparse-1.0.10.tgz",
+  "npm_integrity": "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg==",
+  "tarball_sha256": "7faa149cd7811b7e11fc8353dc6e4e9c4de68a02f8221aa8f7dc22108315ac0d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/nodeca/argparse.git",
+    "type": "git"
+  },
+  "git_head": "ea45e14bad13b9e4a10af28f11fb7e731079ab72",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/argparse@1.0.10/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c8442419dc614089ea022b3da6bfc089b41a58fb7b9030d1e651f2f36189dce2",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

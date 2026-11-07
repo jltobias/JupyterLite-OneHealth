@@ -1,0 +1,29 @@
+{
+  "name": "css-global-keywords",
+  "version": "1.0.1",
+  "lock_keys": [
+    "css-global-keywords"
+  ],
+  "lock_integrities": [
+    "sha512-X1xgQhkZ9n94WDwntqst5D/FKkmiU0GlJSFZSV3kLvyJ1WC5VeyoXDOuleUD+SIuH9C7W05is++0Woh0CGfKjQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-global-keywords/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/css-global-keywords/-/css-global-keywords-1.0.1.tgz",
+  "npm_integrity": "sha512-X1xgQhkZ9n94WDwntqst5D/FKkmiU0GlJSFZSV3kLvyJ1WC5VeyoXDOuleUD+SIuH9C7W05is++0Woh0CGfKjQ==",
+  "tarball_sha256": "b1ee668b8cbd838238e5b21707710fed40bc775187d66d84bb80a0c80cd219b5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jedmao/css-global-keywords.git",
+    "type": "git"
+  },
+  "git_head": "448907fa783c20e3a76f62ccc3612b0433f2ace3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-global-keywords@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "03ac0b988d87f21fccdec911d13eaaea03c80a79ce650e2b2d1e5e9ed2238ec7",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

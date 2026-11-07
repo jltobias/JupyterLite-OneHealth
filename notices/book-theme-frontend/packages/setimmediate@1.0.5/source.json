@@ -1,0 +1,29 @@
+{
+  "name": "setimmediate",
+  "version": "1.0.5",
+  "lock_keys": [
+    "setimmediate"
+  ],
+  "lock_integrities": [
+    "sha512-MATJdZp8sLqDl/68LfQmbP8zKPLQNV6BIZoIgrscFDQ+RsvK/BxeDQOgyxKKoh0y/8h3BqVFnCqQ/gd+reiIXA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/setimmediate/1.0.5",
+  "tarball_url": "https://registry.npmjs.org/setimmediate/-/setimmediate-1.0.5.tgz",
+  "npm_integrity": "sha512-MATJdZp8sLqDl/68LfQmbP8zKPLQNV6BIZoIgrscFDQ+RsvK/BxeDQOgyxKKoh0y/8h3BqVFnCqQ/gd+reiIXA==",
+  "tarball_sha256": "5cb9fc22698364ed42c02d6aa3dc50ffeafa68452ae84699672e3dfd74922c9e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/yuzujs/setImmediate.git",
+    "type": "git"
+  },
+  "git_head": "f1ccbfdf09cb93aadf77c4aa749ea554503b9234",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/setimmediate@1.0.5/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "c4b4ad3a5746f1f5249a6dd90396ec519264e1bb02e01e48a6522c48a3a97cb4",
+      "bytes": 1103
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

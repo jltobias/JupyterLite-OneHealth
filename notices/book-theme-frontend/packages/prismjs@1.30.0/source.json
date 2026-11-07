@@ -1,0 +1,29 @@
+{
+  "name": "prismjs",
+  "version": "1.30.0",
+  "lock_keys": [
+    "prismjs"
+  ],
+  "lock_integrities": [
+    "sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/prismjs/1.30.0",
+  "tarball_url": "https://registry.npmjs.org/prismjs/-/prismjs-1.30.0.tgz",
+  "npm_integrity": "sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==",
+  "tarball_sha256": "ac16a9106a28c53b6a6313993c816a3a02525fdfefd7614fc1703df915a9fc11",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/PrismJS/prism.git",
+    "type": "git"
+  },
+  "git_head": "93cca40b364215210f23a9e35f085a682a2b8175",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/prismjs@1.30.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2b947f0901a7ffcf08a89957da9783c0e9c6e72cb6ce8e959f501ab5409e4d2b",
+      "bytes": 1066
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

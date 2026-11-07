@@ -1,0 +1,29 @@
+{
+  "name": "svg-arc-to-cubic-bezier",
+  "version": "3.2.0",
+  "lock_keys": [
+    "svg-arc-to-cubic-bezier"
+  ],
+  "lock_integrities": [
+    "sha512-djbJ/vZKZO+gPoSDThGNpKDO+o+bAeA4XQKovvkNCqnIS2t+S4qnLAGQhyyrulhCFRl1WWzAp0wUDV8PpTVU3g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/svg-arc-to-cubic-bezier/3.2.0",
+  "tarball_url": "https://registry.npmjs.org/svg-arc-to-cubic-bezier/-/svg-arc-to-cubic-bezier-3.2.0.tgz",
+  "npm_integrity": "sha512-djbJ/vZKZO+gPoSDThGNpKDO+o+bAeA4XQKovvkNCqnIS2t+S4qnLAGQhyyrulhCFRl1WWzAp0wUDV8PpTVU3g==",
+  "tarball_sha256": "22318ef92b499739d22927baf082129fd5b41c0f3a3619a371097893592a6c6d",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/colinmeinke/svg-arc-to-cubic-bezier.git",
+    "type": "git"
+  },
+  "git_head": "f02ab118609817ee562c69aea98579ecd3eb810e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/svg-arc-to-cubic-bezier@3.2.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "e494c8a762141fd7b97104bd7350710dcd2ee0462c75e211bc527cd717158b0b",
+      "bytes": 808
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

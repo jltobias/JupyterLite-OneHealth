@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-myst",
+  "version": "1.0.18",
+  "lock_keys": [
+    "markdown-it-myst"
+  ],
+  "lock_integrities": [
+    "sha512-M7eDhH9RpEueA5eXBw8Ft8Kx3MqT8y8FuHDg+SqG5FavnZqgy9/F7+08U2jdpL3Pj7r+AEjjjKm6CnNbrPheVw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/markdown-it-myst/1.0.18",
+  "tarball_url": "https://registry.npmjs.org/markdown-it-myst/-/markdown-it-myst-1.0.18.tgz",
+  "npm_integrity": "sha512-M7eDhH9RpEueA5eXBw8Ft8Kx3MqT8y8FuHDg+SqG5FavnZqgy9/F7+08U2jdpL3Pj7r+AEjjjKm6CnNbrPheVw==",
+  "tarball_sha256": "38ff6feaeda89f26feb4400a9bd704eed955fce4b14a0a50987a10e7d5cf2f8c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jupyter-book/mystmd.git",
+    "type": "git"
+  },
+  "git_head": "807672d850695c2863143571f296327b15f203bd",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/markdown-it-myst@1.0.18/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyter-book/mystmd/807672d850695c2863143571f296327b15f203bd/LICENSE",
+      "sha256": "e0172292abee956e6787f3316a870efa50bbc9d217db774c6dcaad353512c6be",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

@@ -1,0 +1,38 @@
+version: 1
+project:
+  id: jupyterlite-onehealth
+  title: OneHealth fieldnotes
+  description: Real Landsat and Census evidence, original lessons and explicit limits
+  authors:
+    - name: JupyterLite-OneHealth project
+  github: https://github.com/jltobias/JupyterLite-OneHealth
+  toc:
+    - file: book/index.md
+    - file: book/agency-perspectives.md
+    - file: book/methods.md
+    - title: Executable lessons
+      children:
+        - file: content/00_provenance_profile.ipynb
+        - file: content/01_agency_questions.ipynb
+        - file: content/02_population.ipynb
+        - file: content/03_qa_scaling.ipynb
+        - file: content/04_vegetation_water.ipynb
+        - file: content/05_surface_heat.ipynb
+        - file: content/06_spatial_scale.ipynb
+        - file: content/07_eo_population_joins.ipynb
+        - file: content/08_equity_evidence_gaps.ipynb
+        - file: content/09_visualization_3d.ipynb
+        - file: content/10_capstone.ipynb
+    - file: book/resources.md
+    - file: book/credits.md
+site:
+  actions:
+    - title: Python Lab
+      url: https://jltobias.github.io/JupyterLite-OneHealth/lite/lab/index.html
+    - title: Study-area profile
+      url: https://jltobias.github.io/JupyterLite-OneHealth/explorer/profile/
+  template: ./_build/pinned-book-theme
+  title: OneHealth fieldnotes
+  options:
+    logo_text: OneHealth / Fieldnotes
+    folders: false

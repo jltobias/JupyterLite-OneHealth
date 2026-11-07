@@ -1,0 +1,29 @@
+{
+  "name": "stylis",
+  "version": "4.4.0",
+  "lock_keys": [
+    "stylis"
+  ],
+  "lock_integrities": [
+    "sha512-5Z9ZpRzfuH6l/UAvCPAPUo3665Nk2wLaZU3x+TLHKVzIz33+sbJqbtrYoC3KD4/uVOr2Zp+L0LySezP9OHV9yA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/stylis/4.4.0",
+  "tarball_url": "https://registry.npmjs.org/stylis/-/stylis-4.4.0.tgz",
+  "npm_integrity": "sha512-5Z9ZpRzfuH6l/UAvCPAPUo3665Nk2wLaZU3x+TLHKVzIz33+sbJqbtrYoC3KD4/uVOr2Zp+L0LySezP9OHV9yA==",
+  "tarball_sha256": "95a1c7a5b16c5e7ce8898c1d7d9414255a3b26fd96b7b0cee4c863011df67f0c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/thysultan/stylis.js.git",
+    "type": "git"
+  },
+  "git_head": "6ff0e46fa370c714d7c46e1e48076cb65891f1b8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/stylis@4.4.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "88c579c6ee44b41137a21321190d177982e5b17d4fa1b83a4a2e3ea325a8fc9a",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

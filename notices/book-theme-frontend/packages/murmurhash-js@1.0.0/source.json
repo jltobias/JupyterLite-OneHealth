@@ -1,0 +1,36 @@
+{
+  "name": "murmurhash-js",
+  "version": "1.0.0",
+  "lock_keys": [
+    "murmurhash-js"
+  ],
+  "lock_integrities": [
+    "sha512-TvmkNhkv8yct0SVBSy+o8wYzXjE4Zz3PCesbfs8HiCXXdcTuocApFv11UWlNFWKYsP2okqrhb7JNlSm9InBhIw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/murmurhash-js/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/murmurhash-js/-/murmurhash-js-1.0.0.tgz",
+  "npm_integrity": "sha512-TvmkNhkv8yct0SVBSy+o8wYzXjE4Zz3PCesbfs8HiCXXdcTuocApFv11UWlNFWKYsP2okqrhb7JNlSm9InBhIw==",
+  "tarball_sha256": "0807f0738886929c36e3274e6bf0721efe9ba81d6edbe5ad9ec11ab5cb8ecc12",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/murmurhash-js.git",
+    "type": "git"
+  },
+  "git_head": "72aabce3f52cb8f16245692a69fd35951e165af0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/murmurhash-js@1.0.0/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/README.md"
+      ],
+      "sha256": "81a7239ef1e28034885ebf3d896ca6eb1189dc09f5139401b69eb03dc8593c9d",
+      "bytes": 1164
+    }
+  ],
+  "coverage": "complete legal grant extracted verbatim from source or README",
+  "npm_author_attribution": {
+    "name": "Gary Court"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": true
+}

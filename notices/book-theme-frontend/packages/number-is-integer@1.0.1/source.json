@@ -1,0 +1,29 @@
+{
+  "name": "number-is-integer",
+  "version": "1.0.1",
+  "lock_keys": [
+    "number-is-integer"
+  ],
+  "lock_integrities": [
+    "sha512-Dq3iuiFBkrbmuQjGFFF3zckXNCQoSD37/SdSbgcBailUx6knDvDwb5CympBgcoWHy36sfS12u74MHYkXyHq6bg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/number-is-integer/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/number-is-integer/-/number-is-integer-1.0.1.tgz",
+  "npm_integrity": "sha512-Dq3iuiFBkrbmuQjGFFF3zckXNCQoSD37/SdSbgcBailUx6knDvDwb5CympBgcoWHy36sfS12u74MHYkXyHq6bg==",
+  "tarball_sha256": "82fb4b438cca70fd9d23bce6796ce5c75777110804815f276d220d4c2fd6e0f9",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/sindresorhus/number-is-integer.git",
+    "type": "git"
+  },
+  "git_head": "0187baf23712c874f8f05924cb22a0201b81f540",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/number-is-integer@1.0.1/license",
+      "source_member": "package/license",
+      "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+      "bytes": 1119
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

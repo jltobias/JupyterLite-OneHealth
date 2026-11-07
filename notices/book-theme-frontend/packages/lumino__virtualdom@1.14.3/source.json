@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/virtualdom",
+  "version": "1.14.3",
+  "lock_keys": [
+    "jupyterlab-plotly/@lumino/widgets/@lumino/virtualdom"
+  ],
+  "lock_integrities": [
+    "sha512-5joUC1yuxeXbpfbSBm/OR8Mu9HoTo6PDX0RKqzlJ9o97iml7zayFN/ynzcxScKGQAo9iaXOY8uVIvGUT8FnsGw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/virtualdom/1.14.3",
+  "tarball_url": "https://registry.npmjs.org/@lumino/virtualdom/-/virtualdom-1.14.3.tgz",
+  "npm_integrity": "sha512-5joUC1yuxeXbpfbSBm/OR8Mu9HoTo6PDX0RKqzlJ9o97iml7zayFN/ynzcxScKGQAo9iaXOY8uVIvGUT8FnsGw==",
+  "tarball_sha256": "622e4891e6f5119d3eb1d305df01097b34c29d566cfac701cc586711f1b43d50",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__virtualdom@1.14.3/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/virtualdom@1.14.3/LICENSE",
+      "sha256": "5d3d42c2c2687efe4e22f2af4917d26fd17290d56af5754b21bb14ba849c6051",
+      "bytes": 3021
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

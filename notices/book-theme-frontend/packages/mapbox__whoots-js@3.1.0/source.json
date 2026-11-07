@@ -1,0 +1,29 @@
+{
+  "name": "@mapbox/whoots-js",
+  "version": "3.1.0",
+  "lock_keys": [
+    "@mapbox/whoots-js"
+  ],
+  "lock_integrities": [
+    "sha512-Es6WcD0nO5l+2BOQS4uLfNPYQaNDfbot3X1XUoloz+x0mPDS3eeORZJl06HXjwBG1fOGwCRnzK88LMdxKRrd6Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/whoots-js/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/whoots-js/-/whoots-js-3.1.0.tgz",
+  "npm_integrity": "sha512-Es6WcD0nO5l+2BOQS4uLfNPYQaNDfbot3X1XUoloz+x0mPDS3eeORZJl06HXjwBG1fOGwCRnzK88LMdxKRrd6Q==",
+  "tarball_sha256": "025d7251769c7e74ba754a33fe95927726eaacc7192dd96f76c0b06a1d8ec1fc",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/mapbox/whoots-js.git",
+    "type": "git"
+  },
+  "git_head": "1eac5ecde1fd4c89ada697685accde5e93f33fea",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__whoots-js@3.1.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "27043d1a6a0e1985fde12660decbbd3b23c67de900b00609c90d4f0aa492f425",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

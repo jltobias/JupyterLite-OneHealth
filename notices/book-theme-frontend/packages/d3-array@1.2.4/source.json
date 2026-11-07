@@ -1,0 +1,32 @@
+{
+  "name": "d3-array",
+  "version": "1.2.4",
+  "lock_keys": [
+    "@plotly/d3-sankey-circular/d3-array",
+    "@plotly/d3-sankey/d3-array",
+    "d3-geo-projection/d3-array",
+    "plotly.js/d3-geo/d3-array"
+  ],
+  "lock_integrities": [
+    "sha512-KHW6M86R+FUPYGb3R5XiYjXPq7VzwxZ22buHhAEVG5ztoEcZZMLov530mmccaqA1GghZArjQV46fuc8kUqhhHw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-array/1.2.4",
+  "tarball_url": "https://registry.npmjs.org/d3-array/-/d3-array-1.2.4.tgz",
+  "npm_integrity": "sha512-KHW6M86R+FUPYGb3R5XiYjXPq7VzwxZ22buHhAEVG5ztoEcZZMLov530mmccaqA1GghZArjQV46fuc8kUqhhHw==",
+  "tarball_sha256": "78ff9484068b7ca316a6367a4caf38f15f6b0e7db0b9a806000af0e60272a69f",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-array.git",
+    "type": "git"
+  },
+  "git_head": "fda02e084d50c880c695a3fe0e59cdf1a1ba5ea9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-array@1.2.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e1211892da0b0e0585b7aebe8f98c1274fba15bafe47fa1f4ee8a7a502c06304",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

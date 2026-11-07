@@ -1,0 +1,29 @@
+{
+  "name": "@braintree/sanitize-url",
+  "version": "7.1.2",
+  "lock_keys": [
+    "@braintree/sanitize-url"
+  ],
+  "lock_integrities": [
+    "sha512-jigsZK+sMF/cuiB7sERuo9V7N9jx+dhmHHnQyDSVdpZwVutaBu7WvNYqMDLSgFgfB30n452TP3vjDAvFC973mA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@braintree/sanitize-url/7.1.2",
+  "tarball_url": "https://registry.npmjs.org/@braintree/sanitize-url/-/sanitize-url-7.1.2.tgz",
+  "npm_integrity": "sha512-jigsZK+sMF/cuiB7sERuo9V7N9jx+dhmHHnQyDSVdpZwVutaBu7WvNYqMDLSgFgfB30n452TP3vjDAvFC973mA==",
+  "tarball_sha256": "fd9a220c24c5cdd406433cce1c3db7f09222d8f7977f0fe087aec914e1a63dc0",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/braintree/sanitize-url.git",
+    "type": "git"
+  },
+  "git_head": "206cb8b942b10dad28dd3d31db3bf39e3fcdd7aa",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/braintree__sanitize-url@7.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "0984740e0c3d725c8044dec7edcefe1dbce180ef5a7bc710c251e19607000158",
+      "bytes": 1066
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

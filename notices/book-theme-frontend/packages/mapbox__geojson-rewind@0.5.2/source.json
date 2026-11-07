@@ -1,0 +1,29 @@
+{
+  "name": "@mapbox/geojson-rewind",
+  "version": "0.5.2",
+  "lock_keys": [
+    "@mapbox/geojson-rewind"
+  ],
+  "lock_integrities": [
+    "sha512-tJaT+RbYGJYStt7wI3cq4Nl4SXxG8W7JDG5DMJu97V25RnbNg3QtQtf+KD+VLjNpWKYsRvXDNmNrBgEETr1ifA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/geojson-rewind/0.5.2",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/geojson-rewind/-/geojson-rewind-0.5.2.tgz",
+  "npm_integrity": "sha512-tJaT+RbYGJYStt7wI3cq4Nl4SXxG8W7JDG5DMJu97V25RnbNg3QtQtf+KD+VLjNpWKYsRvXDNmNrBgEETr1ifA==",
+  "tarball_sha256": "a02d7e7e1bb2a3842a73f9421176afdc1b83f7ab9b7bb3bfe8ff844faf7133f8",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mapbox/geojson-rewind.git",
+    "type": "git"
+  },
+  "git_head": "c56ff23b3b037534d7d5d8ebc1ec498dd34eca45",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__geojson-rewind@0.5.2/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "f69fa6a6652581ae8c6cbab9e720bacb3b335a03335c2024afd6ddc6f7cfe240",
+      "bytes": 725
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "css-font",
+  "version": "1.2.0",
+  "lock_keys": [
+    "css-font"
+  ],
+  "lock_integrities": [
+    "sha512-V4U4Wps4dPDACJ4WpgofJ2RT5Yqwe1lEH6wlOOaIxMi0gTjdIijsc5FmxQlZ7ZZyKQkkutqqvULOp07l9c7ssA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-font/1.2.0",
+  "tarball_url": "https://registry.npmjs.org/css-font/-/css-font-1.2.0.tgz",
+  "npm_integrity": "sha512-V4U4Wps4dPDACJ4WpgofJ2RT5Yqwe1lEH6wlOOaIxMi0gTjdIijsc5FmxQlZ7ZZyKQkkutqqvULOp07l9c7ssA==",
+  "tarball_sha256": "dfd3e73d6c0556e29d9f003c1d8ef914fcc65ff23616fa83ef1195b1265ed2d6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/css-font.git",
+    "type": "git"
+  },
+  "git_head": "f254bff37102197b019f7351809850db4bdae5d4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-font@1.2.0/license.md",
+      "source_member": "package/license.md",
+      "sha256": "53e2988fd2e3e852161a07f5dbf2a31482f02eec07e35921c3afe9eaaa4c6124",
+      "bytes": 1097
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

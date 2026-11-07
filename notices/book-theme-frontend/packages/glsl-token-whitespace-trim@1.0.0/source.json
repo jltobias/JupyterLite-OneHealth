@@ -1,0 +1,29 @@
+{
+  "name": "glsl-token-whitespace-trim",
+  "version": "1.0.0",
+  "lock_keys": [
+    "glsl-token-whitespace-trim"
+  ],
+  "lock_integrities": [
+    "sha512-ZJtsPut/aDaUdLUNtmBYhaCmhIjpKNg7IgZSfX5wFReMc2vnj8zok+gB/3Quqs0TsBSX/fGnqUUYZDqyuc2xLQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-token-whitespace-trim/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/glsl-token-whitespace-trim/-/glsl-token-whitespace-trim-1.0.0.tgz",
+  "npm_integrity": "sha512-ZJtsPut/aDaUdLUNtmBYhaCmhIjpKNg7IgZSfX5wFReMc2vnj8zok+gB/3Quqs0TsBSX/fGnqUUYZDqyuc2xLQ==",
+  "tarball_sha256": "d5d16502d3ee50eab7cbea268cb1b253e6f551909b35740056d97a11373b7c67",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/glsl-token-whitespace-trim.git",
+    "type": "git"
+  },
+  "git_head": "46d2e1fc26b904d126568421c61001c8697369d2",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-token-whitespace-trim@1.0.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "82d4cd7899b219ef29e6bd30820b22d12fd8d95ca2a43a6dc675c72ea2a19cc7",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

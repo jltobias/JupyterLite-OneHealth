@@ -1,0 +1,29 @@
+{
+  "name": "isarray",
+  "version": "2.0.5",
+  "lock_keys": [
+    "isarray"
+  ],
+  "lock_integrities": [
+    "sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/isarray/2.0.5",
+  "tarball_url": "https://registry.npmjs.org/isarray/-/isarray-2.0.5.tgz",
+  "npm_integrity": "sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw==",
+  "tarball_sha256": "72bae463b81a604b4a118c00012c76ee9b8d155b9da62d1f362876c9f8b5f793",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/juliangruber/isarray.git",
+    "type": "git"
+  },
+  "git_head": "63ea4ca0a0d6b0574d6a470ebd26880c3026db4a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/isarray@2.0.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14",
+      "bytes": 1096
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

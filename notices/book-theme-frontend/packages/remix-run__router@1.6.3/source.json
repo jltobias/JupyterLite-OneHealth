@@ -1,0 +1,30 @@
+{
+  "name": "@remix-run/router",
+  "version": "1.6.3",
+  "lock_keys": [
+    "@remix-run/router"
+  ],
+  "lock_integrities": [
+    "sha512-EXJysQ7J3veRECd0kZFQwYYd5sJMcq2O/m60zu1W2l3oVQ9xtub8jTOtYRE0+M2iomyG/W3Ps7+vp2kna0C27Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@remix-run/router/1.6.3",
+  "tarball_url": "https://registry.npmjs.org/@remix-run/router/-/router-1.6.3.tgz",
+  "npm_integrity": "sha512-EXJysQ7J3veRECd0kZFQwYYd5sJMcq2O/m60zu1W2l3oVQ9xtub8jTOtYRE0+M2iomyG/W3Ps7+vp2kna0C27Q==",
+  "tarball_sha256": "3edff534d25fdcd68c008d2e375fdbf0ab562eac8c4c8399e7446c1b00e15d00",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/remix-run/react-router.git",
+    "type": "git",
+    "directory": "packages/router"
+  },
+  "git_head": "6c0bbb14ed638a9adcae11376b084db450b69c84",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/remix-run__router@1.6.3/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "77c9ee6a9c5d5782fb0c50b50d101189116314c14f7df0a1b0d385fc96a7ba49",
+      "bytes": 1161
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

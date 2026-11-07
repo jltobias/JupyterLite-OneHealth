@@ -1,0 +1,14 @@
+{
+  "name": "color-id",
+  "version": "1.1.0",
+  "author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/color-id/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/color-id/-/color-id-1.1.0.tgz",
+  "git_head": "f9b11dde281e250bad85d8bd26a7a722551f240d",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

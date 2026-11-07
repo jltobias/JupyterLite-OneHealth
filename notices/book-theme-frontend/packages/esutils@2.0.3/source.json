@@ -1,0 +1,29 @@
+{
+  "name": "esutils",
+  "version": "2.0.3",
+  "lock_keys": [
+    "esutils"
+  ],
+  "lock_integrities": [
+    "sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/esutils/2.0.3",
+  "tarball_url": "https://registry.npmjs.org/esutils/-/esutils-2.0.3.tgz",
+  "npm_integrity": "sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==",
+  "tarball_sha256": "c5adbd730a495a3c635bbae9ee5f693b95c7e13b395f7036efab8232c5f0640f",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/estools/esutils.git",
+    "type": "git"
+  },
+  "git_head": "8c2741c0154723fb92da137a0c97845b03b0943a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/esutils@2.0.3/LICENSE.BSD",
+      "source_member": "package/LICENSE.BSD",
+      "sha256": "0e74697a68cebdcd61502c30fe80ab7f9e341d995dcd452023654d57133534b1",
+      "bytes": 1231
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

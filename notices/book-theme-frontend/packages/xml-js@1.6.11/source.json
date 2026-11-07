@@ -1,0 +1,29 @@
+{
+  "name": "xml-js",
+  "version": "1.6.11",
+  "lock_keys": [
+    "xml-js"
+  ],
+  "lock_integrities": [
+    "sha512-7rVi2KMfwfWFl+GpPg6m80IVMWXLRjO+PxTq7V2CDhoGak0wzYzFgUY2m4XJ47OGdXd8eLE8EmwfAmdjw7lC1g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/xml-js/1.6.11",
+  "tarball_url": "https://registry.npmjs.org/xml-js/-/xml-js-1.6.11.tgz",
+  "npm_integrity": "sha512-7rVi2KMfwfWFl+GpPg6m80IVMWXLRjO+PxTq7V2CDhoGak0wzYzFgUY2m4XJ47OGdXd8eLE8EmwfAmdjw7lC1g==",
+  "tarball_sha256": "7fa22b957f335efef3ead84aaa8285e2f3b08dbfeee18f9f41021a1a0c584369",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/nashwaan/xml-js.git",
+    "type": "git"
+  },
+  "git_head": "f0376f265c4f299100fb4766828ebf066a0edeec",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/xml-js@1.6.11/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "8ada61091ef0ef154a69321483e5ffadf5c50693ca945047ffb90a6b4b12b088",
+      "bytes": 1108
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

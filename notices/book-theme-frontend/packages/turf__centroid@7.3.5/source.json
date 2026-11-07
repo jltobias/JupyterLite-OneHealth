@@ -1,0 +1,29 @@
+{
+  "name": "@turf/centroid",
+  "version": "7.3.5",
+  "lock_keys": [
+    "@turf/centroid"
+  ],
+  "lock_integrities": [
+    "sha512-hkWaqwGFdOn6Tf0EWfn2yn1XZ1FWE1h2C5ZWstDMu/FxYO5DB+YjlmOFPl4K6SmSOEgdV07eK2vDCyPeTHqKGA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@turf/centroid/7.3.5",
+  "tarball_url": "https://registry.npmjs.org/@turf/centroid/-/centroid-7.3.5.tgz",
+  "npm_integrity": "sha512-hkWaqwGFdOn6Tf0EWfn2yn1XZ1FWE1h2C5ZWstDMu/FxYO5DB+YjlmOFPl4K6SmSOEgdV07eK2vDCyPeTHqKGA==",
+  "tarball_sha256": "eaba731fdd1fabdba78f5ef6bf988174ac1aff35038d64a06ada3eb0d4b3c615",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/Turfjs/turf.git",
+    "type": "git"
+  },
+  "git_head": "a33ca387405df72847af00cdf689d3209301a2c1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/turf__centroid@7.3.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f9b32b82fd5a1d3a990526d86da97f42fb805d9f4d9f978125c4679b674fce44",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

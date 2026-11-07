@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/disposable",
+  "version": "2.1.5",
+  "lock_keys": [
+    "@lumino/disposable"
+  ],
+  "lock_integrities": [
+    "sha512-hO9AkJK0oEGzxopuxI8LaZqwzSNwXJTGCdr5K4gh6al+zxpN7rOCh6Aq3zDxkIHJU4zybxv8r02ardx9XJsG3A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/disposable/2.1.5",
+  "tarball_url": "https://registry.npmjs.org/@lumino/disposable/-/disposable-2.1.5.tgz",
+  "npm_integrity": "sha512-hO9AkJK0oEGzxopuxI8LaZqwzSNwXJTGCdr5K4gh6al+zxpN7rOCh6Aq3zDxkIHJU4zybxv8r02ardx9XJsG3A==",
+  "tarball_sha256": "493d80e68c5d3ee9fec82e3c8008bcf40571ff2e8356959fe1796c946dced533",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__disposable@2.1.5/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/disposable@2.1.5/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

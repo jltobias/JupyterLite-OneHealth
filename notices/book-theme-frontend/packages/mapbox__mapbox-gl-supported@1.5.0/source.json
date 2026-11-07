@@ -1,0 +1,29 @@
+{
+  "name": "@mapbox/mapbox-gl-supported",
+  "version": "1.5.0",
+  "lock_keys": [
+    "@mapbox/mapbox-gl-supported"
+  ],
+  "lock_integrities": [
+    "sha512-/PT1P6DNf7vjEEiPkVIRJkvibbqWtqnyGaBz3nfRdcxclNSnSdaLU5tfAgcD7I8Yt5i+L19s406YLl1koLnLbg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/mapbox-gl-supported/1.5.0",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/mapbox-gl-supported/-/mapbox-gl-supported-1.5.0.tgz",
+  "npm_integrity": "sha512-/PT1P6DNf7vjEEiPkVIRJkvibbqWtqnyGaBz3nfRdcxclNSnSdaLU5tfAgcD7I8Yt5i+L19s406YLl1koLnLbg==",
+  "tarball_sha256": "a369215614c678e4f958b8a0060c67ba593b6eee6fbf5e36523142f969f3c8a4",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/mapbox/mapbox-gl-supported.git",
+    "type": "git"
+  },
+  "git_head": "70a140ac48f65b409de1e9219c6a4925d4ff788a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__mapbox-gl-supported@1.5.0/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "e9e43336581d738d3d3c86e65b63bd2357dd4a945ec21e28c4eb0c4a8b522ac6",
+      "bytes": 1507
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

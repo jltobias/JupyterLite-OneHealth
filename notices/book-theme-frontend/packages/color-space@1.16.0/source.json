@@ -1,0 +1,29 @@
+{
+  "name": "color-space",
+  "version": "1.16.0",
+  "lock_keys": [
+    "color-space"
+  ],
+  "lock_integrities": [
+    "sha512-A6WMiFzunQ8KEPFmj02OnnoUnqhmSaHaZ/0LVFcPTdlvm8+3aMJ5x1HRHy3bDHPkovkf4sS0f4wsVvwk71fKkg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-space/1.16.0",
+  "tarball_url": "https://registry.npmjs.org/color-space/-/color-space-1.16.0.tgz",
+  "npm_integrity": "sha512-A6WMiFzunQ8KEPFmj02OnnoUnqhmSaHaZ/0LVFcPTdlvm8+3aMJ5x1HRHy3bDHPkovkf4sS0f4wsVvwk71fKkg==",
+  "tarball_sha256": "ebc0a5177df142455ddbb0d5611fbd4a38ed0fe1578d2ee12cc47c93e5d2a9dd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/colorjs/color-space.git",
+    "type": "git"
+  },
+  "git_head": "e3580fb3a547aa71a854c4bb74575c2cc20d82ff",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-space@1.16.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a4ef5224f5b38684bbc95521f04b96325c2402c03da3ecb35e232d82a996282f",
+      "bytes": 1233
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

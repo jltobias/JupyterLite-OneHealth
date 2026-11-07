@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "title": "Fresno, California \u00b7 real Landsat / Census snapshot",
+  "bbox": [
+    -119.9,
+    36.65,
+    -119.65,
+    36.9
+  ],
+  "crs": "EPSG:4326",
+  "source_crs": "EPSG:32611",
+  "scene_id": "LC09_L2SP_042035_20240830_02_T1",
+  "satellite_datetime": "2024-08-30T18:33:53.353894Z",
+  "population_date": "2020-04-01",
+  "retrieved_at": "2026-11-07T14:48:37.020815+00:00",
+  "source_grid_m": 30,
+  "thermal_native_resolution_m": 100,
+  "sample_stride_native_pixels": 10,
+  "sample_spacing_m": 300,
+  "sample_count": 6890,
+  "sampling": "Systematic nearest native-pixel samples. Display tiles show sampling spacing, not the 30 m observation footprint. Means describe selected samples, not full-resolution area means.",
+  "qa": "Reject QA_PIXEL bits 0\u20135 (fill/dilated cloud/cirrus/cloud/shadow/snow), any QA_RADSAT, optical zero DN, thermal zero DN. No gap filling.",
+  "native_crop_clear_fraction": 0.9999931608406147,
+  "native_crop_shape": [
+    947,
+    772
+  ],
+  "formulas": {
+    "reflectance": "DN * 0.0000275 - 0.2",
+    "temperature_c": "DN * 0.00341802 + 149 - 273.15",
+    "ndvi": "(nir08 - red)/(nir08 + red), after scaling; zero denominator -> null",
+    "ndwi": "(green - nir08)/(green + nir08), after scaling; zero denominator -> null"
+  },
+  "units": {
+    "red": "unitless surface reflectance",
+    "green": "unitless surface reflectance",
+    "blue": "unitless surface reflectance",
+    "nir08": "unitless surface reflectance",
+    "ndvi": "unitless vegetation proxy",
+    "ndwi": "unitless water proxy",
+    "temperature_c": "degrees Celsius; surface, not air",
+    "POP100": "people; whole 2020 Census tract"
+  },
+  "population_method": "Full-tract POP100 counts; bbox estimate uses spherical polygon-area fraction and assumes uniform within-tract population. Neither is a direct bbox headcount.",
+  "rights": {
+    "landsat": "https://www.usgs.gov/faqs/are-landsat-data-cloud-still-considered-be-within-public-domain",
+    "census": "https://www.census.gov/newsroom/archives/2014-pr/cb14-208.html"
+  },
+  "credits": [
+    "USGS EROS / NASA Landsat 8\u20139 Collection 2 Level-2. DOI:10.5066/P9OGBGM6",
+    "U.S. Census Bureau, 2020 Census TIGERweb tracts and POP100"
+  ],
+  "source_files": {
+    "blue": {
+      "path": "native/blue.tif",
+      "sha256": "3945c25eb56a03b84231a9504df8c89dda92d0d952d4557cc1a61cca87fe09a9",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B2.TIF"
+    },
+    "green": {
+      "path": "native/green.tif",
+      "sha256": "f19a8cd2132160888a3a58737838d12df9a6b73fe8f70fd05ea660e8e5488185",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B3.TIF"
+    },
+    "red": {
+      "path": "native/red.tif",
+      "sha256": "08117cb220455036787f34417e0ab1d338329cd343e6ea1a0e6ff0fb07571e06",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B4.TIF"
+    },
+    "nir08": {
+      "path": "native/nir08.tif",
+      "sha256": "62f896f1dca2d694da0e7d1e09ae468df5ad96c3571c44b4271718723c1e5921",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_SR_B5.TIF"
+    },
+    "lwir11": {
+      "path": "native/lwir11.tif",
+      "sha256": "19e158c9dca614a550158ec597a7fa119e48ddedc28a5aad0220b7fda6913d8c",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_ST_B10.TIF"
+    },
+    "qa_pixel": {
+      "path": "native/qa_pixel.tif",
+      "sha256": "f072e0a0366127ba4f53298be527f009c256e930844be883c2956a2ff7c7a151",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_QA_PIXEL.TIF"
+    },
+    "qa_radsat": {
+      "path": "native/qa_radsat.tif",
+      "sha256": "a1afd2d946ae2b3d4c8f8053f9c453080d33ca357824bf0694e463165edff6a1",
+      "unsigned_asset": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2024/042/035/LC09_L2SP_042035_20240830_20240831_02_T1/LC09_L2SP_042035_20240830_20240831_02_T1_QA_RADSAT.TIF"
+    }
+  },
+  "census_query": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/6/query",
+    "params": {
+      "where": "1=1",
+      "geometry": "-119.90,36.65,-119.65,36.90",
+      "geometryType": "esriGeometryEnvelope",
+      "inSR": 4326,
+      "spatialRel": "esriSpatialRelIntersects",
+      "outFields": "GEOID,STATE,COUNTY,TRACT,NAME,POP100,HU100,AREALAND,AREAWATER,CENTLAT,CENTLON",
+      "outSR": 4326,
+      "returnGeometry": "true",
+      "f": "geojson",
+      "orderByFields": "GEOID",
+      "resultRecordCount": 2000
+    },
+    "resolved_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/6/query?where=1%3D1&geometry=-119.90%2C36.65%2C-119.65%2C36.90&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CNAME%2CPOP100%2CHU100%2CAREALAND%2CAREAWATER%2CCENTLAT%2CCENTLON&outSR=4326&returnGeometry=true&f=geojson&orderByFields=GEOID&resultRecordCount=2000",
+    "retrieved_at": "2026-11-07"
+  },
+  "files": {
+    "pixels.csv": {
+      "sha256": "bbdd2896f963bf2423ff8fb4add66e9097118d096fc08b8d6d2de867e7e81732",
+      "bytes": 1363374
+    },
+    "tracts.geojson": {
+      "sha256": "08c2bf5667c70c7755aa8e64b37790b8be8cf22f09d96356a300e2ec85cdb079",
+      "bytes": 1484087
+    },
+    "source-metadata.json": {
+      "sha256": "8d8916c288cafc34ab3d9e78f3489d450a246eed0345287e1124fdff8dfa3bd3",
+      "bytes": 9874
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "falafel",
+  "version": "2.2.5",
+  "lock_keys": [
+    "falafel"
+  ],
+  "lock_integrities": [
+    "sha512-HuC1qF9iTnHDnML9YZAdCDQwT0yKl/U55K4XSUXqGAA2GLoafFgWRqdAbhWJxXaYD4pyoVxAJ8wH670jMpI9DQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/falafel/2.2.5",
+  "tarball_url": "https://registry.npmjs.org/falafel/-/falafel-2.2.5.tgz",
+  "npm_integrity": "sha512-HuC1qF9iTnHDnML9YZAdCDQwT0yKl/U55K4XSUXqGAA2GLoafFgWRqdAbhWJxXaYD4pyoVxAJ8wH670jMpI9DQ==",
+  "tarball_sha256": "7e5af6cbdfe3a84cf8d609cd1b1d07adbc6a28e2a59e31b82fd0163dd7eb005a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/substack/node-falafel.git",
+    "type": "git"
+  },
+  "git_head": "f9fb9b0dc307db75eb494bc4d8aace47d38dc4c7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/falafel@2.2.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "60acd7711e6c138e6041836e32d922705254cc1568a30fdf16aa8f59bb87aeaa",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "webgl-context",
+  "version": "2.2.0",
+  "lock_keys": [
+    "webgl-context"
+  ],
+  "lock_integrities": [
+    "sha512-q/fGIivtqTT7PEoF07axFIlHNk/XCPaYpq64btnepopSWvKNFkoORlQYgqDigBIuGA1ExnFd/GnSUnBNEPQY7Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/webgl-context/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/webgl-context/-/webgl-context-2.2.0.tgz",
+  "npm_integrity": "sha512-q/fGIivtqTT7PEoF07axFIlHNk/XCPaYpq64btnepopSWvKNFkoORlQYgqDigBIuGA1ExnFd/GnSUnBNEPQY7Q==",
+  "tarball_sha256": "2ff119302a56a5bdff2fb698b5ac22b4d6214d3c696c83c43d2f075c6f4aa088",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mattdesl/webgl-context.git",
+    "type": "git"
+  },
+  "git_head": "ec7217556f7034b7d07baac8259bb0cf36c23c3f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/webgl-context@2.2.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "91515553fda3d86e82454bab0eb876a2cb9a31c0dcb8be640870fed624e53697",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

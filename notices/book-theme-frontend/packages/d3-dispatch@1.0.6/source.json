@@ -1,0 +1,29 @@
+{
+  "name": "d3-dispatch",
+  "version": "1.0.6",
+  "lock_keys": [
+    "plotly.js/d3-force/d3-dispatch"
+  ],
+  "lock_integrities": [
+    "sha512-fVjoElzjhCEy+Hbn8KygnmMS7Or0a9sI2UzGwoB7cCtvI1XpVN9GpoYlnb3xt2YV66oXYb1fLJ8GMvP4hdU1RA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-dispatch/1.0.6",
+  "tarball_url": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.6.tgz",
+  "npm_integrity": "sha512-fVjoElzjhCEy+Hbn8KygnmMS7Or0a9sI2UzGwoB7cCtvI1XpVN9GpoYlnb3xt2YV66oXYb1fLJ8GMvP4hdU1RA==",
+  "tarball_sha256": "4d487d8b5ebb9424e0be8d9494d660425b81570cec3aff850f6690b1bb75f870",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-dispatch.git",
+    "type": "git"
+  },
+  "git_head": "4f868212fc5b425cd11c07f929fef8a77a46adf3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-dispatch@1.0.6/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e1211892da0b0e0585b7aebe8f98c1274fba15bafe47fa1f4ee8a7a502c06304",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

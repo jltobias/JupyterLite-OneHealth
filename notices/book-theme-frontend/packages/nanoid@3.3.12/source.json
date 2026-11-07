@@ -1,0 +1,30 @@
+{
+  "name": "nanoid",
+  "version": "3.3.12",
+  "lock_keys": [
+    "docx/nanoid",
+    "postcss/nanoid"
+  ],
+  "lock_integrities": [
+    "sha512-ZB9RH/39qpq5Vu6Y+NmUaFhQR6pp+M2Xt76XBnEwDaGcVAqhlvxrl3B2bKS5D3NH3QR76v3aSrKaF/Kiy7lEtQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/nanoid/3.3.12",
+  "tarball_url": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.12.tgz",
+  "npm_integrity": "sha512-ZB9RH/39qpq5Vu6Y+NmUaFhQR6pp+M2Xt76XBnEwDaGcVAqhlvxrl3B2bKS5D3NH3QR76v3aSrKaF/Kiy7lEtQ==",
+  "tarball_sha256": "8d2d5871a7084db395e455dde29fb07795f57cf35b75f33296688bf05f9f579b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/ai/nanoid.git",
+    "type": "git"
+  },
+  "git_head": "aa9c399f6915fb8aaf957ac9290321be932ac252",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/nanoid@3.3.12/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "da4db1480d9beea3483a2eda5c53b22238d0827d57da162b48f122e04d2d9987",
+      "bytes": 1095
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

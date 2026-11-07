@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/messaging",
+  "version": "2.0.4",
+  "lock_keys": [
+    "@lumino/messaging"
+  ],
+  "lock_integrities": [
+    "sha512-NbZnchAPOciSe9Qn/g6EzG0LRaw7bygFIXbCD440ZhzvugdBeAerwYhrA795jkXPNrrl3olp5AlO0cBB/XZNtg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/messaging/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/@lumino/messaging/-/messaging-2.0.4.tgz",
+  "npm_integrity": "sha512-NbZnchAPOciSe9Qn/g6EzG0LRaw7bygFIXbCD440ZhzvugdBeAerwYhrA795jkXPNrrl3olp5AlO0cBB/XZNtg==",
+  "tarball_sha256": "67fed9ec6db2fccb390b1069504e331a6f45751e85aa5c4dee222cc536971440",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__messaging@2.0.4/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/messaging@2.0.4/LICENSE",
+      "sha256": "b0da99e8c73e7fdad117622971e6d16379fd01b5d0b60589de7133b6fec59422",
+      "bytes": 3026
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

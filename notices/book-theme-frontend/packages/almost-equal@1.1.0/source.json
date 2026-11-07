@@ -1,0 +1,29 @@
+{
+  "name": "almost-equal",
+  "version": "1.1.0",
+  "lock_keys": [
+    "almost-equal"
+  ],
+  "lock_integrities": [
+    "sha512-0V/PkoculFl5+0Lp47JoxUcO0xSxhIBvm+BxHdD/OgXNmdRpRHCFnKVuUoWyS9EzQP+otSGv0m9Lb4yVkQBn2A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/almost-equal/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/almost-equal/-/almost-equal-1.1.0.tgz",
+  "npm_integrity": "sha512-0V/PkoculFl5+0Lp47JoxUcO0xSxhIBvm+BxHdD/OgXNmdRpRHCFnKVuUoWyS9EzQP+otSGv0m9Lb4yVkQBn2A==",
+  "tarball_sha256": "96d45b7ea43a6a34ee25766d983ca9935bb1880d06dd09f71bda75e4f75daa6c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/almost-equal.git",
+    "type": "git"
+  },
+  "git_head": "bb9919030f650a6b1b5a9f0f65c406055146d259",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/almost-equal@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "104b1943cb85b680479626a446ff40341caaf4834ac77d9d5f117b993c4d490a",
+      "bytes": 1104
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

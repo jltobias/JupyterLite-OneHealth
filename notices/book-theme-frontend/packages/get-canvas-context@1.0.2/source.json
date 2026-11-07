@@ -1,0 +1,29 @@
+{
+  "name": "get-canvas-context",
+  "version": "1.0.2",
+  "lock_keys": [
+    "get-canvas-context"
+  ],
+  "lock_integrities": [
+    "sha512-LnpfLf/TNzr9zVOGiIY6aKCz8EKuXmlYNV7CM2pUjBa/B+c2I15tS7KLySep75+FuerJdmArvJLcsAXWEy2H0A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/get-canvas-context/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/get-canvas-context/-/get-canvas-context-1.0.2.tgz",
+  "npm_integrity": "sha512-LnpfLf/TNzr9zVOGiIY6aKCz8EKuXmlYNV7CM2pUjBa/B+c2I15tS7KLySep75+FuerJdmArvJLcsAXWEy2H0A==",
+  "tarball_sha256": "09a832304bb156b8875825ec49344678e8c9d2d737e609163801770342ca0931",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/Jam3/get-canvas-context.git",
+    "type": "git"
+  },
+  "git_head": "9d4c5dfb4cb4a23f31fb4bd29ece35ee0df79ea7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/get-canvas-context@1.0.2/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "fb153e8eaf70c10aa169bc3d7401946a9d51163cafaca23458cea8e67de972f4",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

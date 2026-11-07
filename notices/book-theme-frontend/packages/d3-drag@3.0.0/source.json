@@ -1,0 +1,29 @@
+{
+  "name": "d3-drag",
+  "version": "3.0.0",
+  "lock_keys": [
+    "d3-drag"
+  ],
+  "lock_integrities": [
+    "sha512-pWbUJLdETVA8lQNJecMxoXfH6x+mO2UQo8rSmZ+QqxcbyA3hfeprFgIT//HW2nlHChWeIIMwS2Fq+gEARkhTkg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-drag/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/d3-drag/-/d3-drag-3.0.0.tgz",
+  "npm_integrity": "sha512-pWbUJLdETVA8lQNJecMxoXfH6x+mO2UQo8rSmZ+QqxcbyA3hfeprFgIT//HW2nlHChWeIIMwS2Fq+gEARkhTkg==",
+  "tarball_sha256": "a3ccc9d31d85135f35a4eda3ec0fae6ac22435d4e3fe2d2e0c73b5246460d4db",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-drag.git",
+    "type": "git"
+  },
+  "git_head": "1b88d8a2d69fca86d4d90a8329987693b79ec506",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-drag@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "d3-format",
+  "version": "3.1.2",
+  "lock_keys": [
+    "d3-format"
+  ],
+  "lock_integrities": [
+    "sha512-AJDdYOdnyRDV5b6ArilzCPPwc1ejkHcoyFarqlPqT7zRYjhavcT3uSrqcMvsgh2CgoPbK3RCwyHaVyxYcP2Arg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-format/3.1.2",
+  "tarball_url": "https://registry.npmjs.org/d3-format/-/d3-format-3.1.2.tgz",
+  "npm_integrity": "sha512-AJDdYOdnyRDV5b6ArilzCPPwc1ejkHcoyFarqlPqT7zRYjhavcT3uSrqcMvsgh2CgoPbK3RCwyHaVyxYcP2Arg==",
+  "tarball_sha256": "5bc80e685f5707846d9405e8fd7aec4425960d83cc98200bb94d64d6e6f63c10",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-format.git",
+    "type": "git"
+  },
+  "git_head": "ebdc2d530277df379157f82fee6ea5623d179bd7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-format@3.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2a6d2d5f32ba0b755ddbc1c833f766e30cdbe6ebe9a6d4e3e24427721f0b63d3",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

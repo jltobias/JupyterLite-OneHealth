@@ -1,0 +1,29 @@
+{
+  "name": "d3-dsv",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-dsv"
+  ],
+  "lock_integrities": [
+    "sha512-UG6OvdI5afDIFP9w4G0mNq50dSOsXHJaRE8arAS5o9ApWnIElp8GZw1Dun8vP8OyHOZ/QJUKUJwxiiCCnUwm+Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-dsv/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-3.0.1.tgz",
+  "npm_integrity": "sha512-UG6OvdI5afDIFP9w4G0mNq50dSOsXHJaRE8arAS5o9ApWnIElp8GZw1Dun8vP8OyHOZ/QJUKUJwxiiCCnUwm+Q==",
+  "tarball_sha256": "fdafcae0362205e2fc63fe3e87fed54822227d9370ce5150914f863ec36153cb",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-dsv.git",
+    "type": "git"
+  },
+  "git_head": "344677983ac44e7bbf0e2527ad7f0223d66a2f38",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-dsv@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "7842a82012622e5a37bfe4f6c1b67cd3bae6350716b5bf87f36cea0bdc1319dc",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

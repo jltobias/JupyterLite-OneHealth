@@ -1,0 +1,26 @@
+{
+  "name": "quickselect",
+  "version": "2.0.0",
+  "lock_keys": [
+    "quickselect"
+  ],
+  "lock_integrities": [
+    "sha512-RKJ22hX8mHe3Y6wH/N3wCM6BWtjaxIyyUIkpHOvfFnxdI4yD4tBXEBKSbriGujF6jnSVkJrffuo6vxACiSSxIw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/quickselect/2.0.0",
+  "tarball_url": "https://registry.npmjs.org/quickselect/-/quickselect-2.0.0.tgz",
+  "npm_integrity": "sha512-RKJ22hX8mHe3Y6wH/N3wCM6BWtjaxIyyUIkpHOvfFnxdI4yD4tBXEBKSbriGujF6jnSVkJrffuo6vxACiSSxIw==",
+  "tarball_sha256": "88a39df0c801595c65e5d87591c42ca612680b8478b6a634549cfe6c240e35e2",
+  "declared_license": "ISC",
+  "repository": null,
+  "git_head": "85e11e63085274f28dab80e8134175f6ff1807c3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/quickselect@2.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "597034cb7c11c916ad407344ea99a0b08e3c443a6b4421460f1d23c411c69707",
+      "bytes": 750
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

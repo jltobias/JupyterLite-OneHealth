@@ -1,0 +1,29 @@
+{
+  "name": "lodash-es",
+  "version": "4.18.1",
+  "lock_keys": [
+    "lodash-es"
+  ],
+  "lock_integrities": [
+    "sha512-J8xewKD/Gk22OZbhpOVSwcs60zhd95ESDwezOFuA3/099925PdHJ7OFHNTGtajL3AlZkykD32HykiMo+BIBI8A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/lodash-es/4.18.1",
+  "tarball_url": "https://registry.npmjs.org/lodash-es/-/lodash-es-4.18.1.tgz",
+  "npm_integrity": "sha512-J8xewKD/Gk22OZbhpOVSwcs60zhd95ESDwezOFuA3/099925PdHJ7OFHNTGtajL3AlZkykD32HykiMo+BIBI8A==",
+  "tarball_sha256": "b0c810e5cd4cd580ed7b18fc71384b9a80c151dc5c85b1729bd656a49e3f16f8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lodash/lodash.git",
+    "type": "git"
+  },
+  "git_head": "d85490ebfb8f49ddc1eab84892aa33a3ef547894",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lodash-es@4.18.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f71e8ed126b46346494aad5486874cd8f0aafe95092ed67d2e3cb6110f939abc",
+      "bytes": 1952
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "array-find-index",
+  "version": "1.0.2",
+  "lock_keys": [
+    "array-find-index"
+  ],
+  "lock_integrities": [
+    "sha512-M1HQyIXcBGtVywBt8WVdim+lrNaK7VHp99Qt5pSNziXznKHViIBbXWtfRTpEFpF/c4FdfxNAsCCwPp5phBYJtw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/array-find-index/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/array-find-index/-/array-find-index-1.0.2.tgz",
+  "npm_integrity": "sha512-M1HQyIXcBGtVywBt8WVdim+lrNaK7VHp99Qt5pSNziXznKHViIBbXWtfRTpEFpF/c4FdfxNAsCCwPp5phBYJtw==",
+  "tarball_sha256": "05ea6cb80af8863ab910004a81179301357956f96a1f78151f348a4b19213bc6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/sindresorhus/array-find-index.git",
+    "type": "git"
+  },
+  "git_head": "983f4c827ad22fa0353182b1ddcbfaecd4412859",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/array-find-index@1.0.2/license",
+      "source_member": "package/license",
+      "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+      "bytes": 1119
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

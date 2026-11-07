@@ -1,0 +1,29 @@
+{
+  "name": "acorn",
+  "version": "7.4.1",
+  "lock_keys": [
+    "falafel/acorn"
+  ],
+  "lock_integrities": [
+    "sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/acorn/7.4.1",
+  "tarball_url": "https://registry.npmjs.org/acorn/-/acorn-7.4.1.tgz",
+  "npm_integrity": "sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==",
+  "tarball_sha256": "daf0504df11000adcb815b61f5172f0042ac17c33646706581ab5be3e1dc077b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/acornjs/acorn.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/acorn@7.4.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "cb3984acf8a000bc42bfbe319b836507bd268ef1d0d53e37363e2d5cac1137e0",
+      "bytes": 1099
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

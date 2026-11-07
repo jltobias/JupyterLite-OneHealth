@@ -1,0 +1,29 @@
+{
+  "name": "css-font-weight-keywords",
+  "version": "1.0.0",
+  "lock_keys": [
+    "css-font-weight-keywords"
+  ],
+  "lock_integrities": [
+    "sha512-5So8/NH+oDD+EzsnF4iaG4ZFHQ3vaViePkL1ZbZ5iC/KrsCY+WHq/lvOgrtmuOQ9pBBZ1ADGpaf+A4lj1Z9eYA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-font-weight-keywords/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/css-font-weight-keywords/-/css-font-weight-keywords-1.0.0.tgz",
+  "npm_integrity": "sha512-5So8/NH+oDD+EzsnF4iaG4ZFHQ3vaViePkL1ZbZ5iC/KrsCY+WHq/lvOgrtmuOQ9pBBZ1ADGpaf+A4lj1Z9eYA==",
+  "tarball_sha256": "a86e837dfa56a692bd88a3b83e61c06d1e63351c962067f5a9f7b04f7387dea5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jedmao/css-font-weight-keywords.git",
+    "type": "git"
+  },
+  "git_head": "d0deac6caa72a3cdb299dcabd8e8bb175a649560",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-font-weight-keywords@1.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "03ac0b988d87f21fccdec911d13eaaea03c80a79ce650e2b2d1e5e9ed2238ec7",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

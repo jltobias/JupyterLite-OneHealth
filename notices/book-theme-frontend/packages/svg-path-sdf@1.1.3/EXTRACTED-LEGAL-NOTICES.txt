@@ -1,0 +1,9 @@
+Exact legal declarations from official npm package files.
+
+Source member: package/readme.md
+## License
+
+(c) 2017 Dima Yv. MIT License
+
+Development supported by plot.ly.
+

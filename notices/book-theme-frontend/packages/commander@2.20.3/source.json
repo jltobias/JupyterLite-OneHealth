@@ -1,0 +1,31 @@
+{
+  "name": "commander",
+  "version": "2.20.3",
+  "lock_keys": [
+    "@choojs/findup/commander",
+    "d3-geo-projection/commander",
+    "topojson-client/commander"
+  ],
+  "lock_integrities": [
+    "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/commander/2.20.3",
+  "tarball_url": "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz",
+  "npm_integrity": "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==",
+  "tarball_sha256": "3c02903de017a98d4dc3fe2bed4900beb0d04cf7b679dca0915fd8c759652b55",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tj/commander.js.git",
+    "type": "git"
+  },
+  "git_head": "6b8499b24f4f6498ad630c50c8a00c9579a8536b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/commander@2.20.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "04512a63dce4d2d506ad612dc0bd7681ccf6e3655f7b6eaef7dfac8323d1ec0b",
+      "bytes": 1098
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

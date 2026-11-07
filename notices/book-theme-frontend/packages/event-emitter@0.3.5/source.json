@@ -1,0 +1,29 @@
+{
+  "name": "event-emitter",
+  "version": "0.3.5",
+  "lock_keys": [
+    "event-emitter"
+  ],
+  "lock_integrities": [
+    "sha512-D9rRn9y7kLPnJ+hMq7S/nhvoKwwvVJahBi2BPmx3bvbsEdK3W9ii8cBSGjP+72/LnM4n6fo3+dkCX5FeTQruXA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/event-emitter/0.3.5",
+  "tarball_url": "https://registry.npmjs.org/event-emitter/-/event-emitter-0.3.5.tgz",
+  "npm_integrity": "sha512-D9rRn9y7kLPnJ+hMq7S/nhvoKwwvVJahBi2BPmx3bvbsEdK3W9ii8cBSGjP+72/LnM4n6fo3+dkCX5FeTQruXA==",
+  "tarball_sha256": "01285fbf386851ffa16974b3a077a314898c09fc52184ac0d4b45281ec0468b1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/medikoo/event-emitter.git",
+    "type": "git"
+  },
+  "git_head": "b951397b8f0d55fc7ae8aea7fa7699e48132a53d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/event-emitter@0.3.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "519bbf857c213b95460e438767e9e5600159476e3e87facbbcc19f9b2c7f8886",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

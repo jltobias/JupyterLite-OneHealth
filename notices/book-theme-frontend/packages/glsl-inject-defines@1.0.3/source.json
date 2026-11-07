@@ -1,0 +1,29 @@
+{
+  "name": "glsl-inject-defines",
+  "version": "1.0.3",
+  "lock_keys": [
+    "glsl-inject-defines"
+  ],
+  "lock_integrities": [
+    "sha512-W49jIhuDtF6w+7wCMcClk27a2hq8znvHtlGnrYkSWEr8tHe9eA2dcnohlcAmxLYBSpSSdzOkRdyPTrx9fw49+A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/glsl-inject-defines/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/glsl-inject-defines/-/glsl-inject-defines-1.0.3.tgz",
+  "npm_integrity": "sha512-W49jIhuDtF6w+7wCMcClk27a2hq8znvHtlGnrYkSWEr8tHe9eA2dcnohlcAmxLYBSpSSdzOkRdyPTrx9fw49+A==",
+  "tarball_sha256": "beede1f66738c7e1f3902d546fb2547042bcca3a85895d232330618ebe5269d8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mattdesl/glsl-inject-defines.git",
+    "type": "git"
+  },
+  "git_head": "6a813e550553b18d3f4f88855558d810cb266084",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/glsl-inject-defines@1.0.3/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "aa084193c84505fcea25068c7dc2eb1643a2ad2a744a586a22a14bc459b0eeb1",
+      "bytes": 1256
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

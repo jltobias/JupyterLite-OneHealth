@@ -1,0 +1,29 @@
+{
+  "name": "parse-rect",
+  "version": "1.2.0",
+  "lock_keys": [
+    "parse-rect"
+  ],
+  "lock_integrities": [
+    "sha512-4QZ6KYbnE6RTwg9E0HpLchUM9EZt6DnDxajFZZDSV4p/12ZJEvPO702DZpGvRYEPo00yKDys7jASi+/w7aO8LA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/parse-rect/1.2.0",
+  "tarball_url": "https://registry.npmjs.org/parse-rect/-/parse-rect-1.2.0.tgz",
+  "npm_integrity": "sha512-4QZ6KYbnE6RTwg9E0HpLchUM9EZt6DnDxajFZZDSV4p/12ZJEvPO702DZpGvRYEPo00yKDys7jASi+/w7aO8LA==",
+  "tarball_sha256": "5c79c21c28e3e495d3692c209b7975bfb37513c7e878bf360e90821cd3504a1a",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/parse-rect.git",
+    "type": "git"
+  },
+  "git_head": "61df5d2b6ab0f0dc56a6a15e0fbf696a5b08335b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/parse-rect@1.2.0/license",
+      "source_member": "package/license",
+      "sha256": "e9dd54ddece97061ebc2153110fcfeac1b0579e8556c0b07b195f004b00ff7fc",
+      "bytes": 1101
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

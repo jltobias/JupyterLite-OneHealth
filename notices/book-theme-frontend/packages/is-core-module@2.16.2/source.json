@@ -1,0 +1,29 @@
+{
+  "name": "is-core-module",
+  "version": "2.16.2",
+  "lock_keys": [
+    "is-core-module"
+  ],
+  "lock_integrities": [
+    "sha512-evOr8xfXKxE6qSR0hSXL2r3sd7ALj8+7jQEUvPYcm5sgZFdJ+AYzT6yNmJenvIYQBgIGwfwz08sL8zoL7yq2BA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-core-module/2.16.2",
+  "tarball_url": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.16.2.tgz",
+  "npm_integrity": "sha512-evOr8xfXKxE6qSR0hSXL2r3sd7ALj8+7jQEUvPYcm5sgZFdJ+AYzT6yNmJenvIYQBgIGwfwz08sL8zoL7yq2BA==",
+  "tarball_sha256": "e2f933640de144ca2e96d754b51b1fd6b96e2ad44e72eeffce17aa24436a41b3",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/inspect-js/is-core-module.git",
+    "type": "git"
+  },
+  "git_head": "a1633e0085323da16c32c71d41587caafc8f52d8",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-core-module@2.16.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5c496ce5ae47eb8e5ddcaa5e29c27c446a3855b19e3a66991b52f361bed22b28",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

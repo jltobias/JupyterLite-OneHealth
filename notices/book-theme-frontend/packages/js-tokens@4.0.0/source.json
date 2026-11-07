@@ -1,0 +1,29 @@
+{
+  "name": "js-tokens",
+  "version": "4.0.0",
+  "lock_keys": [
+    "loose-envify/js-tokens"
+  ],
+  "lock_integrities": [
+    "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/js-tokens/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
+  "npm_integrity": "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==",
+  "tarball_sha256": "d884c7a2d8adb5568c1272d92b4f9c62707f4226cf9e7b22e7b957c7361e3c53",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lydell/js-tokens.git",
+    "type": "git"
+  },
+  "git_head": "0eb6e9daee32160ab0fca979b6dc91a1991b720c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/js-tokens@4.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2213d91c606205c71eb051a199478cdc2adde945893404d7f1421436dd6d5cc1",
+      "bytes": 1103
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "mumath",
+  "version": "3.3.4",
+  "lock_keys": [
+    "mumath"
+  ],
+  "lock_integrities": [
+    "sha512-VAFIOG6rsxoc7q/IaY3jdjmrsuX9f15KlRLYTHmixASBZkZEKC1IFqE2BC5CdhXmK6WLM1Re33z//AGmeRI6FA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/mumath/3.3.4",
+  "tarball_url": "https://registry.npmjs.org/mumath/-/mumath-3.3.4.tgz",
+  "npm_integrity": "sha512-VAFIOG6rsxoc7q/IaY3jdjmrsuX9f15KlRLYTHmixASBZkZEKC1IFqE2BC5CdhXmK6WLM1Re33z//AGmeRI6FA==",
+  "tarball_sha256": "23726f90514bc43320779291c94eb7f64247a718a276b3562e9156c3533a4de6",
+  "declared_license": "Unlicense",
+  "repository": {
+    "url": "git://github.com/dfcreative/mumath.git",
+    "type": "git"
+  },
+  "git_head": "c714bce301520be6b37189625fc35bc222323a6a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mumath@3.3.4/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/mumath/3.3.4",
+      "sha256": "e0f7c73203665318a89976e3073c6773af449983564c1ec93093172c058bf41a",
+      "bytes": 618,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "dfcreative"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/Unlicense.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unlicense.txt",
+    "sha256": "0bdebfeda07d45dada625ae1317c6f833186e798b171d0db640bcf32e92a8240",
+    "bytes": 1211,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "d3-time-format",
+  "version": "4.1.0",
+  "lock_keys": [
+    "d3-time-format"
+  ],
+  "lock_integrities": [
+    "sha512-dJxPBlzC7NugB2PDLwo9Q8JiTR3M3e4/XANkreKSUxF8vvXKqm1Yfq4Q5dl8budlunRVlUUaDUgFt7eA8D6NLg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-time-format/4.1.0",
+  "tarball_url": "https://registry.npmjs.org/d3-time-format/-/d3-time-format-4.1.0.tgz",
+  "npm_integrity": "sha512-dJxPBlzC7NugB2PDLwo9Q8JiTR3M3e4/XANkreKSUxF8vvXKqm1Yfq4Q5dl8budlunRVlUUaDUgFt7eA8D6NLg==",
+  "tarball_sha256": "46f1492ef6be8afe04a844876a644a4a964da7f87937e90e93f9585acff9d30e",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-time-format.git",
+    "type": "git"
+  },
+  "git_head": "76cfef1da81b70404c0226ec9db9b0d56fa09461",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-time-format@4.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

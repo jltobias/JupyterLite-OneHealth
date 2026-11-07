@@ -1,0 +1,43 @@
+{
+  "name": "array-normalize",
+  "version": "1.1.4",
+  "lock_keys": [
+    "array-normalize"
+  ],
+  "lock_integrities": [
+    "sha512-fCp0wKFLjvSPmCn4F5Tiw4M3lpMZoHlCjfcs7nNzuj3vqQQ1/a8cgB9DXcpDSn18c+coLnaW7rqfcYCvKbyJXg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/array-normalize/1.1.4",
+  "tarball_url": "https://registry.npmjs.org/array-normalize/-/array-normalize-1.1.4.tgz",
+  "npm_integrity": "sha512-fCp0wKFLjvSPmCn4F5Tiw4M3lpMZoHlCjfcs7nNzuj3vqQQ1/a8cgB9DXcpDSn18c+coLnaW7rqfcYCvKbyJXg==",
+  "tarball_sha256": "e11abdabce87fb80301de2383796b56ead33a6173d32b91ab3027ce3882dcaa8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/array-normalize.git",
+    "type": "git"
+  },
+  "git_head": "10c4d70820e264a4c315a085172ce2a85fa6b181",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/array-normalize@1.1.4/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/array-normalize/1.1.4",
+      "sha256": "3dc6f09da4f7c6425927768ab2ebadde60acff3dfcb822673ec6acfff2a95db5",
+      "bytes": 676,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

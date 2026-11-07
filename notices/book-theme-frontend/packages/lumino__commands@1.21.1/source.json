@@ -1,0 +1,29 @@
+{
+  "name": "@lumino/commands",
+  "version": "1.21.1",
+  "lock_keys": [
+    "jupyterlab-plotly/@lumino/widgets/@lumino/commands"
+  ],
+  "lock_integrities": [
+    "sha512-d1zJmwz5bHU0BM/Rl3tRdZ7/WgXnFB0bM7x7Bf0XDlmX++jnU9k0j3mh6/5JqCGLmIApKCRwVqSaV7jPmSJlcQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@lumino/commands/1.21.1",
+  "tarball_url": "https://registry.npmjs.org/@lumino/commands/-/commands-1.21.1.tgz",
+  "npm_integrity": "sha512-d1zJmwz5bHU0BM/Rl3tRdZ7/WgXnFB0bM7x7Bf0XDlmX++jnU9k0j3mh6/5JqCGLmIApKCRwVqSaV7jPmSJlcQ==",
+  "tarball_sha256": "ef77d400613076bc0b688f0eb094fe26462e3de3e9b0a8166610a878812e7ece",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/jupyterlab/lumino.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lumino__commands@1.21.1/UPSTREAM-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/jupyterlab/lumino/@lumino/commands@1.21.1/LICENSE",
+      "sha256": "5d3d42c2c2687efe4e22f2af4917d26fd17290d56af5754b21bb14ba849c6051",
+      "bytes": 3021
+    }
+  ],
+  "coverage": "full upstream license file at exact npm gitHead or package release tag"
+}

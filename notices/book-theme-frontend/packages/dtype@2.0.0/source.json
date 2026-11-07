@@ -1,0 +1,29 @@
+{
+  "name": "dtype",
+  "version": "2.0.0",
+  "lock_keys": [
+    "dtype"
+  ],
+  "lock_integrities": [
+    "sha512-s2YVcLKdFGS0hpFqJaTwscsyt0E8nNFdmo73Ocd81xNPj4URI4rj6D60A+vFMIw7BXWlb4yRkEwfBqcZzPGiZg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/dtype/2.0.0",
+  "tarball_url": "https://registry.npmjs.org/dtype/-/dtype-2.0.0.tgz",
+  "npm_integrity": "sha512-s2YVcLKdFGS0hpFqJaTwscsyt0E8nNFdmo73Ocd81xNPj4URI4rj6D60A+vFMIw7BXWlb4yRkEwfBqcZzPGiZg==",
+  "tarball_sha256": "aec44f42934db22ba7929e0f3a14dd27b1558a9b8bc21395f3ea6c909f76caba",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/shama/dtype.git",
+    "type": "git"
+  },
+  "git_head": "9da5997b968f7ddce4c0cbe74452b40eb39a32b3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/dtype@2.0.0/LICENSE-MIT",
+      "source_member": "package/LICENSE-MIT",
+      "sha256": "0e5d86671d8756fb5f87079c155f05c970be4d0f54d44bf93f1f234d27dd0b5f",
+      "bytes": 1063
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

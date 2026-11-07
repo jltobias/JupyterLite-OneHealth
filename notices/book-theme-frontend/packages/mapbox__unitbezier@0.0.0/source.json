@@ -1,0 +1,34 @@
+{
+  "name": "@mapbox/unitbezier",
+  "version": "0.0.0",
+  "lock_keys": [
+    "@mapbox/unitbezier"
+  ],
+  "lock_integrities": [
+    "sha512-HPnRdYO0WjFjRTSwO3frz1wKaU649OBFPX3Zo/2WZvuRi6zMiRGui8SnPQiQABgqCf8YikDe5t3HViTVw1WUzA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@mapbox/unitbezier/0.0.0",
+  "tarball_url": "https://registry.npmjs.org/@mapbox/unitbezier/-/unitbezier-0.0.0.tgz",
+  "npm_integrity": "sha512-HPnRdYO0WjFjRTSwO3frz1wKaU649OBFPX3Zo/2WZvuRi6zMiRGui8SnPQiQABgqCf8YikDe5t3HViTVw1WUzA==",
+  "tarball_sha256": "71990bf7469940305848fd5816f239785ba98c140db8db62d0e6248d9bbb6e59",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/mapbox/unitbezier.git",
+    "type": "git"
+  },
+  "git_head": "c3e0d07b20d3219a99367d676f75f66021358838",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mapbox__unitbezier@0.0.0/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/index.js"
+      ],
+      "sha256": "58905ee6545542ef35d76981c49d6333df0bc81cf0326517fc3f26965f17e3d2",
+      "bytes": 1542
+    }
+  ],
+  "coverage": "complete legal grant extracted verbatim from source or README",
+  "npm_author_attribution": "",
+  "npm_licenses": null,
+  "full_license_text_extracted": true
+}

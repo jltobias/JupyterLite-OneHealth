@@ -1,0 +1,43 @@
+{
+  "name": "array-bounds",
+  "version": "1.0.1",
+  "lock_keys": [
+    "array-bounds"
+  ],
+  "lock_integrities": [
+    "sha512-8wdW3ZGk6UjMPJx/glyEt0sLzzwAE1bhToPsO1W2pbpR2gULyxe3BjSiuJFheP50T/GgODVPz2fuMUmIywt8cQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/array-bounds/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/array-bounds/-/array-bounds-1.0.1.tgz",
+  "npm_integrity": "sha512-8wdW3ZGk6UjMPJx/glyEt0sLzzwAE1bhToPsO1W2pbpR2gULyxe3BjSiuJFheP50T/GgODVPz2fuMUmIywt8cQ==",
+  "tarball_sha256": "24b6d59e94ce7b311a4662813be884d3b3e71f4fa82add2f11ccf8baa8e89e9f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/array-bounds.git",
+    "type": "git"
+  },
+  "git_head": "0649346b5db02dacdc4a4ac18553a7afb9799bc5",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/array-bounds@1.0.1/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/array-bounds/1.0.1",
+      "sha256": "95e390aed7673d690a0d0f3a0c12e6a2ace882d9a10bfaeb5dd2b90011314661",
+      "bytes": 664,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "is-firefox",
+  "version": "1.0.3",
+  "lock_keys": [
+    "is-firefox"
+  ],
+  "lock_integrities": [
+    "sha512-6Q9ITjvWIm0Xdqv+5U12wgOKEM2KoBw4Y926m0OFkvlCxnbG94HKAsVz8w3fWcfAS5YA2fJORXX1dLrkprCCxA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-firefox/1.0.3",
+  "tarball_url": "https://registry.npmjs.org/is-firefox/-/is-firefox-1.0.3.tgz",
+  "npm_integrity": "sha512-6Q9ITjvWIm0Xdqv+5U12wgOKEM2KoBw4Y926m0OFkvlCxnbG94HKAsVz8w3fWcfAS5YA2fJORXX1dLrkprCCxA==",
+  "tarball_sha256": "ec9ab9a979f61482de7e29f0ca9b12f8282f5da35d9152c4e1ba33afe65a2372",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/gillstrom/is-firefox.git",
+    "type": "git"
+  },
+  "git_head": "77b682081bac18787e5a9c5334bc988f88f97313",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-firefox@1.0.3/license",
+      "source_member": "package/license",
+      "sha256": "8949b2ba58a823c693244638c52760970e0782812df926d94c8a26c7c9016e7b",
+      "bytes": 1132
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "roughjs",
+  "version": "4.6.6",
+  "lock_keys": [
+    "roughjs"
+  ],
+  "lock_integrities": [
+    "sha512-ZUz/69+SYpFN/g/lUlo2FXcIjRkSu3nDarreVdGGndHEBJ6cXPdKguS8JGxwj5HA5xIbVKSmLgr5b3AWxtRfvQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/roughjs/4.6.6",
+  "tarball_url": "https://registry.npmjs.org/roughjs/-/roughjs-4.6.6.tgz",
+  "npm_integrity": "sha512-ZUz/69+SYpFN/g/lUlo2FXcIjRkSu3nDarreVdGGndHEBJ6cXPdKguS8JGxwj5HA5xIbVKSmLgr5b3AWxtRfvQ==",
+  "tarball_sha256": "373873b2c3f1b7ddba878525c774816057c5818029780c7fba081f06018ba78c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/pshihn/rough.git",
+    "type": "git"
+  },
+  "git_head": "56a2762171b1294d643501e8d14f120db6b27bd7",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/roughjs@4.6.6/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "dca9a392272606ac748ac0976a2a1133f14eef841c27beaa51a844d53c56a09d",
+      "bytes": 1068
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

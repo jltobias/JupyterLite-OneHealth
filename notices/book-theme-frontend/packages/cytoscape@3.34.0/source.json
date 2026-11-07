@@ -1,0 +1,35 @@
+{
+  "name": "cytoscape",
+  "version": "3.34.0",
+  "lock_keys": [
+    "cytoscape"
+  ],
+  "lock_integrities": [
+    "sha512-62rNSrioXw93uliKFBwjukeQyeWwH2PqDrTac31r2P6464u3AUvTk0xS4LVvT251g7IgkFunrI48ZEZGjywSOg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/cytoscape/3.34.0",
+  "tarball_url": "https://registry.npmjs.org/cytoscape/-/cytoscape-3.34.0.tgz",
+  "npm_integrity": "sha512-62rNSrioXw93uliKFBwjukeQyeWwH2PqDrTac31r2P6464u3AUvTk0xS4LVvT251g7IgkFunrI48ZEZGjywSOg==",
+  "tarball_sha256": "4155f863f4408d18bb637afb5808dff7840ca7361437067faf45bbe8c970e768",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/cytoscape/cytoscape.js.git",
+    "type": "git"
+  },
+  "git_head": "22716bfb75834b56fa6679648b0abb06f4ae691c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/cytoscape@3.34.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "eb319c6e6f233607f71e8e2f450391751883cfc0eeb3ca7ef574c13d1d9c2203",
+      "bytes": 1082
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/cytoscape@3.34.0/license-update.mjs",
+      "source_member": "package/license-update.mjs",
+      "sha256": "4a5a644717fc90d678e8fbbc537a08452d0566726710eef47b196abd6363e635",
+      "bytes": 1416
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

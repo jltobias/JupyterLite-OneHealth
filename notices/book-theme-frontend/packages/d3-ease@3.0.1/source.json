@@ -1,0 +1,29 @@
+{
+  "name": "d3-ease",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-ease"
+  ],
+  "lock_integrities": [
+    "sha512-wR/XK3D3XcLIZwpbvQwQ5fK+8Ykds1ip7A2Txe0yxncXSdq1L9skcG7blcedkOX+ZcgxGAmLX1FrRGbADwzi0w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-ease/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-ease/-/d3-ease-3.0.1.tgz",
+  "npm_integrity": "sha512-wR/XK3D3XcLIZwpbvQwQ5fK+8Ykds1ip7A2Txe0yxncXSdq1L9skcG7blcedkOX+ZcgxGAmLX1FrRGbADwzi0w==",
+  "tarball_sha256": "b249afe4aa8b741beeaf2d14f625ccf49270adb645e3f1c755d11476c1fdbe2a",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-ease.git",
+    "type": "git"
+  },
+  "git_head": "a0919680efc6f8e667275ba1d6330bf6a4cc9301",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-ease@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b989d9085148d21ff64a75e14462aefa06b2589a55553b07b1460c70081c7d08",
+      "bytes": 1504
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

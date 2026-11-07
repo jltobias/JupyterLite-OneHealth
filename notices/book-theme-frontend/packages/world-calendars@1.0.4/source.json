@@ -1,0 +1,29 @@
+{
+  "name": "world-calendars",
+  "version": "1.0.4",
+  "lock_keys": [
+    "world-calendars"
+  ],
+  "lock_integrities": [
+    "sha512-VGRnLJS+xJmGDPodgJRnGIDwGu0s+Cr9V2HB3EzlDZ5n0qb8h5SJtGUEkjrphZYAglEiXZ6kiXdmk0H/h/uu/w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/world-calendars/1.0.4",
+  "tarball_url": "https://registry.npmjs.org/world-calendars/-/world-calendars-1.0.4.tgz",
+  "npm_integrity": "sha512-VGRnLJS+xJmGDPodgJRnGIDwGu0s+Cr9V2HB3EzlDZ5n0qb8h5SJtGUEkjrphZYAglEiXZ6kiXdmk0H/h/uu/w==",
+  "tarball_sha256": "45e6587498d8f7b2ba29aaddff70e304ec8133d560c185d46287ab8aa480cac0",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/world-calendars.git",
+    "type": "git"
+  },
+  "git_head": "e5efd4ee4509e2650b384627acadb80c92676a42",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/world-calendars@1.0.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "61b072bb9553d8840cc44a3fe259b890566c3cf85b0907a043f2d73ffc802c36",
+      "bytes": 1069
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

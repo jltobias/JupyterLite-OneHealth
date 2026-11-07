@@ -1,0 +1,30 @@
+{
+  "name": "use-sync-external-store",
+  "version": "1.6.0",
+  "lock_keys": [
+    "use-sync-external-store"
+  ],
+  "lock_integrities": [
+    "sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/use-sync-external-store/1.6.0",
+  "tarball_url": "https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.6.0.tgz",
+  "npm_integrity": "sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w==",
+  "tarball_sha256": "4f003b4c39114ca6a6989033ae2013a583fbd4073ee40badb7dd9cbacc1af3ae",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/facebook/react.git",
+    "type": "git",
+    "directory": "packages/use-sync-external-store"
+  },
+  "git_head": "861811347b8fa936b4a114fc022db9b8253b3d86",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/use-sync-external-store@1.6.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "bytes": 1088
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

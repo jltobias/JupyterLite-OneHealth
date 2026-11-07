@@ -1,0 +1,29 @@
+{
+  "name": "postcss-modules-local-by-default",
+  "version": "4.2.0",
+  "lock_keys": [
+    "postcss-modules-local-by-default"
+  ],
+  "lock_integrities": [
+    "sha512-5kcJm/zk+GJDSfw+V/42fJ5fhjL5YbFDl8nVdXkJPLLW+Vf9mTD5Xe0wqIaDnLuL2U6cDNpTr+UQ+v2HWIBhzw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/postcss-modules-local-by-default/4.2.0",
+  "tarball_url": "https://registry.npmjs.org/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.2.0.tgz",
+  "npm_integrity": "sha512-5kcJm/zk+GJDSfw+V/42fJ5fhjL5YbFDl8nVdXkJPLLW+Vf9mTD5Xe0wqIaDnLuL2U6cDNpTr+UQ+v2HWIBhzw==",
+  "tarball_sha256": "be74c69c338fc7774102d36b7db7f3475b0300e5368f834903e8d33c4521b1bf",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/css-modules/postcss-modules-local-by-default.git",
+    "type": "git"
+  },
+  "git_head": "db195e7e18bf0151b082f50f891809c0bf557e4e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/postcss-modules-local-by-default@4.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "dd40f37957ddcb6a6157f40b677d6f43697583f956144fbce25443e35630453e",
+      "bytes": 1109
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

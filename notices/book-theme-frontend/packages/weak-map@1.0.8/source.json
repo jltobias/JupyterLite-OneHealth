@@ -1,0 +1,49 @@
+{
+  "name": "weak-map",
+  "version": "1.0.8",
+  "lock_keys": [
+    "weak-map"
+  ],
+  "lock_integrities": [
+    "sha512-lNR9aAefbGPpHO7AEnY0hCFjz1eTkWCXYvkTRrTHs9qv8zJp+SkVYpzfLIFXQQiG3tVvbNFQgVg2bQS8YGgxyw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/weak-map/1.0.8",
+  "tarball_url": "https://registry.npmjs.org/weak-map/-/weak-map-1.0.8.tgz",
+  "npm_integrity": "sha512-lNR9aAefbGPpHO7AEnY0hCFjz1eTkWCXYvkTRrTHs9qv8zJp+SkVYpzfLIFXQQiG3tVvbNFQgVg2bQS8YGgxyw==",
+  "tarball_sha256": "d0c8c34ff7a47e7558e17632849d444c584d347748576f9e5477835efd45822c",
+  "declared_license": "Apache-2.0",
+  "repository": {
+    "url": "git://github.com/drses/weak-map.git",
+    "type": "git"
+  },
+  "git_head": "35764aa1bbcb8ca31bb2a554ee323acaa19bca27",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/weak-map@1.0.8/SOURCE-LEGAL-HEADER.txt",
+      "source_member": "package/weak-map.js",
+      "sha256": "130020254481b86f8a95d78c96a8fbfa9bcea55c26cba78d3cd8ad92da6d2fe0",
+      "bytes": 589
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/weak-map@1.0.8/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/weak-map/1.0.8",
+      "sha256": "949c87a99cfb16c8bff591ecc8c45a69949dd03aac3ebe90becd815c015ea6a2",
+      "bytes": 663,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Mark Miller",
+    "email": "erights@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/Apache-2.0.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-2.0.txt",
+    "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff",
+    "bytes": 10280,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

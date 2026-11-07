@@ -1,0 +1,11 @@
+/*! Bundled license information:
+
+@jspm/core/nodelibs/browser/chunk-DtuTasat.js:
+  (*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> *)
+*/
+
+/*! Bundled license information:
+
+docx/build/index.js:
+  (*! For license information please see index.js.LICENSE.txt *)
+*/

@@ -1,0 +1,14 @@
+{
+  "name": "hsluv",
+  "version": "0.0.3",
+  "author_attribution": {
+    "name": "Alexei Boronine",
+    "email": "alexei@boronine.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/hsluv/0.0.3",
+  "tarball_url": "https://registry.npmjs.org/hsluv/-/hsluv-0.0.3.tgz",
+  "git_head": null,
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

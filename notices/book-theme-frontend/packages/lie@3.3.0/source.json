@@ -1,0 +1,29 @@
+{
+  "name": "lie",
+  "version": "3.3.0",
+  "lock_keys": [
+    "lie"
+  ],
+  "lock_integrities": [
+    "sha512-UaiMJzeWRlEujzAuw5LokY1L5ecNQYZKfmyZ9L7wDHb/p5etKaxXhohBcrw0EYby+G/NA52vRSN4N39dxHAIwQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/lie/3.3.0",
+  "tarball_url": "https://registry.npmjs.org/lie/-/lie-3.3.0.tgz",
+  "npm_integrity": "sha512-UaiMJzeWRlEujzAuw5LokY1L5ecNQYZKfmyZ9L7wDHb/p5etKaxXhohBcrw0EYby+G/NA52vRSN4N39dxHAIwQ==",
+  "tarball_sha256": "2db8461cd4a10e2fc3588c8c55da34d33465ff81cc19c72416bbcaec7ee6a36e",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/calvinmetcalf/lie.git",
+    "type": "git"
+  },
+  "git_head": "fa42cdf72817a963186538d8f8a32c8c1dea6e14",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/lie@3.3.0/license.md",
+      "source_member": "package/license.md",
+      "sha256": "5c81b0caa98593408b03125efa25efe622341ed87ae55561968828cd887d64a4",
+      "bytes": 1084
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

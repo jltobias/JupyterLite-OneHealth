@@ -1,0 +1,29 @@
+{
+  "name": "is-string-blank",
+  "version": "1.0.1",
+  "lock_keys": [
+    "is-string-blank"
+  ],
+  "lock_integrities": [
+    "sha512-9H+ZBCVs3L9OYqv8nuUAzpcT9OTgMD1yAWrG7ihlnibdkbtB850heAmYWxHuXc4CHy4lKeK69tN+ny1K7gBIrw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-string-blank/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/is-string-blank/-/is-string-blank-1.0.1.tgz",
+  "npm_integrity": "sha512-9H+ZBCVs3L9OYqv8nuUAzpcT9OTgMD1yAWrG7ihlnibdkbtB850heAmYWxHuXc4CHy4lKeK69tN+ny1K7gBIrw==",
+  "tarball_sha256": "4790beb2e94d5d03548fd28b4e8d8ddc504009874c2bd6519f5f3658d8e08ace",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/is-string-blank.git",
+    "type": "git"
+  },
+  "git_head": "be7703fca91bbdf966d60b42f56fde51fc7f3c41",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-string-blank@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4852317221de04bdbb8784b24498bac592fcc796dcb5f81dece1c6290d75cf52",
+      "bytes": 1102
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

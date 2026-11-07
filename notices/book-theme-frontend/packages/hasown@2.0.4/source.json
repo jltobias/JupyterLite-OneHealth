@@ -1,0 +1,29 @@
+{
+  "name": "hasown",
+  "version": "2.0.4",
+  "lock_keys": [
+    "hasown"
+  ],
+  "lock_integrities": [
+    "sha512-T2UbfbBEF32wiepXIsMlTW9+dDYC6wMh/t/vYA4tuOMKqWz/n3vr1NFSxQiyP+zk2mXsoMA/i/7qV6LKut1t1A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/hasown/2.0.4",
+  "tarball_url": "https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz",
+  "npm_integrity": "sha512-T2UbfbBEF32wiepXIsMlTW9+dDYC6wMh/t/vYA4tuOMKqWz/n3vr1NFSxQiyP+zk2mXsoMA/i/7qV6LKut1t1A==",
+  "tarball_sha256": "e9d2b03f95573600e1c13124ce618e3142ed2c538d164595bedcd4408b8a4e4c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/inspect-js/hasOwn.git",
+    "type": "git"
+  },
+  "git_head": "97f3a857d30d06e4081626ea6e5e3c00023627ff",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/hasown@2.0.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "bf9b0d665be2a689851eea667ca9f42066ea1d903b38349c51e6a44b2577680a",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

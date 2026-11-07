@@ -1,0 +1,29 @@
+{
+  "name": "typedarray",
+  "version": "0.0.6",
+  "lock_keys": [
+    "typedarray"
+  ],
+  "lock_integrities": [
+    "sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/typedarray/0.0.6",
+  "tarball_url": "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz",
+  "npm_integrity": "sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==",
+  "tarball_sha256": "3f324b75a9581c4c85cec25e8cd30831ccaa3c87770cee2ff4b9167055004108",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/substack/typedarray.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/typedarray@0.0.6/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "26181ebee1063f3dc6766a3b6d05999a0da058f172eadf2ca5d15105ffd9735a",
+      "bytes": 1565
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

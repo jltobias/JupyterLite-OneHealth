@@ -1,0 +1,29 @@
+{
+  "name": "parse-unit",
+  "version": "1.0.1",
+  "lock_keys": [
+    "parse-unit"
+  ],
+  "lock_integrities": [
+    "sha512-hrqldJHokR3Qj88EIlV/kAyAi/G5R2+R56TBANxNMy0uPlYcttx0jnMW6Yx5KsKPSbC3KddM/7qQm3+0wEXKxg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/parse-unit/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/parse-unit/-/parse-unit-1.0.1.tgz",
+  "npm_integrity": "sha512-hrqldJHokR3Qj88EIlV/kAyAi/G5R2+R56TBANxNMy0uPlYcttx0jnMW6Yx5KsKPSbC3KddM/7qQm3+0wEXKxg==",
+  "tarball_sha256": "318b95518d066c7713cda93f51d0e050536598e42b1d576fb22c8aadd2229baa",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mattdesl/parse-unit.git",
+    "type": "git"
+  },
+  "git_head": "d6e30cd1e8d6c01c6fce70a924789398aa277bfc",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/parse-unit@1.0.1/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "91515553fda3d86e82454bab0eb876a2cb9a31c0dcb8be640870fed624e53697",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

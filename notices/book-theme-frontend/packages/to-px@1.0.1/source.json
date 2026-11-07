@@ -1,0 +1,29 @@
+{
+  "name": "to-px",
+  "version": "1.0.1",
+  "lock_keys": [
+    "to-px"
+  ],
+  "lock_integrities": [
+    "sha512-2y3LjBeIZYL19e5gczp14/uRWFDtDUErJPVN3VU9a7SJO+RjGRtYR47aMN2bZgGlxvW4ZcEz2ddUPVHXcMfuXw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/to-px/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/to-px/-/to-px-1.0.1.tgz",
+  "npm_integrity": "sha512-2y3LjBeIZYL19e5gczp14/uRWFDtDUErJPVN3VU9a7SJO+RjGRtYR47aMN2bZgGlxvW4ZcEz2ddUPVHXcMfuXw==",
+  "tarball_sha256": "0b906d22906da833777d0fd2d894bbf966efd9cd33166c5b4b07351830f724cd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "https://github.com/mikolalysenko/to-px.git",
+    "type": "git"
+  },
+  "git_head": "14afb29d7020430c7721869a469946deb865145e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/to-px@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "632d884bc3370b825072b2ba58896b727fbea1f8a81c6278babbc65d7dca4954",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "d3-selection",
+  "version": "3.0.0",
+  "lock_keys": [
+    "d3-selection"
+  ],
+  "lock_integrities": [
+    "sha512-fmTRWbNMmsmWq6xJV8D19U/gw/bwrHfNXxrIN+HfZgnzqTHp9jOmKMhsTUjXOJnZOdZY9Q28y4yebKzqDKlxlQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-selection/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/d3-selection/-/d3-selection-3.0.0.tgz",
+  "npm_integrity": "sha512-fmTRWbNMmsmWq6xJV8D19U/gw/bwrHfNXxrIN+HfZgnzqTHp9jOmKMhsTUjXOJnZOdZY9Q28y4yebKzqDKlxlQ==",
+  "tarball_sha256": "a1f872f30dca23b76de89cae9e882f56c325433e7f3aee87b95fa830d12789f3",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-selection.git",
+    "type": "git"
+  },
+  "git_head": "91245ee124ec4dd491e498ecbdc9679d75332b49",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-selection@3.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

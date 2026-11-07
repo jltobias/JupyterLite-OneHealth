@@ -1,0 +1,29 @@
+{
+  "name": "d3-timer",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-timer"
+  ],
+  "lock_integrities": [
+    "sha512-ndfJ/JxxMd3nw31uyKoY2naivF+r29V+Lc0svZxe1JvvIRmi8hUsrMvdOwgS1o6uBHmiz91geQ0ylPP0aj1VUA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-timer/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-timer/-/d3-timer-3.0.1.tgz",
+  "npm_integrity": "sha512-ndfJ/JxxMd3nw31uyKoY2naivF+r29V+Lc0svZxe1JvvIRmi8hUsrMvdOwgS1o6uBHmiz91geQ0ylPP0aj1VUA==",
+  "tarball_sha256": "05cdf901e1876a7f24f4c365a879252752e22e3cc52b131ca616639f07e8ed05",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-timer.git",
+    "type": "git"
+  },
+  "git_head": "441e45b3f582762cd20035d47b40e9759ed1b235",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-timer@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

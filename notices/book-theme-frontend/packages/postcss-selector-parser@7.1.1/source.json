@@ -1,0 +1,30 @@
+{
+  "name": "postcss-selector-parser",
+  "version": "7.1.1",
+  "lock_keys": [
+    "postcss-modules-local-by-default/postcss-selector-parser",
+    "postcss-modules-scope/postcss-selector-parser"
+  ],
+  "lock_integrities": [
+    "sha512-orRsuYpJVw8LdAwqqLykBj9ecS5/cRHlI5+nvTo8LcCKmzDmqVORXtOIYEEQuL9D4BxtA1lm5isAqzQZCoQ6Eg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/postcss-selector-parser/7.1.1",
+  "tarball_url": "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-7.1.1.tgz",
+  "npm_integrity": "sha512-orRsuYpJVw8LdAwqqLykBj9ecS5/cRHlI5+nvTo8LcCKmzDmqVORXtOIYEEQuL9D4BxtA1lm5isAqzQZCoQ6Eg==",
+  "tarball_sha256": "bbb250660efcf91219dd86115665b3ae9f4775e6258536b76e224a305762caa8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/postcss/postcss-selector-parser.git",
+    "type": "git"
+  },
+  "git_head": "cf6637ed6a2dbc9d24bc3a1d04ec7ac4629dd856",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/postcss-selector-parser@7.1.1/LICENSE-MIT",
+      "source_member": "package/LICENSE-MIT",
+      "sha256": "2998094b38f7ace25f141fb36f334d8338f65a1812978d618b1161f4d77ae10e",
+      "bytes": 1092
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

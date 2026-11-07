@@ -1,0 +1,29 @@
+{
+  "name": "es5-ext",
+  "version": "0.10.64",
+  "lock_keys": [
+    "es5-ext"
+  ],
+  "lock_integrities": [
+    "sha512-p2snDhiLaXe6dahss1LddxqEm+SkuDvV8dnIQG0MWjyHpcMNfXKPE+/Cc0y+PhxJX3A4xGNeFCj5oc0BUh6deg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/es5-ext/0.10.64",
+  "tarball_url": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.64.tgz",
+  "npm_integrity": "sha512-p2snDhiLaXe6dahss1LddxqEm+SkuDvV8dnIQG0MWjyHpcMNfXKPE+/Cc0y+PhxJX3A4xGNeFCj5oc0BUh6deg==",
+  "tarball_sha256": "e8e64fee8cd0ccc432438b38dd8bfdb18b794fe811badcb045f3da633299349f",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/medikoo/es5-ext.git",
+    "type": "git"
+  },
+  "git_head": "f76b03d8c49ce4871f37f428c0e1d3ee6637fcc4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/es5-ext@0.10.64/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5dc6fe91750695c7a47f9bc200f7bd52f3e81c6854d431f43c34c7e7f8ae8b52",
+      "bytes": 773
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

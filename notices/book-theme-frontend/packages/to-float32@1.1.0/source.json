@@ -1,0 +1,29 @@
+{
+  "name": "to-float32",
+  "version": "1.1.0",
+  "lock_keys": [
+    "to-float32"
+  ],
+  "lock_integrities": [
+    "sha512-keDnAusn/vc+R3iEiSDw8TOF7gPiTLdK1ArvWtYbJQiVfmRg6i/CAvbKq3uIS0vWroAC7ZecN3DjQKw3aSklUg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/to-float32/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/to-float32/-/to-float32-1.1.0.tgz",
+  "npm_integrity": "sha512-keDnAusn/vc+R3iEiSDw8TOF7gPiTLdK1ArvWtYbJQiVfmRg6i/CAvbKq3uIS0vWroAC7ZecN3DjQKw3aSklUg==",
+  "tarball_sha256": "025eed6a357563b71f78db25df44c7e0fe12448b37c6817ef689bfc592be7dbd",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dy/to-float32.git",
+    "type": "git"
+  },
+  "git_head": "7817b079869c009342d6ad27178195c8658c33a2",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/to-float32@1.1.0/license",
+      "source_member": "package/license",
+      "sha256": "e9dd54ddece97061ebc2153110fcfeac1b0579e8556c0b07b195f004b00ff7fc",
+      "bytes": 1101
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

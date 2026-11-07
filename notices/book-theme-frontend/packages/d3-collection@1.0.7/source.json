@@ -1,0 +1,29 @@
+{
+  "name": "d3-collection",
+  "version": "1.0.7",
+  "lock_keys": [
+    "d3-collection"
+  ],
+  "lock_integrities": [
+    "sha512-ii0/r5f4sjKNTfh84Di+DpztYwqKhEyUlKoPrzUFfeSkWxjW49xU2QzO9qrPrNkpdI0XJkfzvmTu8V2Zylln6A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-collection/1.0.7",
+  "tarball_url": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.7.tgz",
+  "npm_integrity": "sha512-ii0/r5f4sjKNTfh84Di+DpztYwqKhEyUlKoPrzUFfeSkWxjW49xU2QzO9qrPrNkpdI0XJkfzvmTu8V2Zylln6A==",
+  "tarball_sha256": "ef3384e71c5f62adf256d139c28c8addbcbce6a3db9dec0e14286f70ebb7a3bf",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-collection.git",
+    "type": "git"
+  },
+  "git_head": "5aad1d67f264c0b3b6a9f3e9833021497f03beeb",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-collection@1.0.7/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c88423cbec18e11f2673dee760013af559a28c42704fb5471db146e5f954a476",
+      "bytes": 1476
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

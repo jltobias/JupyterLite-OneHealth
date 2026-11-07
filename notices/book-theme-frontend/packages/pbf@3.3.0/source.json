@@ -1,0 +1,29 @@
+{
+  "name": "pbf",
+  "version": "3.3.0",
+  "lock_keys": [
+    "pbf"
+  ],
+  "lock_integrities": [
+    "sha512-XDF38WCH3z5OV/OVa8GKUNtLAyneuzbCisx7QUCF8Q6Nutx0WnJrQe5O+kOtBlLfRNUws98Y58Lblp+NJG5T4Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/pbf/3.3.0",
+  "tarball_url": "https://registry.npmjs.org/pbf/-/pbf-3.3.0.tgz",
+  "npm_integrity": "sha512-XDF38WCH3z5OV/OVa8GKUNtLAyneuzbCisx7QUCF8Q6Nutx0WnJrQe5O+kOtBlLfRNUws98Y58Lblp+NJG5T4Q==",
+  "tarball_sha256": "d77164e7d8d3bbcf3054b0ced2dd7ae9fb808a6469c44404b83a27bf275f2c10",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/mapbox/pbf.git",
+    "type": "git"
+  },
+  "git_head": "8ce57c1d6ebba2e9fada6c3b4e4d0b9d1e95a7ed",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/pbf@3.3.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5d081d1d4848771dfef5e445660f918aedefd6ae9bb02058a1f7db9cee6c0902",
+      "bytes": 1467
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

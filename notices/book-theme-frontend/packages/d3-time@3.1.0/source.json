@@ -1,0 +1,29 @@
+{
+  "name": "d3-time",
+  "version": "3.1.0",
+  "lock_keys": [
+    "d3-time"
+  ],
+  "lock_integrities": [
+    "sha512-VqKjzBLejbSMT4IgbmVgDjpkYrNWUYJnbCGo874u7MMKIWsILRX+OpX/gTk8MqjpT1A/c6HY2dCA77ZN0lkQ2Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-time/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/d3-time/-/d3-time-3.1.0.tgz",
+  "npm_integrity": "sha512-VqKjzBLejbSMT4IgbmVgDjpkYrNWUYJnbCGo874u7MMKIWsILRX+OpX/gTk8MqjpT1A/c6HY2dCA77ZN0lkQ2Q==",
+  "tarball_sha256": "a9f2c8e177b76e7068e7c9c77722c4924c71c9e54f9b1e245d27ef11b28dbc08",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-time.git",
+    "type": "git"
+  },
+  "git_head": "d66bba6f83801b2f3a3e6440dba8df3357669c73",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-time@3.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

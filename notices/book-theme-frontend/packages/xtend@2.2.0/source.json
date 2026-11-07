@@ -1,0 +1,29 @@
+{
+  "name": "xtend",
+  "version": "2.2.0",
+  "lock_keys": [
+    "glsl-resolve/xtend"
+  ],
+  "lock_integrities": [
+    "sha512-SLt5uylT+4aoXxXuwtQp5ZnMMzhDb1Xkg4pEqc00WUJCQifPfV9Ub1VrNhp9kXkrjZD2I2Hl8WnjP37jzZLPZw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/xtend/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/xtend/-/xtend-2.2.0.tgz",
+  "npm_integrity": "sha512-SLt5uylT+4aoXxXuwtQp5ZnMMzhDb1Xkg4pEqc00WUJCQifPfV9Ub1VrNhp9kXkrjZD2I2Hl8WnjP37jzZLPZw==",
+  "tarball_sha256": "c474adf830e8315335187de17078236368bf3335e27c354e2d517149f27ead09",
+  "declared_license": null,
+  "repository": {
+    "url": "git://github.com/Raynos/xtend.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/xtend@2.2.0/LICENCE",
+      "source_member": "package/LICENCE",
+      "sha256": "19338d17a974d1c747b3f6c618f08975b8908fdebccbc047c0e72b09daf6ddd3",
+      "bytes": 1050
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

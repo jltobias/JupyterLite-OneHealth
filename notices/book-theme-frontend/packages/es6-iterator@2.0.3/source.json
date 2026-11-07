@@ -1,0 +1,29 @@
+{
+  "name": "es6-iterator",
+  "version": "2.0.3",
+  "lock_keys": [
+    "es6-iterator"
+  ],
+  "lock_integrities": [
+    "sha512-zw4SRzoUkd+cl+ZoE15A9o1oQd920Bb0iOJMQkQhl3jNc03YqVjAhG7scf9C5KWRU/R13Orf588uCC6525o02g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/es6-iterator/2.0.3",
+  "tarball_url": "https://registry.npmjs.org/es6-iterator/-/es6-iterator-2.0.3.tgz",
+  "npm_integrity": "sha512-zw4SRzoUkd+cl+ZoE15A9o1oQd920Bb0iOJMQkQhl3jNc03YqVjAhG7scf9C5KWRU/R13Orf588uCC6525o02g==",
+  "tarball_sha256": "cbd6f6ff4de66edb320b8b35c2e455e84b0c6cb12744eaf6cb32bcba5d308f43",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/medikoo/es6-iterator.git",
+    "type": "git"
+  },
+  "git_head": "ae56bb258cf47c62f9b9a1b4bec29bee0e676fb1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/es6-iterator@2.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "29c6c58225baf0c91719e5600f7e1302cad616c0fd81c45b02b5e78882b9e2a9",
+      "bytes": 1103
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

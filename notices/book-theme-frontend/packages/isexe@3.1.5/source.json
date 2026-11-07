@@ -1,0 +1,29 @@
+{
+  "name": "isexe",
+  "version": "3.1.5",
+  "lock_keys": [
+    "global-prefix/which/isexe"
+  ],
+  "lock_integrities": [
+    "sha512-6B3tLtFqtQS4ekarvLVMZ+X+VlvQekbe4taUkf/rhVO3d/h0M2rfARm/pXLcPEsjjMsFgrFgSrhQIxcSVrBz8w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/isexe/3.1.5",
+  "tarball_url": "https://registry.npmjs.org/isexe/-/isexe-3.1.5.tgz",
+  "npm_integrity": "sha512-6B3tLtFqtQS4ekarvLVMZ+X+VlvQekbe4taUkf/rhVO3d/h0M2rfARm/pXLcPEsjjMsFgrFgSrhQIxcSVrBz8w==",
+  "tarball_sha256": "ee061ea130b299fbbd08805d17cb361e88cc3ba2ffc7f412e0f4512481462811",
+  "declared_license": "BlueOak-1.0.0",
+  "repository": {
+    "url": "git+https://github.com/isaacs/isexe.git",
+    "type": "git"
+  },
+  "git_head": "9aca25f40b3c22b1a60489558f7ac0ff5bcc02e4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/isexe@3.1.5/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004",
+      "bytes": 1552
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

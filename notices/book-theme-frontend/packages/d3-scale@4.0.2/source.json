@@ -1,0 +1,29 @@
+{
+  "name": "d3-scale",
+  "version": "4.0.2",
+  "lock_keys": [
+    "d3-scale"
+  ],
+  "lock_integrities": [
+    "sha512-GZW464g1SH7ag3Y7hXjf8RoUuAFIqklOAq3MRl4OaWabTFJY9PN/E1YklhXLh+OQ3fM9yS2nOkCoS+WLZ6kvxQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-scale/4.0.2",
+  "tarball_url": "https://registry.npmjs.org/d3-scale/-/d3-scale-4.0.2.tgz",
+  "npm_integrity": "sha512-GZW464g1SH7ag3Y7hXjf8RoUuAFIqklOAq3MRl4OaWabTFJY9PN/E1YklhXLh+OQ3fM9yS2nOkCoS+WLZ6kvxQ==",
+  "tarball_sha256": "bf50a1f34ba0e6fa25cb7ae902abe0b9e2f85ced39fdca7b18fbe863fbaa39a7",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-scale.git",
+    "type": "git"
+  },
+  "git_head": "83555bd759c7314420bd4240642beda5e258db9e",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-scale@4.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

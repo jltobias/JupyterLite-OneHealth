@@ -1,0 +1,29 @@
+{
+  "name": "d3-scale-chromatic",
+  "version": "3.1.0",
+  "lock_keys": [
+    "d3-scale-chromatic"
+  ],
+  "lock_integrities": [
+    "sha512-A3s5PWiZ9YCXFye1o246KoscMWqf8BsD9eRiJ3He7C9OBaxKhAd5TFCdEx/7VbKtxxTsu//1mMJFrEt572cEyQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-scale-chromatic/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/d3-scale-chromatic/-/d3-scale-chromatic-3.1.0.tgz",
+  "npm_integrity": "sha512-A3s5PWiZ9YCXFye1o246KoscMWqf8BsD9eRiJ3He7C9OBaxKhAd5TFCdEx/7VbKtxxTsu//1mMJFrEt572cEyQ==",
+  "tarball_sha256": "2573f980e0acbbecc919f5c5fdf7cd3a8110eda2497da7b94ae303fab9c32aa4",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-scale-chromatic.git",
+    "type": "git"
+  },
+  "git_head": "2c52792197299346b7bdb94322bb4dff8f554fea",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-scale-chromatic@3.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "0986d93944902cca9af86824b6a641b4b7c2d10602fc510c433a8bcd443919fe",
+      "bytes": 1423
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

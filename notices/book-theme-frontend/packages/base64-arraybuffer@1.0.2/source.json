@@ -1,0 +1,29 @@
+{
+  "name": "base64-arraybuffer",
+  "version": "1.0.2",
+  "lock_keys": [
+    "base64-arraybuffer"
+  ],
+  "lock_integrities": [
+    "sha512-I3yl4r9QB5ZRY3XuJVEPfc2XhZO6YweFPI+UovAzn+8/hb3oJ6lnysaFcjVpkCPfVWFUDvoZ8kmVDP7WyRtYtQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/base64-arraybuffer/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/base64-arraybuffer/-/base64-arraybuffer-1.0.2.tgz",
+  "npm_integrity": "sha512-I3yl4r9QB5ZRY3XuJVEPfc2XhZO6YweFPI+UovAzn+8/hb3oJ6lnysaFcjVpkCPfVWFUDvoZ8kmVDP7WyRtYtQ==",
+  "tarball_sha256": "e1f7448bcb848e47382cafc52bee0eb83978212cecca4ce12f8a00bcd7874723",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/niklasvh/base64-arraybuffer.git",
+    "type": "git"
+  },
+  "git_head": "5339d8f0abed59c893e87116a785bf52acdc17aa",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/base64-arraybuffer@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f3eca6ff762533fa5a77caf954a143e48afa204668cf97dce758c45a9e006be3",
+      "bytes": 1062
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

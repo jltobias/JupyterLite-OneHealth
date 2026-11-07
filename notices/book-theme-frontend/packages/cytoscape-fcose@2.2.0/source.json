@@ -1,0 +1,29 @@
+{
+  "name": "cytoscape-fcose",
+  "version": "2.2.0",
+  "lock_keys": [
+    "cytoscape-fcose"
+  ],
+  "lock_integrities": [
+    "sha512-ki1/VuRIHFCzxWNrsshHYPs6L7TvLu3DL+TyIGEsRcvVERmxokbf5Gdk7mFxZnTdiGtnA4cfSmjZJMviqSuZrQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/cytoscape-fcose/2.2.0",
+  "tarball_url": "https://registry.npmjs.org/cytoscape-fcose/-/cytoscape-fcose-2.2.0.tgz",
+  "npm_integrity": "sha512-ki1/VuRIHFCzxWNrsshHYPs6L7TvLu3DL+TyIGEsRcvVERmxokbf5Gdk7mFxZnTdiGtnA4cfSmjZJMviqSuZrQ==",
+  "tarball_sha256": "4e1f30e1821fdd4b66f21043c8ea40a8e2ad0ba75e4ccdd2c24d289cf5595432",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iVis-at-Bilkent/cytoscape.js-fcose.git",
+    "type": "git"
+  },
+  "git_head": "78afcf96512a409abc903699277ad616c02dfad9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/cytoscape-fcose@2.2.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "2837634f403949215760fcdd2fa1ed0c64875d02099ecc8318c704b852f1421d",
+      "bytes": 1079
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

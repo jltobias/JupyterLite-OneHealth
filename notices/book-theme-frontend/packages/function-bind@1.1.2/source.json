@@ -1,0 +1,29 @@
+{
+  "name": "function-bind",
+  "version": "1.1.2",
+  "lock_keys": [
+    "function-bind"
+  ],
+  "lock_integrities": [
+    "sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/function-bind/1.1.2",
+  "tarball_url": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz",
+  "npm_integrity": "sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==",
+  "tarball_sha256": "704402651b02a1454f17d445fc7dd716efc282d059407126d58ef30a47e807aa",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/Raynos/function-bind.git",
+    "type": "git"
+  },
+  "git_head": "40197beb5f4cf89dd005f0b268256c1e4716ea81",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/function-bind@1.1.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "773e131a7684726005a7e4688a80b4620033bc08499bc1404dd1a1eb3bca725e",
+      "bytes": 1052
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

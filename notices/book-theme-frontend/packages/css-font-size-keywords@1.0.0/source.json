@@ -1,0 +1,29 @@
+{
+  "name": "css-font-size-keywords",
+  "version": "1.0.0",
+  "lock_keys": [
+    "css-font-size-keywords"
+  ],
+  "lock_integrities": [
+    "sha512-Q+svMDbMlelgCfH/RVDKtTDaf5021O486ZThQPIpahnIjUkMUslC+WuOQSWTgGSrNCH08Y7tYNEmmy0hkfMI8Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-font-size-keywords/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/css-font-size-keywords/-/css-font-size-keywords-1.0.0.tgz",
+  "npm_integrity": "sha512-Q+svMDbMlelgCfH/RVDKtTDaf5021O486ZThQPIpahnIjUkMUslC+WuOQSWTgGSrNCH08Y7tYNEmmy0hkfMI8Q==",
+  "tarball_sha256": "c2e8fd993040e1297d991a582f6530b0406a929febe16212ed4d774d150449d1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jedmao/css-font-size-keywords.git",
+    "type": "git"
+  },
+  "git_head": "d7853a6bcef707393c028b85f0403fa7b1a04db4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-font-size-keywords@1.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "03ac0b988d87f21fccdec911d13eaaea03c80a79ce650e2b2d1e5e9ed2238ec7",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

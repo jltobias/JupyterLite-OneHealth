@@ -1,0 +1,29 @@
+{
+  "name": "import-meta-resolve",
+  "version": "4.2.0",
+  "lock_keys": [
+    "import-meta-resolve"
+  ],
+  "lock_integrities": [
+    "sha512-Iqv2fzaTQN28s/FwZAoFq0ZSs/7hMAHJVX+w8PZl3cY19Pxk6jFFalxQoIfW2826i/fDLXv8IiEZRIT0lDuWcg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/import-meta-resolve/4.2.0",
+  "tarball_url": "https://registry.npmjs.org/import-meta-resolve/-/import-meta-resolve-4.2.0.tgz",
+  "npm_integrity": "sha512-Iqv2fzaTQN28s/FwZAoFq0ZSs/7hMAHJVX+w8PZl3cY19Pxk6jFFalxQoIfW2826i/fDLXv8IiEZRIT0lDuWcg==",
+  "tarball_sha256": "89d5895c64d5b1099df79ba1f6cf3f054fd0265cb5e17acb94de84d46bc01085",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/wooorm/import-meta-resolve.git",
+    "type": "git"
+  },
+  "git_head": "88a0e387cb4617c0f03217026adef2208018d41a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/import-meta-resolve@4.2.0/license",
+      "source_member": "package/license",
+      "sha256": "8770a1a4b69ee722636643e81340ce4a8f0b8415b1c568487edc9062338bfcc7",
+      "bytes": 3493
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

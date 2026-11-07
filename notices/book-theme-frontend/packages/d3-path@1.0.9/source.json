@@ -1,0 +1,31 @@
+{
+  "name": "d3-path",
+  "version": "1.0.9",
+  "lock_keys": [
+    "@plotly/d3-sankey-circular/d3-shape/d3-path",
+    "@plotly/d3-sankey/d3-shape/d3-path",
+    "d3-sankey/d3-shape/d3-path"
+  ],
+  "lock_integrities": [
+    "sha512-VLaYcn81dtHVTjEHd8B+pbe9yHWpXKZUC87PzoFmsFrJqgFwDe/qxfp5MlfsfM1V5E/iVt0MmEbWQ7FVIXh/bg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-path/1.0.9",
+  "tarball_url": "https://registry.npmjs.org/d3-path/-/d3-path-1.0.9.tgz",
+  "npm_integrity": "sha512-VLaYcn81dtHVTjEHd8B+pbe9yHWpXKZUC87PzoFmsFrJqgFwDe/qxfp5MlfsfM1V5E/iVt0MmEbWQ7FVIXh/bg==",
+  "tarball_sha256": "2c10702bad9be578f0827d00e45010ae59cb67165f65462e5c781913a5505db1",
+  "declared_license": "BSD-3-Clause",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-path.git",
+    "type": "git"
+  },
+  "git_head": "151f962faa58f110993c6d71faefad57c174b66c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-path@1.0.9/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "b8265327ab678f554800e71188b1cc6b1ff57522e292d2b1c0be66f27cf328b6",
+      "bytes": 1475
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

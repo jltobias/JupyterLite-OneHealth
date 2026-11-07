@@ -1,0 +1,29 @@
+{
+  "name": "escodegen",
+  "version": "2.1.0",
+  "lock_keys": [
+    "escodegen"
+  ],
+  "lock_integrities": [
+    "sha512-2NlIDTwUWJN0mRPQOdtQBzbUHvdGY2P1VXSyU83Q3xKxM7WHX2Ql8dKq782Q9TgQUNOLEzEYu9bzLNj1q88I5w=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/escodegen/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/escodegen/-/escodegen-2.1.0.tgz",
+  "npm_integrity": "sha512-2NlIDTwUWJN0mRPQOdtQBzbUHvdGY2P1VXSyU83Q3xKxM7WHX2Ql8dKq782Q9TgQUNOLEzEYu9bzLNj1q88I5w==",
+  "tarball_sha256": "06d2fd3b4881aded52725e11218feb35116e15bc836ff547bbcd82fc2bf07593",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+ssh://git@github.com/estools/escodegen.git",
+    "type": "git"
+  },
+  "git_head": "899cfdf5dc99de324fb6f1087aa9bab4d4bc2f00",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/escodegen@2.1.0/LICENSE.BSD",
+      "source_member": "package/LICENSE.BSD",
+      "sha256": "d5d62471a28a9920416c7d37d387a3bf55f32cb768590f605f84990b76aee5de",
+      "bytes": 1315
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "util-deprecate",
+  "version": "1.0.2",
+  "lock_keys": [
+    "util-deprecate"
+  ],
+  "lock_integrities": [
+    "sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/util-deprecate/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz",
+  "npm_integrity": "sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==",
+  "tarball_sha256": "79a1de983c1b393180c47456d6b73caab278a00ea6e37d5c6675f2dcdec2a3e5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/TooTallNate/util-deprecate.git",
+    "type": "git"
+  },
+  "git_head": "475fb6857cd23fafff20c1be846c1350abf8e6d4",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/util-deprecate@1.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "0154425673db15cdfa80ecba2c9b1f1a867f7197a006764712849bfc3a93cbb7",
+      "bytes": 1102
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

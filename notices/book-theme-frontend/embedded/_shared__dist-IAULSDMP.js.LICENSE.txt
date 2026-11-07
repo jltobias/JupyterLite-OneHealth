@@ -1,0 +1,13 @@
+/*! Bundled license information:
+
+he/he.js:
+  (*! https://mths.be/he v1.2.0 by @mathias | MIT license *)
+
+markdown-it-myst/dist/citations.js:
+  (**
+   * @license
+   * citations.js file is adapted from `markdown-it-citations` (Sept 2023)
+   * MIT License - Martin Ring <@martinring>
+   * https://github.com/martinring/markdown-it-citations
+   *)
+*/

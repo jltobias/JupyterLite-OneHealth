@@ -1,0 +1,29 @@
+{
+  "name": "postcss-modules-extract-imports",
+  "version": "3.1.0",
+  "lock_keys": [
+    "postcss-modules-extract-imports"
+  ],
+  "lock_integrities": [
+    "sha512-k3kNe0aNFQDAZGbin48pL2VNidTF0w4/eASDsxlyspobzU3wZQLOGj7L9gfRe0Jo9/4uud09DsjFNH7winGv8Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/postcss-modules-extract-imports/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/postcss-modules-extract-imports/-/postcss-modules-extract-imports-3.1.0.tgz",
+  "npm_integrity": "sha512-k3kNe0aNFQDAZGbin48pL2VNidTF0w4/eASDsxlyspobzU3wZQLOGj7L9gfRe0Jo9/4uud09DsjFNH7winGv8Q==",
+  "tarball_sha256": "6094da9074fbd22c51a451691dc98e78ad2095470fae739b5dcaad2149cc65a0",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/css-modules/postcss-modules-extract-imports.git",
+    "type": "git"
+  },
+  "git_head": "b558cab05a31271a555c3b1e9d7e5a767ae02b2d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/postcss-modules-extract-imports@3.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "9e534cfb7f7ae1300e16fe1ee7d203fdfe707dc932429c37246f747c3699ee14",
+      "bytes": 726
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

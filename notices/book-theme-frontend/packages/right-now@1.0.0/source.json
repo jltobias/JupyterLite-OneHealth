@@ -1,0 +1,29 @@
+{
+  "name": "right-now",
+  "version": "1.0.0",
+  "lock_keys": [
+    "right-now"
+  ],
+  "lock_integrities": [
+    "sha512-DA8+YS+sMIVpbsuKgy+Z67L9Lxb1p05mNxRpDPNksPDEFir4vmBlUtuN9jkTGn9YMMdlBuK7XQgFiz6ws+yhSg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/right-now/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/right-now/-/right-now-1.0.0.tgz",
+  "npm_integrity": "sha512-DA8+YS+sMIVpbsuKgy+Z67L9Lxb1p05mNxRpDPNksPDEFir4vmBlUtuN9jkTGn9YMMdlBuK7XQgFiz6ws+yhSg==",
+  "tarball_sha256": "ba6e99bc02af55895f8aa66b797c1bb5bff8c1c6b4bd1de999428c74258c5dfc",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/hughsk/right-now.git",
+    "type": "git"
+  },
+  "git_head": "024f98c12df7420cbd844ab77ab90fb6358e6451",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/right-now@1.0.0/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

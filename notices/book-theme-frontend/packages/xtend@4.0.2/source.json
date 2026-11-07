@@ -1,0 +1,29 @@
+{
+  "name": "xtend",
+  "version": "4.0.2",
+  "lock_keys": [
+    "xtend"
+  ],
+  "lock_integrities": [
+    "sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/xtend/4.0.2",
+  "tarball_url": "https://registry.npmjs.org/xtend/-/xtend-4.0.2.tgz",
+  "npm_integrity": "sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==",
+  "tarball_sha256": "bd22a01d43c799be7bb53dfa9e775b132045e39525e51efb977528a00041ba48",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/Raynos/xtend.git",
+    "type": "git"
+  },
+  "git_head": "37816c0e2e25da2901d584442235946d5cd8c80d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/xtend@4.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "82e67379203d5794e7c44549847d8d64ae6904591381682360470898bd306821",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

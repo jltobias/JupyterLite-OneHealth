@@ -1,0 +1,29 @@
+{
+  "name": "css-font-stretch-keywords",
+  "version": "1.0.1",
+  "lock_keys": [
+    "css-font-stretch-keywords"
+  ],
+  "lock_integrities": [
+    "sha512-KmugPO2BNqoyp9zmBIUGwt58UQSfyk1X5DbOlkb2pckDXFSAfjsD5wenb88fNrD6fvS+vu90a/tsPpb9vb0SLg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/css-font-stretch-keywords/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/css-font-stretch-keywords/-/css-font-stretch-keywords-1.0.1.tgz",
+  "npm_integrity": "sha512-KmugPO2BNqoyp9zmBIUGwt58UQSfyk1X5DbOlkb2pckDXFSAfjsD5wenb88fNrD6fvS+vu90a/tsPpb9vb0SLg==",
+  "tarball_sha256": "33755adfbbbe040aa44b14b756bd75dd1e36d996d7961834d4fdcfefdfcd773f",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jedmao/css-font-stretch-keywords.git",
+    "type": "git"
+  },
+  "git_head": "d4b1cb1d4b62f6d5b128ad38f08f009f6fe007de",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/css-font-stretch-keywords@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "03ac0b988d87f21fccdec911d13eaaea03c80a79ce650e2b2d1e5e9ed2238ec7",
+      "bytes": 1075
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

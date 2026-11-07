@@ -1,0 +1,43 @@
+{
+  "name": "hsluv",
+  "version": "0.0.3",
+  "lock_keys": [
+    "hsluv"
+  ],
+  "lock_integrities": [
+    "sha512-08iL2VyCRbkQKBySkSh6m8zMUa3sADAxGVWs3Z1aPcUkTJeK0ETG4Fc27tEmQBGUAXZjIsXOZqBvacuVNSC/fQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/hsluv/0.0.3",
+  "tarball_url": "https://registry.npmjs.org/hsluv/-/hsluv-0.0.3.tgz",
+  "npm_integrity": "sha512-08iL2VyCRbkQKBySkSh6m8zMUa3sADAxGVWs3Z1aPcUkTJeK0ETG4Fc27tEmQBGUAXZjIsXOZqBvacuVNSC/fQ==",
+  "tarball_sha256": "4842b04174a5ab7c892624fa0e900e14db23a61e022f2769612ceb8b06126953",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/hsluv/hsluv.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/hsluv@0.0.3/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/hsluv/0.0.3",
+      "sha256": "28d7b09bbb32e3ffae9b7acf0cde6a24f2d5d69e1053d122504f68816f322ab6",
+      "bytes": 605,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Alexei Boronine",
+    "email": "alexei@boronine.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

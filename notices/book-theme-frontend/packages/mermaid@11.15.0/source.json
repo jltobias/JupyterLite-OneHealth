@@ -1,0 +1,29 @@
+{
+  "name": "mermaid",
+  "version": "11.15.0",
+  "lock_keys": [
+    "mermaid"
+  ],
+  "lock_integrities": [
+    "sha512-pTMbcf3rWdtLiYGpmoTjHEpeY8seiy6sR+9nD7LOs8KfUbHE4lOUAprTRqRAcWSQ6MQpdX+YEsxShtGsINtPtw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/mermaid/11.15.0",
+  "tarball_url": "https://registry.npmjs.org/mermaid/-/mermaid-11.15.0.tgz",
+  "npm_integrity": "sha512-pTMbcf3rWdtLiYGpmoTjHEpeY8seiy6sR+9nD7LOs8KfUbHE4lOUAprTRqRAcWSQ6MQpdX+YEsxShtGsINtPtw==",
+  "tarball_sha256": "155379a1ecc10ad87c20f739d61276b32fe78e08fbd81219134276fd1fc8393c",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mermaid-js/mermaid.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mermaid@11.15.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "ec9fb67dcb25eccc416ed56e1aab819222c805a2a4bfe4cb19e7556bf2ffde80",
+      "bytes": 1089
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

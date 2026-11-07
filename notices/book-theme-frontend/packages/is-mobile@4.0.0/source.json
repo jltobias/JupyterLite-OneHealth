@@ -1,0 +1,38 @@
+{
+  "name": "is-mobile",
+  "version": "4.0.0",
+  "lock_keys": [
+    "is-mobile"
+  ],
+  "lock_integrities": [
+    "sha512-mlcHZA84t1qLSuWkt2v0I2l61PYdyQDt4aG1mLIXF5FDMm4+haBCxCPYSr/uwqQNRk1MiTizn0ypEuRAOLRAew=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-mobile/4.0.0",
+  "tarball_url": "https://registry.npmjs.org/is-mobile/-/is-mobile-4.0.0.tgz",
+  "npm_integrity": "sha512-mlcHZA84t1qLSuWkt2v0I2l61PYdyQDt4aG1mLIXF5FDMm4+haBCxCPYSr/uwqQNRk1MiTizn0ypEuRAOLRAew==",
+  "tarball_sha256": "150806a8f6fa12f67bcd73832a8c2fcf13817f2da22dd92d876ffb7e7d9d8240",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/juliangruber/is-mobile.git",
+    "type": "git"
+  },
+  "git_head": "a0707a70af0b91b05c274888f03d81ee0df50a18",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-mobile@4.0.0/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/README.md"
+      ],
+      "sha256": "e37cb9caee31f45fe8d90a6c772933176d97efe3715d8fcb2ea6a7b0d7c6ae4b",
+      "bytes": 1201
+    }
+  ],
+  "coverage": "complete legal grant extracted verbatim from source or README",
+  "npm_author_attribution": {
+    "url": "http://juliangruber.com",
+    "name": "Julian Gruber",
+    "email": "julian@juliangruber.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": true
+}

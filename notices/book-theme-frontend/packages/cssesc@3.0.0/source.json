@@ -1,0 +1,29 @@
+{
+  "name": "cssesc",
+  "version": "3.0.0",
+  "lock_keys": [
+    "cssesc"
+  ],
+  "lock_integrities": [
+    "sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/cssesc/3.0.0",
+  "tarball_url": "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz",
+  "npm_integrity": "sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==",
+  "tarball_sha256": "31a59523b764560845e79191632d9967d6f83514cc4c97394b0810287c101743",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mathiasbynens/cssesc.git",
+    "type": "git"
+  },
+  "git_head": "cb894eb42f27c8d3cd793f16afe35b3ab38000a1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/cssesc@3.0.0/LICENSE-MIT.txt",
+      "source_member": "package/LICENSE-MIT.txt",
+      "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a",
+      "bytes": 1077
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "package-manager-detector",
+  "version": "1.6.0",
+  "lock_keys": [
+    "@antfu/install-pkg/package-manager-detector"
+  ],
+  "lock_integrities": [
+    "sha512-61A5ThoTiDG/C8s8UMZwSorAGwMJ0ERVGj2OjoW5pAalsNOg15+iQiPzrLJ4jhZ1HJzmC2PIHT2oEiH3R5fzNA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/package-manager-detector/1.6.0",
+  "tarball_url": "https://registry.npmjs.org/package-manager-detector/-/package-manager-detector-1.6.0.tgz",
+  "npm_integrity": "sha512-61A5ThoTiDG/C8s8UMZwSorAGwMJ0ERVGj2OjoW5pAalsNOg15+iQiPzrLJ4jhZ1HJzmC2PIHT2oEiH3R5fzNA==",
+  "tarball_sha256": "39578d1c923c37d91c6c982177aa3b57b1aa57c5ee68d49296006d81b390aec4",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/antfu-collective/package-manager-detector.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/package-manager-detector@1.6.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "05c365176db3cc00e951c44b921c809c75b8e99d2d724f7daf00381e26fb0850",
+      "bytes": 1102
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

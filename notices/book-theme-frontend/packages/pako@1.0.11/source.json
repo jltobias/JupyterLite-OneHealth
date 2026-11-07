@@ -1,0 +1,29 @@
+{
+  "name": "pako",
+  "version": "1.0.11",
+  "lock_keys": [
+    "jszip/pako"
+  ],
+  "lock_integrities": [
+    "sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/pako/1.0.11",
+  "tarball_url": "https://registry.npmjs.org/pako/-/pako-1.0.11.tgz",
+  "npm_integrity": "sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==",
+  "tarball_sha256": "0d4028dc0352a740c30cbfd772917f2744986d42bfa0b06ec7642bffe7ad3941",
+  "declared_license": "(MIT AND Zlib)",
+  "repository": {
+    "url": "git+https://github.com/nodeca/pako.git",
+    "type": "git"
+  },
+  "git_head": "a718e4f6e5ce87b0964d8f84541d92a23263365b",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/pako@1.0.11/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "a04665b3b2de56c66730c1f720f528175739e4104f79073614aa611da1e85539",
+      "bytes": 1104
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "is-browser",
+  "version": "2.1.0",
+  "lock_keys": [
+    "is-browser"
+  ],
+  "lock_integrities": [
+    "sha512-F5rTJxDQ2sW81fcfOR1GnCXT6sVJC104fCyfj+mjpwNEwaPYSn5fte5jiHmBg3DHsIoL/l8Kvw5VN5SsTRcRFQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-browser/2.1.0",
+  "tarball_url": "https://registry.npmjs.org/is-browser/-/is-browser-2.1.0.tgz",
+  "npm_integrity": "sha512-F5rTJxDQ2sW81fcfOR1GnCXT6sVJC104fCyfj+mjpwNEwaPYSn5fte5jiHmBg3DHsIoL/l8Kvw5VN5SsTRcRFQ==",
+  "tarball_sha256": "c184e475e2ff2378cafa31501a540d20321795629c538b00bacbd29cfdda5603",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/ForbesLindesay/is-browser.git",
+    "type": "git"
+  },
+  "git_head": "ab20ae0c7f3107c285ee8d5ba89dd9e0da9d4b8c",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-browser@2.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5519d0442a0d5e5e17fd32cd8ffd6d19581964509eb94c5b6ef56c363f5fbd17",
+      "bytes": 1076
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

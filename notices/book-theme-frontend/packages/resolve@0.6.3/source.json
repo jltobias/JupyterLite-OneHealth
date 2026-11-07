@@ -1,0 +1,29 @@
+{
+  "name": "resolve",
+  "version": "0.6.3",
+  "lock_keys": [
+    "glsl-resolve/resolve"
+  ],
+  "lock_integrities": [
+    "sha512-UHBY3viPlJKf85YijDUcikKX6tmF4SokIDp518ZDVT92JNDcG5uKIthaT/owt3Sar0lwtOafsQuwrg22/v2Dwg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/resolve/0.6.3",
+  "tarball_url": "https://registry.npmjs.org/resolve/-/resolve-0.6.3.tgz",
+  "npm_integrity": "sha512-UHBY3viPlJKf85YijDUcikKX6tmF4SokIDp518ZDVT92JNDcG5uKIthaT/owt3Sar0lwtOafsQuwrg22/v2Dwg==",
+  "tarball_sha256": "d2d915812366b0b2609c5671dc9eeda8fef6aa08021ba5e68c0d3dc27a13fd21",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/substack/node-resolve.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/resolve@0.6.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

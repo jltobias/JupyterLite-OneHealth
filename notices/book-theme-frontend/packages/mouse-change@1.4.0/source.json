@@ -1,0 +1,29 @@
+{
+  "name": "mouse-change",
+  "version": "1.4.0",
+  "lock_keys": [
+    "mouse-change"
+  ],
+  "lock_integrities": [
+    "sha512-vpN0s+zLL2ykyyUDh+fayu9Xkor5v/zRD9jhSqjRS1cJTGS0+oakVZzNm5n19JvvEj0you+MXlYTpNxUDQUjkQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/mouse-change/1.4.0",
+  "tarball_url": "https://registry.npmjs.org/mouse-change/-/mouse-change-1.4.0.tgz",
+  "npm_integrity": "sha512-vpN0s+zLL2ykyyUDh+fayu9Xkor5v/zRD9jhSqjRS1cJTGS0+oakVZzNm5n19JvvEj0you+MXlYTpNxUDQUjkQ==",
+  "tarball_sha256": "2940c6cb67047ac044a401da229bed5e6ad877846fbb0c3be9add096079dde38",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/mikolalysenko/mouse-change.git",
+    "type": "git"
+  },
+  "git_head": "78fed9cabb647ba76247c3bf2295abac72c8a978",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/mouse-change@1.4.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "632d884bc3370b825072b2ba58896b727fbea1f8a81c6278babbc65d7dca4954",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "iconv-lite",
+  "version": "0.4.24",
+  "lock_keys": [
+    "needle/iconv-lite"
+  ],
+  "lock_integrities": [
+    "sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/iconv-lite/0.4.24",
+  "tarball_url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.24.tgz",
+  "npm_integrity": "sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==",
+  "tarball_sha256": "576c64f2098ed44c3d5e48d7a9dc65512700c1d6a969a71a74d474da8e734635",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/ashtuchkin/iconv-lite.git",
+    "type": "git"
+  },
+  "git_head": "efbbb0937ca8dda1c14e0b69958b9d6f20771f7a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/iconv-lite@0.4.24/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d",
+      "bytes": 1064
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

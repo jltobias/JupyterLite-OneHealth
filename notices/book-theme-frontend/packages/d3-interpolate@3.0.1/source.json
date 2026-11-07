@@ -1,0 +1,29 @@
+{
+  "name": "d3-interpolate",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-interpolate"
+  ],
+  "lock_integrities": [
+    "sha512-3bYs1rOD33uo8aqJfKP3JWPAibgw8Zm2+L9vBKEHJ2Rg+viTR7o5Mmv5mZcieN+FRYaAOWX5SJATX6k1PWz72g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-interpolate/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-3.0.1.tgz",
+  "npm_integrity": "sha512-3bYs1rOD33uo8aqJfKP3JWPAibgw8Zm2+L9vBKEHJ2Rg+viTR7o5Mmv5mZcieN+FRYaAOWX5SJATX6k1PWz72g==",
+  "tarball_sha256": "7e8df78d233cd102a0bb518658dc0b7d5c38442b6f2dbc8b95ffc14ba87c7c33",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-interpolate.git",
+    "type": "git"
+  },
+  "git_head": "6562b85040f7a9b96efe49b54a77eb6fceafa1c1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-interpolate@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

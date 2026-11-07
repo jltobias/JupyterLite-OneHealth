@@ -1,0 +1,30 @@
+{
+  "name": "color-name",
+  "version": "1.1.4",
+  "lock_keys": [
+    "color-alpha/color-parse/color-name",
+    "color-rgba/color-parse/color-name"
+  ],
+  "lock_integrities": [
+    "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/color-name/1.1.4",
+  "tarball_url": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz",
+  "npm_integrity": "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==",
+  "tarball_sha256": "507b7c4461e8eb941355af9a59e9a7e02cd0e7c6176b48d1809766344f3f1708",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/colorjs/color-name.git",
+    "type": "git"
+  },
+  "git_head": "4536ce5944f56659a2dfb2198eaf81b5ad5f2ad9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/color-name@1.1.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "c064f7a3e353bc1bc977f3c897941c75ef763f44f41677e0a15370ca0853d6e2",
+      "bytes": 1085
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

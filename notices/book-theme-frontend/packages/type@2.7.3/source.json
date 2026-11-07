@@ -1,0 +1,29 @@
+{
+  "name": "type",
+  "version": "2.7.3",
+  "lock_keys": [
+    "type"
+  ],
+  "lock_integrities": [
+    "sha512-8j+1QmAbPvLZow5Qpi6NCaN8FB60p/6x8/vfNqOk/hC+HuvFZhL4+WfekuhQLiqFZXOgQdrs3B+XxEmCc6b3FQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/type/2.7.3",
+  "tarball_url": "https://registry.npmjs.org/type/-/type-2.7.3.tgz",
+  "npm_integrity": "sha512-8j+1QmAbPvLZow5Qpi6NCaN8FB60p/6x8/vfNqOk/hC+HuvFZhL4+WfekuhQLiqFZXOgQdrs3B+XxEmCc6b3FQ==",
+  "tarball_sha256": "9e51c7845851dcc9bcb6588aeab2393664002e323220417e9565d709f68ef284",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/medikoo/type.git",
+    "type": "git"
+  },
+  "git_head": "253bf69b979e0f9bfcb2632db61ce7caa853da5f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/type@2.7.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "010cd06695b486890aa0e080f938ef52b393207b7352baf7f13513b7c272d256",
+      "bytes": 773
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

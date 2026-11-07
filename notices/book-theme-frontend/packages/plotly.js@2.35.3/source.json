@@ -1,0 +1,83 @@
+{
+  "name": "plotly.js",
+  "version": "2.35.3",
+  "lock_keys": [
+    "plotly.js"
+  ],
+  "lock_integrities": [
+    "sha512-7RaC6FxmCUhpD6H4MpD+QLUu3hCn76I11rotRefrh3m1iDvWqGnVqVk9dSaKmRAhFD3vsNsYea0OxnR1rc2IzQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/plotly.js/2.35.3",
+  "tarball_url": "https://registry.npmjs.org/plotly.js/-/plotly.js-2.35.3.tgz",
+  "npm_integrity": "sha512-7RaC6FxmCUhpD6H4MpD+QLUu3hCn76I11rotRefrh3m1iDvWqGnVqVk9dSaKmRAhFD3vsNsYea0OxnR1rc2IzQ==",
+  "tarball_sha256": "b92fbfc8d558ff29d2e41b8ad30aed07734807ecdbc4f24b6195d99888e36a7d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/plotly.js.git",
+    "type": "git"
+  },
+  "git_head": "0c13c691e257045d7903c62d9c234a6cdbc0be53",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "67a26cf80f03ff388f26945dfc1f6caed1a0746ff43871190339b3aee49b94bb",
+      "bytes": 1078
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-basic.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-basic.min.js.LICENSE.txt",
+      "sha256": "11adbe52e395f779a3bb359b3c33a1095161a9ca9fe0d811e27cbac412c7f0e5",
+      "bytes": 305
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-cartesian.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-cartesian.min.js.LICENSE.txt",
+      "sha256": "c6b09946fc296c438d15a57b6afb828ce3f73288ae750c3ee1fd8258db1257fc",
+      "bytes": 771
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-finance.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-finance.min.js.LICENSE.txt",
+      "sha256": "11adbe52e395f779a3bb359b3c33a1095161a9ca9fe0d811e27cbac412c7f0e5",
+      "bytes": 305
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-geo.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-geo.min.js.LICENSE.txt",
+      "sha256": "11adbe52e395f779a3bb359b3c33a1095161a9ca9fe0d811e27cbac412c7f0e5",
+      "bytes": 305
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-gl2d.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-gl2d.min.js.LICENSE.txt",
+      "sha256": "49349c63dd1280d54b6c55d4573c672374bacc380ec192b4904852df083ace34",
+      "bytes": 1110
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-gl3d.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-gl3d.min.js.LICENSE.txt",
+      "sha256": "1bec2239d783aa20e91a8b99678451e937dbc1d5f47139683ce66ffcf5afea24",
+      "bytes": 956
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-mapbox.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-mapbox.min.js.LICENSE.txt",
+      "sha256": "11adbe52e395f779a3bb359b3c33a1095161a9ca9fe0d811e27cbac412c7f0e5",
+      "bytes": 305
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly-strict.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly-strict.min.js.LICENSE.txt",
+      "sha256": "9144a55454d7944bd0695179ec85956de3d08a64c5227ffa2d45da186ec8445a",
+      "bytes": 1338
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/plotly.js@2.35.3/dist/plotly.min.js.LICENSE.txt",
+      "source_member": "package/dist/plotly.min.js.LICENSE.txt",
+      "sha256": "9144a55454d7944bd0695179ec85956de3d08a64c5227ffa2d45da186ec8445a",
+      "bytes": 1338
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

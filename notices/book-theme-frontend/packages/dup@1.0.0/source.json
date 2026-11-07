@@ -1,0 +1,29 @@
+{
+  "name": "dup",
+  "version": "1.0.0",
+  "lock_keys": [
+    "dup"
+  ],
+  "lock_integrities": [
+    "sha512-Bz5jxMMC0wgp23Zm15ip1x8IhYRqJvF3nFC0UInJUDkN1z4uNPk9jTnfCUJXbOGiQ1JbXLQsiV41Fb+HXcj5BA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/dup/1.0.0",
+  "tarball_url": "https://registry.npmjs.org/dup/-/dup-1.0.0.tgz",
+  "npm_integrity": "sha512-Bz5jxMMC0wgp23Zm15ip1x8IhYRqJvF3nFC0UInJUDkN1z4uNPk9jTnfCUJXbOGiQ1JbXLQsiV41Fb+HXcj5BA==",
+  "tarball_sha256": "8edfbf97bbf6ddb266862cfbdee3d25c2015d815b78b7165dee3b2a1c083a6a6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/dup.git",
+    "type": "git"
+  },
+  "git_head": "66f747c219c492e9450d2d5b7bf8fb5c74d57dc2",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/dup@1.0.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

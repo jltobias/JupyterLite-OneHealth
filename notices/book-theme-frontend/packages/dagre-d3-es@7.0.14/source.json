@@ -1,0 +1,29 @@
+{
+  "name": "dagre-d3-es",
+  "version": "7.0.14",
+  "lock_keys": [
+    "dagre-d3-es"
+  ],
+  "lock_integrities": [
+    "sha512-P4rFMVq9ESWqmOgK+dlXvOtLwYg0i7u0HBGJER0LZDJT2VHIPAMZ/riPxqJceWMStH5+E61QxFra9kIS3AqdMg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/dagre-d3-es/7.0.14",
+  "tarball_url": "https://registry.npmjs.org/dagre-d3-es/-/dagre-d3-es-7.0.14.tgz",
+  "npm_integrity": "sha512-P4rFMVq9ESWqmOgK+dlXvOtLwYg0i7u0HBGJER0LZDJT2VHIPAMZ/riPxqJceWMStH5+E61QxFra9kIS3AqdMg==",
+  "tarball_sha256": "488d146fc076978029da937a54628f840dbbcb48e6f95ea79e6c58cc384fe157",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tbo47/dagre-es.git",
+    "type": "git"
+  },
+  "git_head": "4b95ad0a0bca6ce4cfa4cb83dfa9be19ca740e8f",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/dagre-d3-es@7.0.14/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "d01eb84ccce437dbf5fd40853bceea0f287930920acea066597a4a25ead63858",
+      "bytes": 1328
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

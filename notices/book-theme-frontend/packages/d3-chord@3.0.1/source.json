@@ -1,0 +1,29 @@
+{
+  "name": "d3-chord",
+  "version": "3.0.1",
+  "lock_keys": [
+    "d3-chord"
+  ],
+  "lock_integrities": [
+    "sha512-VE5S6TNa+j8msksl7HwjxMHDM2yNK3XCkusIlpX5kwauBfXuyLAtNg9jCp/iHH61tgI4sb6R/EIMWCqEIdjT/g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-chord/3.0.1",
+  "tarball_url": "https://registry.npmjs.org/d3-chord/-/d3-chord-3.0.1.tgz",
+  "npm_integrity": "sha512-VE5S6TNa+j8msksl7HwjxMHDM2yNK3XCkusIlpX5kwauBfXuyLAtNg9jCp/iHH61tgI4sb6R/EIMWCqEIdjT/g==",
+  "tarball_sha256": "84c47d193e5e8c5fd3a28783a55b34f08dfaa1c8d764e96d9b49c78a3b6b40b5",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-chord.git",
+    "type": "git"
+  },
+  "git_head": "57ac4d9029e66c025117356ae58ab36c7457a2d1",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-chord@3.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

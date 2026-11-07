@@ -1,0 +1,29 @@
+{
+  "name": "loose-envify",
+  "version": "1.4.0",
+  "lock_keys": [
+    "loose-envify"
+  ],
+  "lock_integrities": [
+    "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/loose-envify/1.4.0",
+  "tarball_url": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+  "npm_integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+  "tarball_sha256": "1218830a93538a4f730d530138e945ea6a65b45e099ee7a9ea538a05141babdc",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/zertosh/loose-envify.git",
+    "type": "git"
+  },
+  "git_head": "a8fdd02e3a435195f526053882d64537d627b3e6",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/loose-envify@1.4.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4eb7543b08d955a6d23fcc224601d43ff566e775be918805e26210d7f6eb4893",
+      "bytes": 1100
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

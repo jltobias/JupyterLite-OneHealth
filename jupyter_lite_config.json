@@ -1,0 +1,7 @@
+{
+  "LiteBuildConfig": {
+    "contents": ["content"],
+    "ignore_contents": ["data/native/.*", ".*my-evidence-brief.json"],
+    "no_sourcemaps": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@antfu/install-pkg",
+  "version": "1.1.0",
+  "lock_keys": [
+    "@antfu/install-pkg"
+  ],
+  "lock_integrities": [
+    "sha512-MGQsmw10ZyI+EJo45CdSER4zEb+p31LpDAFp2Z3gkSd1yqVZGi0Ebx++YTEMonJy4oChEMLsxZ64j8FH6sSqtQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@antfu/install-pkg/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/@antfu/install-pkg/-/install-pkg-1.1.0.tgz",
+  "npm_integrity": "sha512-MGQsmw10ZyI+EJo45CdSER4zEb+p31LpDAFp2Z3gkSd1yqVZGi0Ebx++YTEMonJy4oChEMLsxZ64j8FH6sSqtQ==",
+  "tarball_sha256": "2e64d0d2fba6d4307cbe8f886fc24683862819302689a33d4d93e532d3d473b5",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/antfu/install-pkg.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/antfu__install-pkg@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "67cd5e903c1f908edfa27c25606fa806ce629d9a8ddb7d83019d9fd1f83f7fde",
+      "bytes": 1094
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

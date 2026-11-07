@@ -1,0 +1,29 @@
+{
+  "name": "strongly-connected-components",
+  "version": "1.0.1",
+  "lock_keys": [
+    "strongly-connected-components"
+  ],
+  "lock_integrities": [
+    "sha512-i0TFx4wPcO0FwX+4RkLJi1MxmcTv90jNZgxMu9XRnMXMeFUY1VJlIoXpZunPUvUUqbCT1pg5PEkFqqpcaElNaA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/strongly-connected-components/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/strongly-connected-components/-/strongly-connected-components-1.0.1.tgz",
+  "npm_integrity": "sha512-i0TFx4wPcO0FwX+4RkLJi1MxmcTv90jNZgxMu9XRnMXMeFUY1VJlIoXpZunPUvUUqbCT1pg5PEkFqqpcaElNaA==",
+  "tarball_sha256": "d3fcee6a1e52d31c4123ca0746c9586508ed47b2ce153f307da26e650cb4176b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/strongly-connected-components.git",
+    "type": "git"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/strongly-connected-components@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791",
+      "bytes": 1082
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

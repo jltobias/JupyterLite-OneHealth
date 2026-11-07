@@ -1,0 +1,29 @@
+{
+  "name": "xml",
+  "version": "1.0.1",
+  "lock_keys": [
+    "xml"
+  ],
+  "lock_integrities": [
+    "sha512-huCv9IH9Tcf95zuYCsQraZtWnJvBtLVE0QHMOs8bWyZAFZNDcYjsPq1nEx8jKA9y+Beo9v+7OBPRisQTjinQMw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/xml/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/xml/-/xml-1.0.1.tgz",
+  "npm_integrity": "sha512-huCv9IH9Tcf95zuYCsQraZtWnJvBtLVE0QHMOs8bWyZAFZNDcYjsPq1nEx8jKA9y+Beo9v+7OBPRisQTjinQMw==",
+  "tarball_sha256": "38032bd701fa20427b2ee31ed55e6761ce1a881a6eabcd90005ebe74ab04a623",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/dylang/node-xml.git",
+    "type": "git"
+  },
+  "git_head": "c03b84bc1da9251f04db65428c8c341e51d0ff72",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/xml@1.0.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "d2b3e2f62078f282f21a8c5119a44cc7313fe6aa4a22094c8ad93f4b577b7901",
+      "bytes": 1099
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

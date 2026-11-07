@@ -1,0 +1,29 @@
+{
+  "name": "binary-search-bounds",
+  "version": "2.0.5",
+  "lock_keys": [
+    "binary-search-bounds"
+  ],
+  "lock_integrities": [
+    "sha512-H0ea4Fd3lS1+sTEB2TgcLoK21lLhwEJzlQv3IN47pJS976Gx4zoWe0ak3q+uYh60ppQxg9F16Ri4tS1sfD4+jA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/binary-search-bounds/2.0.5",
+  "tarball_url": "https://registry.npmjs.org/binary-search-bounds/-/binary-search-bounds-2.0.5.tgz",
+  "npm_integrity": "sha512-H0ea4Fd3lS1+sTEB2TgcLoK21lLhwEJzlQv3IN47pJS976Gx4zoWe0ak3q+uYh60ppQxg9F16Ri4tS1sfD4+jA==",
+  "tarball_sha256": "39e279fd32dc8dcabcfc53a347bc1243ebabe11f83df156eaf6a73edadec16c3",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mikolalysenko/binary-search-bounds.git",
+    "type": "git"
+  },
+  "git_head": "5ab3ff75a310ad33debe82a027ac302a49864c82",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/binary-search-bounds@2.0.5/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f2b10f2958d2724d6df0f16b1ea25d32cd7e6333ce88ac3c5cdff37c2c4222b8",
+      "bytes": 1087
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

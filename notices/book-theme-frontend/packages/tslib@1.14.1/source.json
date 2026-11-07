@@ -1,0 +1,30 @@
+{
+  "name": "tslib",
+  "version": "1.14.1",
+  "lock_keys": [
+    "@microsoft/fast-foundation/tslib",
+    "tsutils/tslib"
+  ],
+  "lock_integrities": [
+    "sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/tslib/1.14.1",
+  "tarball_url": "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz",
+  "npm_integrity": "sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==",
+  "tarball_sha256": "733b312e29ef6488eb668db728bcd0dee92f087872001a06c8594999c06d91fb",
+  "declared_license": "0BSD",
+  "repository": {
+    "url": "git+https://github.com/Microsoft/tslib.git",
+    "type": "git"
+  },
+  "git_head": "7d33f3607d635dbaaaba006a4648346a81422f3a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/tslib@1.14.1/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751",
+      "bytes": 655
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

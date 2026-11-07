@@ -1,0 +1,29 @@
+{
+  "name": "@maplibre/maplibre-gl-style-spec",
+  "version": "20.4.0",
+  "lock_keys": [
+    "@maplibre/maplibre-gl-style-spec"
+  ],
+  "lock_integrities": [
+    "sha512-AzBy3095fTFPjDjmWpR2w6HVRAZJ6hQZUCwk5Plz6EyfnfuQW1odeW5i2Ai47Y6TBA2hQnC+azscjBSALpaWgw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@maplibre/maplibre-gl-style-spec/20.4.0",
+  "tarball_url": "https://registry.npmjs.org/@maplibre/maplibre-gl-style-spec/-/maplibre-gl-style-spec-20.4.0.tgz",
+  "npm_integrity": "sha512-AzBy3095fTFPjDjmWpR2w6HVRAZJ6hQZUCwk5Plz6EyfnfuQW1odeW5i2Ai47Y6TBA2hQnC+azscjBSALpaWgw==",
+  "tarball_sha256": "d405e4635d7333e67fd027c93f2c85e8b52d8fcef1aa1f855e6c9dc01be2eda3",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+ssh://git@github.com/maplibre/maplibre-gl-style-spec.git",
+    "type": "git"
+  },
+  "git_head": "4e5589a80717ff46d74166b3be5b2798dd4333e9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/maplibre__maplibre-gl-style-spec@20.4.0/LICENSE.txt",
+      "source_member": "package/LICENSE.txt",
+      "sha256": "bfd4cb919eec574e9213e1e61f880831eb5fc372d467be429fd0a8d51d1df890",
+      "bytes": 5984
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

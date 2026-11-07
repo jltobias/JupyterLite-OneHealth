@@ -1,0 +1,29 @@
+{
+  "name": "prop-types",
+  "version": "15.8.1",
+  "lock_keys": [
+    "prop-types"
+  ],
+  "lock_integrities": [
+    "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/prop-types/15.8.1",
+  "tarball_url": "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz",
+  "npm_integrity": "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==",
+  "tarball_sha256": "1c739eb05d8a462c286a4e9dd02f2ce5485c6fa3529244e9ff9b13a3671aa557",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/facebook/prop-types.git",
+    "type": "git"
+  },
+  "git_head": "70330a4430ba74467b41b8b4aa8c97a4814327a9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/prop-types@15.8.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f657f99d3fb9647db92628e96007aabb46e5f04f33e49999075aab8e250ca7ce",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

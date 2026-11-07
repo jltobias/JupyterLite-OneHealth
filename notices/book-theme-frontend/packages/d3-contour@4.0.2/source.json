@@ -1,0 +1,29 @@
+{
+  "name": "d3-contour",
+  "version": "4.0.2",
+  "lock_keys": [
+    "d3-contour"
+  ],
+  "lock_integrities": [
+    "sha512-4EzFTRIikzs47RGmdxbeUvLWtGedDUNkTcmzoeyg4sP/dvCexO47AaQL7VKy/gul85TOxw+IBgA8US2xwbToNA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-contour/4.0.2",
+  "tarball_url": "https://registry.npmjs.org/d3-contour/-/d3-contour-4.0.2.tgz",
+  "npm_integrity": "sha512-4EzFTRIikzs47RGmdxbeUvLWtGedDUNkTcmzoeyg4sP/dvCexO47AaQL7VKy/gul85TOxw+IBgA8US2xwbToNA==",
+  "tarball_sha256": "fa347e237c259a987fc3cfd890e2fcb0f2ec42ed125a2c9363854509e86db8f4",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-contour.git",
+    "type": "git"
+  },
+  "git_head": "0ba2dd047ce4cc2980025eff5c4fea989bf2da85",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-contour@4.0.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "e51cba0e4fa1d8c078e15319868f2b90188f413f9ce9dac1043b62db32901e93",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

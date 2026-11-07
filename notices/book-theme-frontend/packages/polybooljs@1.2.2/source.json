@@ -1,0 +1,29 @@
+{
+  "name": "polybooljs",
+  "version": "1.2.2",
+  "lock_keys": [
+    "polybooljs"
+  ],
+  "lock_integrities": [
+    "sha512-ziHW/02J0XuNuUtmidBc6GXE8YohYydp3DWPWXYsd7O721TjcmN+k6ezjdwkDqep+gnWnFY+yqZHvzElra2oCg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/polybooljs/1.2.2",
+  "tarball_url": "https://registry.npmjs.org/polybooljs/-/polybooljs-1.2.2.tgz",
+  "npm_integrity": "sha512-ziHW/02J0XuNuUtmidBc6GXE8YohYydp3DWPWXYsd7O721TjcmN+k6ezjdwkDqep+gnWnFY+yqZHvzElra2oCg==",
+  "tarball_sha256": "6fcb3b43ddf2f4bbd53843afdb964055fb248e813bb27ea0807e01220849507d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/velipso/polybooljs.git",
+    "type": "git"
+  },
+  "git_head": "4b9d9ee1e6eaf2faee1a405fc687ba5926502ef2",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/polybooljs@1.2.2/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "6a3969e97bc3b992c17bfdcd6fcabd9b5688650cc0078235d512c014e86b716e",
+      "bytes": 1108
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

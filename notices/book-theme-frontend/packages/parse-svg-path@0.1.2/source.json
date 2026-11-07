@@ -1,0 +1,29 @@
+{
+  "name": "parse-svg-path",
+  "version": "0.1.2",
+  "lock_keys": [
+    "parse-svg-path"
+  ],
+  "lock_integrities": [
+    "sha512-JyPSBnkTJ0AI8GGJLfMXvKq42cj5c006fnLz6fXy6zfoVjJizi8BNTpu8on8ziI1cKy9d9DGNuY17Ce7wuejpQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/parse-svg-path/0.1.2",
+  "tarball_url": "https://registry.npmjs.org/parse-svg-path/-/parse-svg-path-0.1.2.tgz",
+  "npm_integrity": "sha512-JyPSBnkTJ0AI8GGJLfMXvKq42cj5c006fnLz6fXy6zfoVjJizi8BNTpu8on8ziI1cKy9d9DGNuY17Ce7wuejpQ==",
+  "tarball_sha256": "b553ffbc960891b8cc9444cd669802e98d6704193eb3dc08b446b2c9b0b9b824",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/jkroso/parse-svg-path.git",
+    "type": "git"
+  },
+  "git_head": "53d68840a2d126b1940a58d7314606f5b79dbaa9",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/parse-svg-path@0.1.2/License",
+      "source_member": "package/License",
+      "sha256": "2d5ffdfe09268750ba687a149db8392038772e7f156db3a98b615a7de0cab76e",
+      "bytes": 1093
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

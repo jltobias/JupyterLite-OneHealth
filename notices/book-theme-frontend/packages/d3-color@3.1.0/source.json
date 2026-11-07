@@ -1,0 +1,29 @@
+{
+  "name": "d3-color",
+  "version": "3.1.0",
+  "lock_keys": [
+    "d3-color"
+  ],
+  "lock_integrities": [
+    "sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/d3-color/3.1.0",
+  "tarball_url": "https://registry.npmjs.org/d3-color/-/d3-color-3.1.0.tgz",
+  "npm_integrity": "sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA==",
+  "tarball_sha256": "d41bbcd99dd4f00e696546bffc73fed9b8fb6c3354905b6ea1721bff25f33b42",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/d3/d3-color.git",
+    "type": "git"
+  },
+  "git_head": "7a1573ed260de4fd97d061975244841132adde92",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/d3-color@3.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884",
+      "bytes": 731
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

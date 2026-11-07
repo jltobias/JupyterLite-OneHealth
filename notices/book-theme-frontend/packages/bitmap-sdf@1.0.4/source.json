@@ -1,0 +1,51 @@
+{
+  "name": "bitmap-sdf",
+  "version": "1.0.4",
+  "lock_keys": [
+    "bitmap-sdf"
+  ],
+  "lock_integrities": [
+    "sha512-1G3U4n5JE6RAiALMxu0p1XmeZkTeCwGKykzsLTCqVzfSDaN6S7fKnkIkfejogz+iwqBWc0UYAIKnKHNN7pSfDg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/bitmap-sdf/1.0.4",
+  "tarball_url": "https://registry.npmjs.org/bitmap-sdf/-/bitmap-sdf-1.0.4.tgz",
+  "npm_integrity": "sha512-1G3U4n5JE6RAiALMxu0p1XmeZkTeCwGKykzsLTCqVzfSDaN6S7fKnkIkfejogz+iwqBWc0UYAIKnKHNN7pSfDg==",
+  "tarball_sha256": "2f27e16f9402592d596a5cc191c858aa48e87f285630a4c842494dadefc5be82",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/bitmap-sdf.git",
+    "type": "git"
+  },
+  "git_head": "78de3569d32404a7009f62bea3befca55838118a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/bitmap-sdf@1.0.4/EXTRACTED-LEGAL-NOTICES.txt",
+      "source_members": [
+        "package/readme.md"
+      ],
+      "sha256": "c363dedc77c1e3717482b36b08a306dd34e52d1769bc8913f745107646c12d05",
+      "bytes": 175
+    },
+    {
+      "path": "notices/book-theme-frontend/packages/bitmap-sdf@1.0.4/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/bitmap-sdf/1.0.4",
+      "sha256": "4c41efaf46ba61458b89ed9ec2ebed93fa262987a2d132d827dc453757941406",
+      "bytes": 656,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

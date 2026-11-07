@@ -1,0 +1,29 @@
+{
+  "name": "kind-of",
+  "version": "6.0.3",
+  "lock_keys": [
+    "kind-of"
+  ],
+  "lock_integrities": [
+    "sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/kind-of/6.0.3",
+  "tarball_url": "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz",
+  "npm_integrity": "sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==",
+  "tarball_sha256": "6c24443b5b6ca52d3dce399c1e2c27c4591c7529765513eeaa0c265b0c0e63da",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jonschlinkert/kind-of.git",
+    "type": "git"
+  },
+  "git_head": "abab085d65f7ee978011da8f135291892fcd97db",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/kind-of@6.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "4cd903859549d4b20b571041f96dfae1136ed079c476126268f9d7cc1b611150",
+      "bytes": 1088
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

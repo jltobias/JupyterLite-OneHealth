@@ -1,0 +1,29 @@
+{
+  "name": "vfile-message",
+  "version": "3.1.4",
+  "lock_keys": [
+    "vfile-message"
+  ],
+  "lock_integrities": [
+    "sha512-fa0Z6P8HUrQN4BZaX05SIVXic+7kE3b05PWAtPuYP9QLHsLKYR7/AlLW3NtOrpXRLeawpDLMsVkmk5DG0NXgWw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/vfile-message/3.1.4",
+  "tarball_url": "https://registry.npmjs.org/vfile-message/-/vfile-message-3.1.4.tgz",
+  "npm_integrity": "sha512-fa0Z6P8HUrQN4BZaX05SIVXic+7kE3b05PWAtPuYP9QLHsLKYR7/AlLW3NtOrpXRLeawpDLMsVkmk5DG0NXgWw==",
+  "tarball_sha256": "a665cd97772300ec291c2a31ce78605f105fb9446c72e6e33635b4f2a72ecda6",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vfile/vfile-message.git",
+    "type": "git"
+  },
+  "git_head": "a174d9fc7cdd7f4ce3d48ceeecb01a02e18ef691",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/vfile-message@3.1.4/license",
+      "source_member": "package/license",
+      "sha256": "d8fc337aaf98fc7a0f5498edc18b47a9df8cdfcc1a0f013519105905722c7a4c",
+      "bytes": 1099
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

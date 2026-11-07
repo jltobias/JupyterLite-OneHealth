@@ -1,0 +1,29 @@
+{
+  "name": "string_decoder",
+  "version": "0.10.31",
+  "lock_keys": [
+    "glsl-tokenizer/through2/readable-stream/string_decoder"
+  ],
+  "lock_integrities": [
+    "sha512-ev2QzSzWPYmy9GuqfIVildA4OdcGLeFZQrq5ys6RtiuF+RQQiZWr8TZNyAcuVXyQRYfEO+MsoB/1BuQVhOJuoQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/string_decoder/0.10.31",
+  "tarball_url": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz",
+  "npm_integrity": "sha512-ev2QzSzWPYmy9GuqfIVildA4OdcGLeFZQrq5ys6RtiuF+RQQiZWr8TZNyAcuVXyQRYfEO+MsoB/1BuQVhOJuoQ==",
+  "tarball_sha256": "3e6e6ffeafe6157eb2278a909afc0b845234b13446dca8a9518c2b79b9c22086",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/rvagg/string_decoder.git",
+    "type": "git"
+  },
+  "git_head": "d46d4fd87cf1d06e031c23f1ba170ca7d4ade9a0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/string_decoder@0.10.31/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "21a82bbee91262a076c2e34533d51d73475d55e889f1c42cf884c86b2a0d5773",
+      "bytes": 1076
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

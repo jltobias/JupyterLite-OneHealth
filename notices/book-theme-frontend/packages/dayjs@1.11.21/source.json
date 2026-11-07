@@ -1,0 +1,29 @@
+{
+  "name": "dayjs",
+  "version": "1.11.21",
+  "lock_keys": [
+    "dayjs"
+  ],
+  "lock_integrities": [
+    "sha512-98IT+HOahAisibz/yjKbzuOBwYcjJ7BCLPzARyHiyEBmRz4fatF+KPJszEHXsGYjUG234aH/cOjW1wwTbKUZlA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/dayjs/1.11.21",
+  "tarball_url": "https://registry.npmjs.org/dayjs/-/dayjs-1.11.21.tgz",
+  "npm_integrity": "sha512-98IT+HOahAisibz/yjKbzuOBwYcjJ7BCLPzARyHiyEBmRz4fatF+KPJszEHXsGYjUG234aH/cOjW1wwTbKUZlA==",
+  "tarball_sha256": "290ec8bf81878ae4927581d9be74125f07722ea8bbea2ff77a2226dce12df876",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iamkun/dayjs.git",
+    "type": "git"
+  },
+  "git_head": "a25f01e8154290b203ab480ffeedc60c80bd0710",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/dayjs@1.11.21/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "5faab7526d055651be3aab769d58897be6bd91f3d39d137f25f12dba1b31d5dc",
+      "bytes": 1072
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

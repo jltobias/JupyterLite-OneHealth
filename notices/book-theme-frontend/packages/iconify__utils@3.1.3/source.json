@@ -1,0 +1,30 @@
+{
+  "name": "@iconify/utils",
+  "version": "3.1.3",
+  "lock_keys": [
+    "@iconify/utils"
+  ],
+  "lock_integrities": [
+    "sha512-LPKOXPn/zV+zis1oOfGWogaXVpqUybF3ZS6SCZIsz8vg0ivVp9+fVqyYB7xq0aiST/VhUQYGO1qo6uoYSiEJqw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/@iconify/utils/3.1.3",
+  "tarball_url": "https://registry.npmjs.org/@iconify/utils/-/utils-3.1.3.tgz",
+  "npm_integrity": "sha512-LPKOXPn/zV+zis1oOfGWogaXVpqUybF3ZS6SCZIsz8vg0ivVp9+fVqyYB7xq0aiST/VhUQYGO1qo6uoYSiEJqw==",
+  "tarball_sha256": "04066703a67e3d1e1c2329c4de74873e2d040e81bf25a721ee0f7e21993a1d75",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/iconify/iconify.git",
+    "type": "git",
+    "directory": "packages/utils"
+  },
+  "git_head": null,
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/iconify__utils@3.1.3/license.txt",
+      "source_member": "package/license.txt",
+      "sha256": "a86793ac023162ce98b91899601c15f6712f44943163c4f92a0a4bf89152b3bf",
+      "bytes": 1083
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

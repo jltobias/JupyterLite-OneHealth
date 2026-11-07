@@ -1,0 +1,30 @@
+{
+  "name": "is-plain-obj",
+  "version": "1.1.0",
+  "lock_keys": [
+    "gl-text/is-plain-obj",
+    "gl-util/is-plain-obj"
+  ],
+  "lock_integrities": [
+    "sha512-yvkRyxmFKEOQ4pNXCmJG5AEQNlXJS5LaONXo5/cLdTZdWvsZ1ioJEonLGAosKlMWE8lwUy/bJzMjcw8az73+Fg=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/is-plain-obj/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz",
+  "npm_integrity": "sha512-yvkRyxmFKEOQ4pNXCmJG5AEQNlXJS5LaONXo5/cLdTZdWvsZ1ioJEonLGAosKlMWE8lwUy/bJzMjcw8az73+Fg==",
+  "tarball_sha256": "bacc44f9c1e30a9f3ed6d551819c49a0837574481cf261321ba23bdb4e5427c8",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "https://github.com/sindresorhus/is-plain-obj",
+    "type": "git"
+  },
+  "git_head": "b687098cc30d85bbec07f1633dee4c2d6acb1aa5",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/is-plain-obj@1.1.0/license",
+      "source_member": "package/license",
+      "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+      "bytes": 1119
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

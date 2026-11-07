@@ -1,0 +1,9 @@
+/*! Bundled license information:
+
+react-highlight-words/dist/main.js:
+  (*
+  object-assign
+  (c) Sindre Sorhus
+  @license MIT
+  *)
+*/

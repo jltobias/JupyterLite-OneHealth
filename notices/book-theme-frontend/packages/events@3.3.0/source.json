@@ -1,0 +1,30 @@
+{
+  "name": "events",
+  "version": "3.3.0",
+  "lock_keys": [
+    "events"
+  ],
+  "lock_integrities": [
+    "sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/events/3.3.0",
+  "tarball_url": "https://registry.npmjs.org/events/-/events-3.3.0.tgz",
+  "npm_integrity": "sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q==",
+  "tarball_sha256": "2c30dd630b58299bdfaac8688f763c6f312d29779c500b1e3701a1d4fb3b534b",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/Gozala/events.git",
+    "web": "https://github.com/Gozala/events",
+    "type": "git"
+  },
+  "git_head": "aed9f91fee236bdedab8d593f7aa418ae6ed2718",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/events@3.3.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "631987b7616a325a5b97566c232418481ddf7dbb5ecadefb991e791876cc2599",
+      "bytes": 1081
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

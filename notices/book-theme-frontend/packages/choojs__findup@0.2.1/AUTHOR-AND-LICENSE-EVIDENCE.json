@@ -1,0 +1,14 @@
+{
+  "name": "@choojs/findup",
+  "version": "0.2.1",
+  "author_attribution": {
+    "name": "Filirom1",
+    "email": "filirom1@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/@choojs/findup/0.2.1",
+  "tarball_url": "https://registry.npmjs.org/@choojs/findup/-/findup-0.2.1.tgz",
+  "git_head": "cbdcbdc8896a123ac83f41f82ae8d4ec2809a97e",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

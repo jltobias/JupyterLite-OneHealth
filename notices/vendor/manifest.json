@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "acquired_at_utc": "2026-11-07T14:58:26.587567+00:00",
+  "purpose": "Pinned, unmodified open-source browser runtime dependencies; educational prose, data and visualizations remain project authored.",
+  "artifacts": [
+    {
+      "name": "geotiff",
+      "version": "2.1.3",
+      "path": "web/vendor/geotiff.js",
+      "tarball_member": "package/dist-browser/geotiff.js",
+      "sha256": "cb5c9731bfee1f8bff1728e54e4436ada81ea3258b178a3d6603c61b58d99e6c",
+      "bytes": 317520,
+      "modified": false
+    },
+    {
+      "name": "proj4",
+      "version": "2.12.1",
+      "path": "web/vendor/proj4.js",
+      "tarball_member": "package/dist/proj4.js",
+      "sha256": "9ecae61d88a976481c70d25069066205b10d541f098cdb69c02f3dd4dcac99cf",
+      "bytes": 92739,
+      "modified": false
+    }
+  ],
+  "release_lockfiles": [
+    {
+      "source_url": "https://raw.githubusercontent.com/geotiffjs/geotiff.js/v2.1.3/package-lock.json",
+      "sha256": "89552110812c1184f1b23418758e94a5792de662c08373f3195c8e3e6cb2d60a"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/proj4js/proj4js/v2.12.1/package-lock.json",
+      "sha256": "109785b6c541e79c2d3d365a684403237ad0268901b3b10e384eb5d9d44b1faf"
+    }
+  ],
+  "packages": [
+    {
+      "name": "geotiff",
+      "version": "2.1.3",
+      "metadata_url": "https://registry.npmjs.org/geotiff/2.1.3",
+      "tarball_url": "https://registry.npmjs.org/geotiff/-/geotiff-2.1.3.tgz",
+      "npm_integrity": "sha512-PT6uoF5a1+kbC3tHmZSUsLHBp2QJlHasxxxxPW47QIY1VBKpFB+FcDvX+MxER6UzgLQZ0xDzJ9s48B9JbOCTqA==",
+      "tarball_sha256": "1f1072dcd80d9c3bf0f6df0d5b7f3bf14264db9f270ef9e3b82b8eb343cebe94",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/geotiffjs/geotiff.js.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/geotiff-2.1.3/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "da0811089f254e909f69f75fa496ca97e5167a8eaa945d9a6bffdd8499b47a49",
+          "bytes": 1088
+        }
+      ],
+      "npm_git_head": "da936684e30ef994f1d0d1e2da844b0e9a6c3cd0",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ]
+    },
+    {
+      "name": "proj4",
+      "version": "2.12.1",
+      "metadata_url": "https://registry.npmjs.org/proj4/2.12.1",
+      "tarball_url": "https://registry.npmjs.org/proj4/-/proj4-2.12.1.tgz",
+      "npm_integrity": "sha512-vmhP3hmstjXjzFwg8QXJwpoj4n7GVrXk3ZW3DzNK/Ur4cuwXq7ZiMXaWYvLYLQbX8n4MXgbwTr4lthOUZltBpA==",
+      "tarball_sha256": "b7f232b82ef9044ae0637eb657ba511f81b6da3d52e1ac9680698d3a4da16464",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git://github.com/proj4js/proj4js.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/proj4-2.12.1/LICENSE.md",
+          "source_member": "package/LICENSE.md",
+          "sha256": "d514fd8b286fc00a5c97a29f8a99b73f1a4053bbdd00c400aee5f24a1b6b301e",
+          "bytes": 1454
+        },
+        {
+          "path": "notices/vendor/proj4-2.12.1/EMBEDDED-NOTICES.txt",
+          "source_member": "package/dist/proj4-src.js",
+          "sha256": "366903b660150b1d26ce2e68ca228afa1f16ff41d1b64624dd903303f0fd0484",
+          "bytes": 1444
+        }
+      ],
+      "npm_git_head": "ced2c142df87fb93b25345f52059029a8608a3fe",
+      "additional_components": [
+        {
+          "name": "Equal Earth projection",
+          "copyright": "2018 Bernie Jenny, Monash University, Melbourne, Australia",
+          "license": "Apache-2.0",
+          "license_path": "notices/vendor/Apache-2.0.txt",
+          "notice_path": "notices/vendor/proj4-2.12.1/EMBEDDED-NOTICES.txt"
+        }
+      ],
+      "included_in": [
+        "web/vendor/proj4.js"
+      ]
+    },
+    {
+      "name": "@babel/runtime",
+      "version": "7.15.4",
+      "metadata_url": "https://registry.npmjs.org/@babel/runtime/7.15.4",
+      "tarball_url": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.15.4.tgz",
+      "npm_integrity": "sha512-99catp6bHCaxr4sJ/DbTGgHS4+Rs2RVd2g7iOap6SLGPDknRK9ztKNsE/Fg6QhSeh1FGE5f6gHGQmvvn3I3xhw==",
+      "tarball_sha256": "fb982d14828621aa4672bfccff28b3250da308af56084d2b39bbe9c8d67b8515",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "https://github.com/babel/babel.git",
+        "type": "git",
+        "directory": "packages/babel-runtime"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/babel-runtime-7.15.4/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+          "bytes": 1106
+        }
+      ],
+      "npm_git_head": null,
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "helpers/esm/defineProperty.js",
+          "source_map_sha256": "ef7896d1bcbe9141e9b3c010322fe0b74d743437eb2cdb951930d4a16bf734aa",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/arrayWithHoles.js",
+          "source_map_sha256": "247b59f2b3e21252b890221661ba5f763ca1424257164b22715209e02fe9789f",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/arrayLikeToArray.js",
+          "source_map_sha256": "8c13ff63b787d51c0b6e5a499100f387c47aa00ad3a2f0dd56632a0558aacb79",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/unsupportedIterableToArray.js",
+          "source_map_sha256": "9e0190ba518102c39e5de9b9eb6271cd3cd902ff3f8afc7a41606d3a8fadd29c",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/nonIterableRest.js",
+          "source_map_sha256": "5ca3f757a7ef61e838f893669c52168c36931afa633ff5a8688dead27a587128",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/slicedToArray.js",
+          "source_map_sha256": "bf6503ea574497e15018f40a16dc82405714aecc63c2ac78bf14ed432adf323a",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/iterableToArrayLimit.js",
+          "source_map_sha256": "15f0dc7f3dc93249ca7e18ad072245ac1c488e214633d70c4e69a4c4e9545a1d",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/asyncToGenerator.js",
+          "source_map_sha256": "e960e394ea8dce2d2f321231cba67f69228770363714f6bce15f1961c9a3f4b7",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/createClass.js",
+          "source_map_sha256": "72d1388ed040faa7cb208e4227b2c4d352b6f8beb5f3f65c00717c28fe754ffc",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/setPrototypeOf.js",
+          "source_map_sha256": "2ba947b9a4f68ef7d44dafba2e2ed1d2370a380ec726c981b209b208ef965424",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/inherits.js",
+          "source_map_sha256": "67339cd8a06094573c36b57765f476327bea44cbe2289433ff7ab3de2ca39ab5",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/typeof.js",
+          "source_map_sha256": "557dde7f64603d63c560648801b9060ed9edeaedb396d2ca6ad85b95e1f2b658",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/assertThisInitialized.js",
+          "source_map_sha256": "fc5fc7f97f2a61717c7d545ec0317e87866597ee7eb9badc4505dfbeae247ab7",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/possibleConstructorReturn.js",
+          "source_map_sha256": "d082e6158ccfb7aa21a06cec32a49cbf695009638c3dd824b99d5e98ba39159c",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/getPrototypeOf.js",
+          "source_map_sha256": "c1c1fc72a207b253a570d76ea31865cfac226c85bfef26125fa09bc6971becc5",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/isNativeReflectConstruct.js",
+          "source_map_sha256": "336da369820f472cfe02d78e1a136edb6394caa0e8fc326c76f0fd9061781646",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/construct.js",
+          "source_map_sha256": "b52fb1ae2cb079b00e358e6c5687158887e9f9845a6f237a83859bfc32e77b59",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/wrapNativeSuper.js",
+          "source_map_sha256": "18fe23415453c57dc0ed34e5a0c35d5fb6036349dc10369da3cc0382b8c9fc5c",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/isNativeFunction.js",
+          "source_map_sha256": "16dedbf9a9b1a6157944bbe5b9090004cd4bbf00a6506be552d9d4d67e5630a6",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/classCallCheck.js",
+          "source_map_sha256": "2f430eeadb699725dbbf2fda43218cf6be49a778c7d870b4b3aaa1fd9b77b65f",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "regenerator/index.js",
+          "source_map_sha256": "70482fcb02ddf80fb8e8b9e7547d9c0328ebff0baea1ac8f3765fd0972aeed94",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/iterableToArray.js",
+          "source_map_sha256": "b0ddd1179e7ac2d8b186ef6e41be0e1976d0f1b8ba1806fa5cffff42a536257a",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/toConsumableArray.js",
+          "source_map_sha256": "379c24c8cf82448bb86f7d1510ceb895f846b1bf7f3daa76b691161ca152d517",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/arrayWithoutHoles.js",
+          "source_map_sha256": "138c30ef31918b884cd1765f723f0be5878cd00762f850ad926e636a6bfd6dba",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/nonIterableSpread.js",
+          "source_map_sha256": "6757605e2d964eb7cbb0675049a6a605806e7faaebaea3cb22e60cb7908f1c9d",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/objectWithoutProperties.js",
+          "source_map_sha256": "ab5a678c09728e3d587f3aa306d4f05e84cf872033dc743d3e4203fe373a41dd",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/objectWithoutPropertiesLoose.js",
+          "source_map_sha256": "f730d64ad3b434115385a506503634a7e4c2ad4870bffff6af09824b04373e84",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "helpers/esm/toArray.js",
+          "source_map_sha256": "a8d2f2291ebed2683f6a2dadc9293591fabf44e3fb79c2bdd4523ec7d28dd087",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "regenerator-runtime",
+      "version": "0.13.9",
+      "metadata_url": "https://registry.npmjs.org/regenerator-runtime/0.13.9",
+      "tarball_url": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz",
+      "npm_integrity": "sha512-p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA==",
+      "tarball_sha256": "1a6b5437215dc6558817acfd9f8300f5519475ddc8f9f55bec243c622fd099b8",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "https://github.com/facebook/regenerator/tree/master/packages/runtime",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/regenerator-runtime-0.13.9/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "51887a3d47051ac2fce1210562e5b9fe0830a8a8fabeb272c2d586eeb18a05fd",
+          "bytes": 1080
+        },
+        {
+          "path": "notices/vendor/regenerator-runtime-0.13.9/EMBEDDED-NOTICES.txt",
+          "source_member": "geotiff-2.1.3/package/dist-browser/geotiff.js.map sourcesContent",
+          "sha256": "61020594270591789c4c737660ab64194d731cc1eeb0c39b9796fc3d4cb78028",
+          "bytes": 255
+        }
+      ],
+      "npm_git_head": null,
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "runtime.js",
+          "source_map_sha256": "7206cf318a71ac0cd59d710fd6318de5bb647e95a1d6dada870eded122b1f0e7",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "@petamoriken/float16",
+      "version": "3.4.7",
+      "metadata_url": "https://registry.npmjs.org/@petamoriken/float16/3.4.7",
+      "tarball_url": "https://registry.npmjs.org/@petamoriken/float16/-/float16-3.4.7.tgz",
+      "npm_integrity": "sha512-Mir0MAKxg5v6BUIg9SI5VAyrIa/3uptf7aPyvPhHNh0RMYMevrWbaLrsVSZ1f92C39hWd8v7GrjvvOT+WG5VUQ==",
+      "tarball_sha256": "58d266734e3dcde0d152535ebcece84415a0547a94d29c3ae7c4dcc43e77c1c4",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/petamoriken/float16.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/petamoriken-float16-3.4.7/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "d85021fc94650f85022da6fc195bd29c9e481de378e45435ff67830f5ea20af2",
+          "bytes": 1076
+        }
+      ],
+      "npm_git_head": "324f1e812c4dd2615fd9184ae8b1e3c875fa89ba",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "src/helper/converter.mjs",
+          "source_map_sha256": "ae39ed82e70c3a6cb657c35fa460ade9b862e61f7b247ed4c5adb4deb73e490d",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "src/helper/is.mjs",
+          "source_map_sha256": "427fa2a7b8dfd34f33c3a31ef3fbebebb90c258732bfc6af63aad96f1b49e676",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "src/DataView.mjs",
+          "source_map_sha256": "3016c3df6c4e71e74403004b476ad10c47225fdf2696f97010e4bc14fee8bd60",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "xml-utils",
+      "version": "1.0.2",
+      "metadata_url": "https://registry.npmjs.org/xml-utils/1.0.2",
+      "tarball_url": "https://registry.npmjs.org/xml-utils/-/xml-utils-1.0.2.tgz",
+      "npm_integrity": "sha512-rEn0FvKi+YGjv9omf22oAf+0d6Ly/sgJ/CUufU/nOzS7SRLmgwSujrewc03KojXxt+aPaTRpm593TgehtUBMSQ==",
+      "tarball_sha256": "5dbb078dba8766b17510fa98217be418e0eef99b656890caebcb766c12cbd322",
+      "declared_license": "CC0-1.0",
+      "repository": {
+        "url": "git+https://github.com/DanielJDufour/xml-utils.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/xml-utils-1.0.2/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048
+        }
+      ],
+      "npm_git_head": "9060e7c3c733548bb93896fbe9feed4a7d67cd29",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "get-attribute.js",
+          "source_map_sha256": "ba07aaa26096a91c56128b5d8a6e1008538077d875c00bc1cc33827e57cc4f98",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "find-tag-by-name.js",
+          "source_map_sha256": "50da219c2238b5eea74e7a90d39c407cafec90293f120246c5e7326ccca3b50f",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "index-of-match.js",
+          "source_map_sha256": "581fb1d4b24be344dff8458bf69764b8da1bd976316b4bcc02a9edbc24f51281",
+          "matches_official_package_source": true
+        },
+        {
+          "path": "find-tags-by-name.js",
+          "source_map_sha256": "d3a94dffff45d0af93b9d3ecc87b5ecfa0fce689316e20b5a69432147b946572",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "quick-lru",
+      "version": "6.1.1",
+      "metadata_url": "https://registry.npmjs.org/quick-lru/6.1.1",
+      "tarball_url": "https://registry.npmjs.org/quick-lru/-/quick-lru-6.1.1.tgz",
+      "npm_integrity": "sha512-S27GBT+F0NTRiehtbrgaSE1idUAJ5bX8dPAQTdylEyNlrdcH5X4Lz7Edz3DYzecbsCluD5zO8ZNEe04z3D3u6Q==",
+      "tarball_sha256": "3e97dee8d1453255f9e399db4784636a2dce21a14f420903a51621d171f1e53d",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/sindresorhus/quick-lru.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/quick-lru-6.1.1/license",
+          "source_member": "package/license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+          "bytes": 1117
+        }
+      ],
+      "npm_git_head": "771392878fc0e2325b1172d04260e87afe94c8f7",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "index.js",
+          "source_map_sha256": "7498e48893af9e86fb980838879e857c52bf39b22a157616fee9807801c8a13c",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "pako",
+      "version": "2.0.4",
+      "metadata_url": "https://registry.npmjs.org/pako/2.0.4",
+      "tarball_url": "https://registry.npmjs.org/pako/-/pako-2.0.4.tgz",
+      "npm_integrity": "sha512-v8tweI900AUkZN6heMU/4Uy4cXRc2AYNRggVmTR+dEncawDJgCdLMximOVA2p4qO57WMynangsfGRb5WD6L1Bg==",
+      "tarball_sha256": "13e088495b8569436fafe79236d5a62baacc76af1540dc4f49a9a1244303344c",
+      "declared_license": "(MIT AND Zlib)",
+      "repository": {
+        "url": "git+https://github.com/nodeca/pako.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/pako-2.0.4/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "a04665b3b2de56c66730c1f720f528175739e4104f79073614aa611da1e85539",
+          "bytes": 1104
+        },
+        {
+          "path": "notices/vendor/pako-2.0.4/EMBEDDED-NOTICES.txt",
+          "source_member": "geotiff-2.1.3/package/dist-browser/geotiff.js.map sourcesContent",
+          "sha256": "8e4014c66418305683b29900468c8ed97027cf63c68edb421581caccf9f97503",
+          "bytes": 145
+        }
+      ],
+      "npm_git_head": "0398fad238edc29df44f78e338cbcfd5ee2657d3",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "dist/pako.esm.mjs",
+          "source_map_sha256": "59e9c7d99ff37988514dd20d74ee83a649d4688da8e485eda49cd94912e11418",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "lerc",
+      "version": "3.0.0",
+      "metadata_url": "https://registry.npmjs.org/lerc/3.0.0",
+      "tarball_url": "https://registry.npmjs.org/lerc/-/lerc-3.0.0.tgz",
+      "npm_integrity": "sha512-Rm4J/WaHhRa93nCN2mwWDZFoRVF18G1f47C+kvQWyHGEZxFpTUi73p7lMVSAndyxGt6lJ2/CFbOcf9ra5p8aww==",
+      "tarball_sha256": "5c927cdc5d70387b2f4215f99595f8c119157eacc3cf0fec9a7c4db2da3e784d",
+      "declared_license": "Apache-2.0",
+      "repository": {
+        "url": "git+https://github.com/Esri/lerc.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/lerc-3.0.0/EMBEDDED-NOTICES.txt",
+          "source_member": "geotiff-2.1.3/package/dist-browser/geotiff.js.map sourcesContent",
+          "sha256": "2a0b316a4fda1f618762293d6934173a0439941ebb2380715f6d13f3c70c44c2",
+          "bytes": 1127
+        }
+      ],
+      "npm_git_head": null,
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "LercDecode.js",
+          "source_map_sha256": "20a115a2ff426372eac84e062c520d1abdc650618ce4dcca402868c36241f99c",
+          "matches_official_package_source": true
+        }
+      ],
+      "license_text": {
+        "path": "notices/vendor/Apache-2.0.txt",
+        "source_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "basis": "Apache-2.0 declaration and copyright notice in official LercDecode.js"
+      }
+    },
+    {
+      "name": "zstddec",
+      "version": "0.1.0",
+      "metadata_url": "https://registry.npmjs.org/zstddec/0.1.0",
+      "tarball_url": "https://registry.npmjs.org/zstddec/-/zstddec-0.1.0.tgz",
+      "npm_integrity": "sha512-w2NTI8+3l3eeltKAdK8QpiLo/flRAr2p8AGeakfMZOXBxOg9HIu4LVDxBi81sYgVhFhdJjv1OrB5ssI8uFPoLg==",
+      "tarball_sha256": "12c9fe7fb1a751534485ba53b19a5987ccf68ebbcd24577b14c39bb300a17385",
+      "declared_license": "MIT AND BSD-3-Clause",
+      "repository": {
+        "url": "git+https://github.com/donmccurdy/zstddec.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/zstddec-0.1.0/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "8d078b49fc02bd63c1beaf4ddc629a8b48e4ba6a435415408c8209e2a5c3aacf",
+          "bytes": 2617
+        },
+        {
+          "path": "notices/vendor/zstddec-0.1.0/EMBEDDED-NOTICES.txt",
+          "source_member": "geotiff-2.1.3/package/dist-browser/geotiff.js.map sourcesContent",
+          "sha256": "f38482371086032e4aa9bbbb3242720f2f90efda3993806fc00de43181df69b8",
+          "bytes": 1737
+        }
+      ],
+      "npm_git_head": "024f62c07f245fe7a731dd0f3b5785067960f7f5",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "dist/zstddec.modern.js",
+          "source_map_sha256": "db1ab152d1aedc19717df62d36f19eb62327fe883bd5acb1669e75818bf01269",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "web-worker",
+      "version": "1.2.0",
+      "metadata_url": "https://registry.npmjs.org/web-worker/1.2.0",
+      "tarball_url": "https://registry.npmjs.org/web-worker/-/web-worker-1.2.0.tgz",
+      "npm_integrity": "sha512-PgF341avzqyx60neE9DD+XS26MMNMoUQRz9NOZwW32nPQrF6p77f1htcnjBSEV8BGMKZ16choqUG4hyI0Hx7mA==",
+      "tarball_sha256": "ba97fd9e2063f50f02b1d6415cc799941df1e6efc27468e8c64a6b26687c1a68",
+      "declared_license": "Apache-2.0",
+      "repository": {
+        "url": "git+https://github.com/developit/web-worker.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/web-worker-1.2.0/LICENSE",
+          "source_member": "package/LICENSE",
+          "sha256": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+          "bytes": 11356
+        },
+        {
+          "path": "notices/vendor/web-worker-1.2.0/EMBEDDED-NOTICES.txt",
+          "source_member": "geotiff-2.1.3/package/dist-browser/geotiff.js.map sourcesContent",
+          "sha256": "8550372ed14e2dc7a1144afa63c21248756e0bd8859bba52c53914d7765a5876",
+          "bytes": 667
+        }
+      ],
+      "npm_git_head": "29fef9775702c91887d3d8733e595edf1a188f31",
+      "included_in": [
+        "web/vendor/geotiff.js"
+      ],
+      "bundled_source_evidence": [
+        {
+          "path": "cjs/browser.js",
+          "source_map_sha256": "fae7f25c99a02fddfdd4311f4ad992c59d3b811bf412a4a7a443bbc1027932ab",
+          "matches_official_package_source": true
+        }
+      ]
+    },
+    {
+      "name": "mgrs",
+      "version": "1.0.0",
+      "metadata_url": "https://registry.npmjs.org/mgrs/1.0.0",
+      "tarball_url": "https://registry.npmjs.org/mgrs/-/mgrs-1.0.0.tgz",
+      "npm_integrity": "sha512-awNbTOqCxK1DBGjalK3xqWIstBZgN6fxsMSiXLs9/spqWkF2pAhb2rrYCFSsr1/tT7PhcDGjZndG8SWYn0byYA==",
+      "tarball_sha256": "9df8b8b657f828fa8ef6729789865b96a121e148f6fc54128a7b695c6231b8dd",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git://github.com/proj4js/mgrs.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/mgrs-1.0.0/license.md",
+          "source_member": "package/license.md",
+          "sha256": "069adb09f8be7a8d31415c476b5e25ea2da2f5150e69e32ac69179826f9d33b5",
+          "bytes": 1153
+        }
+      ],
+      "npm_git_head": "4ab41e0a3e34daf5ba3351ae0daf3906322c6b4e",
+      "included_in": [
+        "web/vendor/proj4.js"
+      ]
+    },
+    {
+      "name": "wkt-parser",
+      "version": "1.3.3",
+      "metadata_url": "https://registry.npmjs.org/wkt-parser/1.3.3",
+      "tarball_url": "https://registry.npmjs.org/wkt-parser/-/wkt-parser-1.3.3.tgz",
+      "npm_integrity": "sha512-ZnV3yH8/k58ZPACOXeiHaMuXIiaTk1t0hSUVisbO0t4RjA5wPpUytcxeyiN2h+LZRrmuHIh/1UlrR9e7DHDvTw==",
+      "tarball_sha256": "95168f45ebbc06513acb8428303a8a5e91d3f003dd8b7e2c94c31d337bb3e1c1",
+      "declared_license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/proj4js/wkt-parser.git",
+        "type": "git"
+      },
+      "notice_files": [
+        {
+          "path": "notices/vendor/wkt-parser-1.3.3/LICENSE.md",
+          "source_member": "package/LICENSE.md",
+          "sha256": "d514fd8b286fc00a5c97a29f8a99b73f1a4053bbdd00c400aee5f24a1b6b301e",
+          "bytes": 1454
+        }
+      ],
+      "npm_git_head": "03e76441cf279561de7e5795186391b6527ac8e6",
+      "included_in": [
+        "web/vendor/proj4.js"
+      ]
+    }
+  ],
+  "shared_license_texts": [
+    {
+      "path": "notices/vendor/Apache-2.0.txt",
+      "source_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    }
+  ],
+  "verification": {
+    "npm_sha512_integrity": "verified for every package",
+    "geotiff_bundle_dependency_sources": "all 41 dependency source-map entries matched official pinned npm package files after newline/BOM normalization",
+    "proj4_dependency_versions": "official v2.12.1 release package-lock.json; mgrs1.0.0 and wkt-parser1.3.3",
+    "bundle_modifications": "none",
+    "runtime_globals": {
+      "runtime": "Node.js v24.19.0 vm context with browser globals and a Worker capability stub; no workers instantiated",
+      "result": "passed",
+      "geotiff_exports": 20,
+      "geotiff_functions": [
+        "fromUrl",
+        "fromArrayBuffer",
+        "writeArrayBuffer"
+      ],
+      "proj4_version": "2.12.1",
+      "checks": [
+        "GeoTIFF browser global loaded",
+        "proj4 browser global loaded",
+        "Original 2x2 uncompressed GeoTIFF fixture encoded/decoded to [1,2,3,4]",
+        "WGS84 [-77,39] to UTM18N and inverse agreed within 1e-7 degrees"
+      ],
+      "scope": "Bundle/global/codec/projection smoke check, not a full browser CORS or worker test"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "fast-isnumeric",
+  "version": "1.1.4",
+  "lock_keys": [
+    "fast-isnumeric"
+  ],
+  "lock_integrities": [
+    "sha512-1mM8qOr2LYz8zGaUdmiqRDiuue00Dxjgcb1NQR7TnhLVh6sQyngP9xvLo7Sl7LZpP/sk5eb+bcyWXw530NTBZw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/fast-isnumeric/1.1.4",
+  "tarball_url": "https://registry.npmjs.org/fast-isnumeric/-/fast-isnumeric-1.1.4.tgz",
+  "npm_integrity": "sha512-1mM8qOr2LYz8zGaUdmiqRDiuue00Dxjgcb1NQR7TnhLVh6sQyngP9xvLo7Sl7LZpP/sk5eb+bcyWXw530NTBZw==",
+  "tarball_sha256": "509f4eb5252ece5dfa4bd76d38142197eace0b712aed6f059de34afeedecb778",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/plotly/fast-isnumeric.git",
+    "type": "git"
+  },
+  "git_head": "edebf2c7cda228589723b31c7d864c4adb204259",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/fast-isnumeric@1.1.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "71f353d5dca49bf6335eaa74ce0f92914f4b820e73a55d4277ac69a5b144a445",
+      "bytes": 1080
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

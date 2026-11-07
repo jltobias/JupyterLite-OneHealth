@@ -1,0 +1,29 @@
+{
+  "name": "robust-predicates",
+  "version": "3.0.3",
+  "lock_keys": [
+    "robust-predicates"
+  ],
+  "lock_integrities": [
+    "sha512-NS3levdsRIUOmiJ8FZWCP7LG3QpJyrs/TE0Zpf1yvZu8cAJJ6QMW92H1c7kWpdIHo8RvmLxN/o2JXTKHp74lUA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/robust-predicates/3.0.3",
+  "tarball_url": "https://registry.npmjs.org/robust-predicates/-/robust-predicates-3.0.3.tgz",
+  "npm_integrity": "sha512-NS3levdsRIUOmiJ8FZWCP7LG3QpJyrs/TE0Zpf1yvZu8cAJJ6QMW92H1c7kWpdIHo8RvmLxN/o2JXTKHp74lUA==",
+  "tarball_sha256": "54952e6a8c9e69e404f9be09bfb92a68482cf77702283399a44a689d67ba661c",
+  "declared_license": "Unlicense",
+  "repository": {
+    "url": "git+https://github.com/mourner/robust-predicates.git",
+    "type": "git"
+  },
+  "git_head": "8bed7fadb4284911e1111876e54a6f8acfa445cd",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/robust-predicates@3.0.3/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "88d9b4eb60579c191ec391ca04c16130572d7eedc4a86daa58bf28c6e14c9bcd",
+      "bytes": 1210
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

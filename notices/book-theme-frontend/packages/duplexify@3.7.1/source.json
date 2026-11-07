@@ -1,0 +1,29 @@
+{
+  "name": "duplexify",
+  "version": "3.7.1",
+  "lock_keys": [
+    "duplexify"
+  ],
+  "lock_integrities": [
+    "sha512-07z8uv2wMyS51kKhD1KsdXJg5WQ6t93RneqRxUHnskXVtlYYkLqM0gqStQZ3pj073g687jPCHrqNfCzawLYh5g=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/duplexify/3.7.1",
+  "tarball_url": "https://registry.npmjs.org/duplexify/-/duplexify-3.7.1.tgz",
+  "npm_integrity": "sha512-07z8uv2wMyS51kKhD1KsdXJg5WQ6t93RneqRxUHnskXVtlYYkLqM0gqStQZ3pj073g687jPCHrqNfCzawLYh5g==",
+  "tarball_sha256": "467b7df849bfedc4f5d48a333f404ee94d8e002053bd0e799bc7aef621a62ffe",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/mafintosh/duplexify.git",
+    "type": "git"
+  },
+  "git_head": "f6af4f971bf4c99750f44751b99942675f0ab5df",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/duplexify@3.7.1/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6",
+      "bytes": 1078
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

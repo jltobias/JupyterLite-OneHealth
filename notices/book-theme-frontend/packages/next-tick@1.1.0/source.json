@@ -1,0 +1,29 @@
+{
+  "name": "next-tick",
+  "version": "1.1.0",
+  "lock_keys": [
+    "next-tick"
+  ],
+  "lock_integrities": [
+    "sha512-CXdUiJembsNjuToQvxayPZF9Vqht7hewsvy2sOWafLvi2awflj9mOC6bHIg50orX8IJvWKY9wYQ/zB2kogPslQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/next-tick/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/next-tick/-/next-tick-1.1.0.tgz",
+  "npm_integrity": "sha512-CXdUiJembsNjuToQvxayPZF9Vqht7hewsvy2sOWafLvi2awflj9mOC6bHIg50orX8IJvWKY9wYQ/zB2kogPslQ==",
+  "tarball_sha256": "f29d4d707449588c7200d1d4d05286fd3b8c0f63ad2e595f9bcd011c8d0ed755",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/medikoo/next-tick.git",
+    "type": "git"
+  },
+  "git_head": "ce6c733a67f82ea84ba8f30fc853217da80154e3",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/next-tick@1.1.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "d61b7b0b7ef23fe17a4cf996c50362ba842725e9b1a0686792a9c16894a6d5c0",
+      "bytes": 773
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

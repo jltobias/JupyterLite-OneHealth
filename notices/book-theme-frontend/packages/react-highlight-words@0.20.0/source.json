@@ -1,0 +1,29 @@
+{
+  "name": "react-highlight-words",
+  "version": "0.20.0",
+  "lock_keys": [
+    "react-highlight-words"
+  ],
+  "lock_integrities": [
+    "sha512-asCxy+jCehDVhusNmCBoxDf2mm1AJ//D+EzDx1m5K7EqsMBIHdZ5G4LdwbSEXqZq1Ros0G0UySWmAtntSph7XA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/react-highlight-words/0.20.0",
+  "tarball_url": "https://registry.npmjs.org/react-highlight-words/-/react-highlight-words-0.20.0.tgz",
+  "npm_integrity": "sha512-asCxy+jCehDVhusNmCBoxDf2mm1AJ//D+EzDx1m5K7EqsMBIHdZ5G4LdwbSEXqZq1Ros0G0UySWmAtntSph7XA==",
+  "tarball_sha256": "7d0cd0bcadb51777c95e849a70385a051d5b67e33b9728fac50f66bcfde11dad",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/bvaughn/react-highlight-words.git",
+    "type": "git"
+  },
+  "git_head": "b35d3f0b7d4ff9fe2ee03dbcdece917819d83dd0",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/react-highlight-words@0.20.0/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "f21b26f88d23ad3809f3413bba408bdc951b0a32a4a7a31d80833d7fba67514f",
+      "bytes": 1103
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

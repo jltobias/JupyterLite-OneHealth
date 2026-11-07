@@ -1,0 +1,29 @@
+{
+  "name": "earcut",
+  "version": "2.2.4",
+  "lock_keys": [
+    "earcut"
+  ],
+  "lock_integrities": [
+    "sha512-/pjZsA1b4RPHbeWZQn66SWS8nZZWLQQ23oE3Eam7aroEFGEvwKAsJfZ9ytiEMycfzXWpca4FA9QIOehf7PocBQ=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/earcut/2.2.4",
+  "tarball_url": "https://registry.npmjs.org/earcut/-/earcut-2.2.4.tgz",
+  "npm_integrity": "sha512-/pjZsA1b4RPHbeWZQn66SWS8nZZWLQQ23oE3Eam7aroEFGEvwKAsJfZ9ytiEMycfzXWpca4FA9QIOehf7PocBQ==",
+  "tarball_sha256": "6db1957d339d2db7187c55b14cbb0e3fe2bc78f0458cfb947f7e62113cb8d6cb",
+  "declared_license": "ISC",
+  "repository": {
+    "url": "git://github.com/mapbox/earcut.git",
+    "type": "git"
+  },
+  "git_head": "ae33a9fc9731c76519e66081995387e08d48eb65",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/earcut@2.2.4/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "cd661c432ea8243974e6fde6fc433ebee3e96525ca8b66321b9d9971674ede60",
+      "bytes": 738
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

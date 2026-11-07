@@ -1,0 +1,31 @@
+{
+  "name": "resolve",
+  "version": "1.22.12",
+  "lock_keys": [
+    "d3-geo-projection/resolve",
+    "glslify-deps/resolve",
+    "glslify/resolve"
+  ],
+  "lock_integrities": [
+    "sha512-TyeJ1zif53BPfHootBGwPRYT1RUt6oGWsaQr8UyZW/eAm9bKoijtvruSDEmZHm92CwS9nj7/fWttqPCgzep8CA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/resolve/1.22.12",
+  "tarball_url": "https://registry.npmjs.org/resolve/-/resolve-1.22.12.tgz",
+  "npm_integrity": "sha512-TyeJ1zif53BPfHootBGwPRYT1RUt6oGWsaQr8UyZW/eAm9bKoijtvruSDEmZHm92CwS9nj7/fWttqPCgzep8CA==",
+  "tarball_sha256": "c6a29dbf1f4c0754a94387b379e699f5594216e16ef0d5ee17ccf9518f844dc1",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+ssh://git@github.com/browserify/resolve.git",
+    "type": "git"
+  },
+  "git_head": "d2d30de86300fa862e7792057b82b59cd44f2b5d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/resolve@1.22.12/LICENSE",
+      "source_member": "package/LICENSE",
+      "sha256": "60acd7711e6c138e6041836e32d922705254cc1568a30fdf16aa8f59bb87aeaa",
+      "bytes": 1071
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "font-measure",
+  "version": "1.2.2",
+  "author_attribution": {
+    "name": "Dmitry Yv",
+    "email": "dfcreative@gmail.com"
+  },
+  "license_declaration": "MIT",
+  "metadata_url": "https://registry.npmjs.org/font-measure/1.2.2",
+  "tarball_url": "https://registry.npmjs.org/font-measure/-/font-measure-1.2.2.tgz",
+  "git_head": "8745876bcc4575cc11a7952f3c8e70366c79ca99",
+  "note": "Author attribution is copied from npm metadata; no missing copyright year or copyright-holder statement has been invented. See original legal notices when present.",
+  "full_standard_license_reference": "notices/book-theme-frontend/standard-license-references/MIT.txt"
+}

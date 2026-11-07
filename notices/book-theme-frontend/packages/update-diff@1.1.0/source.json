@@ -1,0 +1,43 @@
+{
+  "name": "update-diff",
+  "version": "1.1.0",
+  "lock_keys": [
+    "update-diff"
+  ],
+  "lock_integrities": [
+    "sha512-rCiBPiHxZwT4+sBhEbChzpO5hYHjm91kScWgdHf4Qeafs6Ba7MBl+d9GlGv72bcTZQO0sLmtQS1pHSWoCLtN/A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/update-diff/1.1.0",
+  "tarball_url": "https://registry.npmjs.org/update-diff/-/update-diff-1.1.0.tgz",
+  "npm_integrity": "sha512-rCiBPiHxZwT4+sBhEbChzpO5hYHjm91kScWgdHf4Qeafs6Ba7MBl+d9GlGv72bcTZQO0sLmtQS1pHSWoCLtN/A==",
+  "tarball_sha256": "338de722b60978d3abecab0eb860d0659422f7319ab187afe6b7645ff99e459d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dfcreative/update-diff.git",
+    "type": "git"
+  },
+  "git_head": "6c2cbc1267e422957cd71689d246bf5f843d3d9d",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/update-diff@1.1.0/AUTHOR-AND-LICENSE-EVIDENCE.json",
+      "source_url": "https://registry.npmjs.org/update-diff/1.1.0",
+      "sha256": "19c2a147a040ba47160baeb34ba42d57b773c931c8a9d2800e480dba2d99b931",
+      "bytes": 661,
+      "kind": "verbatim source facts with explanatory provenance"
+    }
+  ],
+  "coverage": "explicit npm SPDX license declaration plus retained original legal notices/author attribution and full standard-license reference; package omitted standalone license file",
+  "npm_author_attribution": {
+    "name": "Dima Yv",
+    "email": "df.creative@gmail.com"
+  },
+  "npm_licenses": null,
+  "full_license_text_extracted": false,
+  "standard_license_reference": {
+    "path": "notices/book-theme-frontend/standard-license-references/MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+    "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+    "bytes": 1078,
+    "status": "unmodified standard license reference, not presented as a package-shipped copyright file"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "flatten-vertex-data",
+  "version": "1.0.2",
+  "lock_keys": [
+    "flatten-vertex-data"
+  ],
+  "lock_integrities": [
+    "sha512-BvCBFK2NZqerFTdMDgqfHBwxYWnxeCkwONsw6PvBMcUXqo8U/KDWwmXhqx1x2kLIg7DqIsJfOaJFOmlua3Lxuw=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/flatten-vertex-data/1.0.2",
+  "tarball_url": "https://registry.npmjs.org/flatten-vertex-data/-/flatten-vertex-data-1.0.2.tgz",
+  "npm_integrity": "sha512-BvCBFK2NZqerFTdMDgqfHBwxYWnxeCkwONsw6PvBMcUXqo8U/KDWwmXhqx1x2kLIg7DqIsJfOaJFOmlua3Lxuw==",
+  "tarball_sha256": "1b3a52012c0d1945dc8b3dffb32299adcecfe15450fd7862db4a44709b7a2e4d",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git://github.com/glo-js/flatten-vertex-data.git",
+    "type": "git"
+  },
+  "git_head": "710a1346ac5f55fefe05e7eeafabd077653dd074",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/flatten-vertex-data@1.0.2/LICENSE.md",
+      "source_member": "package/LICENSE.md",
+      "sha256": "fb415b6d1ed5f9dd12004f39df586bffd98cb56b2dc26ffe1016adc4c6c46f9b",
+      "bytes": 1073
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

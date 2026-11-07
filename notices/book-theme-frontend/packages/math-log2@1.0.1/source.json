@@ -1,0 +1,29 @@
+{
+  "name": "math-log2",
+  "version": "1.0.1",
+  "lock_keys": [
+    "math-log2"
+  ],
+  "lock_integrities": [
+    "sha512-9W0yGtkaMAkf74XGYVy4Dqw3YUMnTNB2eeiw9aQbUl4A3KmuCEHTt2DgAB07ENzOYAjsYSAYufkAq0Zd+jU7zA=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/math-log2/1.0.1",
+  "tarball_url": "https://registry.npmjs.org/math-log2/-/math-log2-1.0.1.tgz",
+  "npm_integrity": "sha512-9W0yGtkaMAkf74XGYVy4Dqw3YUMnTNB2eeiw9aQbUl4A3KmuCEHTt2DgAB07ENzOYAjsYSAYufkAq0Zd+jU7zA==",
+  "tarball_sha256": "74b82b6523443a90490474910ac5574edebee0be0f60bf852f5fab520e9f7a70",
+  "declared_license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/sindresorhus/math-log2.git",
+    "type": "git"
+  },
+  "git_head": "dfd89d6223c1577befde9910d95ea6d9efc39203",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/math-log2@1.0.1/license",
+      "source_member": "package/license",
+      "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+      "bytes": 1119
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}

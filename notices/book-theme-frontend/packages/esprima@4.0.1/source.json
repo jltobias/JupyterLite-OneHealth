@@ -1,0 +1,29 @@
+{
+  "name": "esprima",
+  "version": "4.0.1",
+  "lock_keys": [
+    "esprima"
+  ],
+  "lock_integrities": [
+    "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A=="
+  ],
+  "metadata_url": "https://registry.npmjs.org/esprima/4.0.1",
+  "tarball_url": "https://registry.npmjs.org/esprima/-/esprima-4.0.1.tgz",
+  "npm_integrity": "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==",
+  "tarball_sha256": "d8a1910e9cbecc95b4c5df75376c46a7a9261859c294ef91505c1442e093cc74",
+  "declared_license": "BSD-2-Clause",
+  "repository": {
+    "url": "git+https://github.com/jquery/esprima.git",
+    "type": "git"
+  },
+  "git_head": "0ed4b8afdf2abd416f738977672c6232836f410a",
+  "notice_files": [
+    {
+      "path": "notices/book-theme-frontend/packages/esprima@4.0.1/LICENSE.BSD",
+      "source_member": "package/LICENSE.BSD",
+      "sha256": "94bcb9959136723aa4fb36e1a6c4d5c662a2369978cfae344dabfb83ae619e79",
+      "bytes": 1303
+    }
+  ],
+  "coverage": "full notice/license files shipped in exact official npm tarball"
+}
