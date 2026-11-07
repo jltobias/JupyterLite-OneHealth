@@ -9,6 +9,7 @@ project:
   toc:
     - file: book/index.md
     - file: book/agency-perspectives.md
+    - file: book/case-studies.md
     - file: book/methods.md
     - title: Executable lessons
       children:

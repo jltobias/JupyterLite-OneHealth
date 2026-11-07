@@ -1,13 +1,14 @@
 ---
-title: Five agency perspectives
+title: Agency perspectives
 ---
-# Five perspectives on a shared landscape
+# Six perspectives on a shared landscape
 
 These external readings inform original questions. Agency prose, photographs, diagrams and teaching code are not reproduced. The agencies do not endorse this project.
 
 | Perspective | A useful question | What this package cannot supply |
 |---|---|---|
 | **CDC** — [About One Health](https://www.cdc.gov/one-health/about/index.html) | Which human, animal and environmental partners need to investigate an exposure pathway together? | Diagnoses, contact histories, animal surveillance, pathogen identification or transmission evidence. |
+| **EPA** — [Environmental research examples](https://www.epa.gov/one-health/one-health-case-studies-and-examples) | Which measurements, agency partners and boundaries fit a shared question? | Toxin, pathogen, resistance, contaminant or health-outcome measurements. Linked EPA/partner datasets need individual rights and metadata checks. |
 | **WHO** — [One Health](https://www.who.int/health-topics/one-health) | How can sectors and communities define a useful, equitable decision together? | Community priorities, service access, governance arrangements or intervention evaluation. |
 | **NOAA** — [Are all algal blooms harmful?](https://oceanservice.noaa.gov/facts/habharm.html) | What measurements would distinguish aquatic appearance from ecological harm? | Toxins, water chemistry, species identification or illness. A green–NIR index is not a water-safety test. |
 | **USGS** — [Landsat Collection 2 Level-2 products](https://www.usgs.gov/landsat-missions/landsat-collection-2-level-2-science-products) | Which environmental conditions are actually measured, where and with which quality limits? | In-situ validation, exposure pathways or causal health effects. |
@@ -16,6 +17,8 @@ These external readings inform original questions. Agency prose, photographs, di
 NOAA's [requested Climate Program Office resource](https://cpo.noaa.gov/about-noaa-one-health/) was inaccessible during initial review and is retained as a resource, not evidence for claims about its contents. The supplied NASA DEVELOP AGU presentation is listed in [credits](credits.md) as **unused and excluded**. No examples, slides or photographs from it enter the lessons.
 
 ## Global Health
+
+The [CDC/EPA case-study guide](case-studies.md) connects investigations and research examples with existing notebooks. Its original activities extend the five-perspective agency notebook with EPA collaboration, water-monitoring and evidence-planning questions.
 
 Global Health connects environmental evidence to equity, livelihoods, health services and decisions across scales. A map is only one contribution to that work. Ask who helped define the question, whose conditions were measured, who is absent and who can contest the interpretation. No index in this project ranks people or communities by vulnerability.
 

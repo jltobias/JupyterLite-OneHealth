@@ -11,6 +11,8 @@ Begin with [the provenance lesson](../content/00_provenance_profile.ipynb). Then
 
 ## A practical learning path
 
+Use the [CDC/EPA case-study guide](case-studies.md) alongside these lessons to connect real investigations and agency partnerships with your evidence questions.
+
 1. **Locate the evidence.** Identify the study bounds, scene, dates, units and missing values.
 2. **Read the measurements.** Decode quality flags, scale digital numbers, and interpret vegetation, water and surface-temperature proxies.
 3. **Respect the population boundary.** Keep whole-tract counts separate from estimates inside a bounding box.

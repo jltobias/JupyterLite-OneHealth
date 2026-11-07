@@ -12,7 +12,7 @@ class Links(HTMLParser):
    if k in ('href','src') and v:self.links.append(v)
 def main():
  p=argparse.ArgumentParser();p.add_argument('--base-url',default='/JupyterLite-OneHealth');a=p.parse_args();site=ROOT/'_site'
- expected=['index.html','book/index.html','book/methods/index.html','book/agency-perspectives/index.html','book/credits/index.html','lite/lab/index.html','data/manifest.json','data/profile-package.json','notices/index.html','vendor/geotiff.js','vendor/proj4.js']+[f'explorer/{r}/index.html' for r in ('profile','2d','3d','scene','charts','lab')]
+ expected=['index.html','book/index.html','book/methods/index.html','book/agency-perspectives/index.html','book/case-studies/index.html','book/credits/index.html','lite/lab/index.html','data/manifest.json','data/profile-package.json','notices/index.html','vendor/geotiff.js','vendor/proj4.js']+[f'explorer/{r}/index.html' for r in ('profile','2d','3d','scene','charts','lab')]
  for rel in expected:assert (site/rel).is_file(),f'Missing route: {rel}'
  assert not (site/'book/build/_shared/plotly-PQJCFEUX.js').exists(),'Excluded optional payload must not be published'
  for f in [site/'index.html',*list((site/'explorer').rglob('*.html'))]:

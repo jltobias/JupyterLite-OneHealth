@@ -18,6 +18,11 @@ def main():
    if self.prepare_path():super().do_GET()
   def do_HEAD(self):
    if self.prepare_path():super().do_HEAD()
+  def send_header(self,keyword,value):
+   # SimpleHTTPRequestHandler redirects directory links after our prefix strip.
+   if keyword.lower()=='location' and prefix and value.startswith('/') and not value.startswith((prefix+'/', '//')):
+    value=prefix+value
+   super().send_header(keyword,value)
   def end_headers(self):
    self.send_header('Cache-Control','no-store');super().end_headers()
  server=ThreadingHTTPServer(('127.0.0.1',a.port),partial(Handler,directory=str(ROOT/'_site')))
